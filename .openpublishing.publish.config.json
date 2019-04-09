@@ -26,7 +26,7 @@
     "notification_subscribers": [],
     "sync_notification_subscribers": [],
     "branches_to_filter": [
-    "live-sxs",
+    "live",
     "master-sxs"
       ],
     "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/learn-bizapps.cs-cz",
@@ -47,7 +47,7 @@
       "url": "https://github.com/MicrosoftDocs/learn-bizapps-pr",
       "branch": "live",
       "branch_mapping": {
-        "live": "live",
+        "live-sxs": "live",
         "master": "master"
       }
     }
