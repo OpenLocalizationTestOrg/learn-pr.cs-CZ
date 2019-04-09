@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.14-knowledge-check
+title: <span data-ttu-id="66efe-101">Prověřte své znalosti</span><span class="sxs-lookup"><span data-stu-id="66efe-101">Check your knowledge</span></span>
+metadata:
+  title: '<span data-ttu-id="66efe-102">Prověrka znalostí: Vytváření složitějších toků pomocí Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="66efe-102">Knowledge check: Build more complex flows with Microsoft Flow</span></span>'
+  description: <span data-ttu-id="66efe-103">Tento kvíz prověří vaše znalosti o vytváření složitějších toků.</span><span class="sxs-lookup"><span data-stu-id="66efe-103">This quiz tests your knowledge of how to create more complex flows.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 1fec202a1a12523d44a0f906c0c2ced5f0e62eae
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 4
+quiz:
+  title: '<span data-ttu-id="66efe-104">Prověrka znalostí: Vytváření složitějších toků pomocí Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="66efe-104">Knowledge check: Build more complex flows with Microsoft Flow</span></span>'
+  questions:
+  - content: <span data-ttu-id="66efe-105">K čemu v Microsoft Flow slouží konektory?</span><span class="sxs-lookup"><span data-stu-id="66efe-105">What are connectors used for in Microsoft Flow?</span></span>
+    choices:
+    - content: <span data-ttu-id="66efe-106">Konektory se používají ke spuštění toku.</span><span class="sxs-lookup"><span data-stu-id="66efe-106">Connectors are used to start a flow.</span></span>
+      explanation: <span data-ttu-id="66efe-107">Konektory umožňují připojit se ke službě, jako je Twitter.</span><span class="sxs-lookup"><span data-stu-id="66efe-107">Connectors let you connect to a service like Twitter.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="66efe-108">Konektory umožňují sdílet aplikaci.</span><span class="sxs-lookup"><span data-stu-id="66efe-108">Connectors let you share an app.</span></span>
+      explanation: <span data-ttu-id="66efe-109">Konektory umožňují připojit se ke službě, jako je Twitter.</span><span class="sxs-lookup"><span data-stu-id="66efe-109">Connectors let you connect to a service like Twitter.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="66efe-110">Konektory umožňují připojit se ke službě, jako je Twitter.</span><span class="sxs-lookup"><span data-stu-id="66efe-110">Connectors let you connect to a service like Twitter.</span></span>
+      explanation: <span data-ttu-id="66efe-111">Konektory se používají k připojení ke službám, jako je Twitter.</span><span class="sxs-lookup"><span data-stu-id="66efe-111">Connectors are used to connect to services like Twitter.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="66efe-112">Konektory se používají ke vzájemnému propojení akcí a aktivačních událostí v toku.</span><span class="sxs-lookup"><span data-stu-id="66efe-112">Connectors are used to connect actions and triggers together in a flow.</span></span>
+      explanation: <span data-ttu-id="66efe-113">Konektory se používají k připojení ke službám, jako je Twitter.</span><span class="sxs-lookup"><span data-stu-id="66efe-113">Connectors are used to connect to services like Twitter.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="66efe-114">Jak lze definovat, kdo bude mít oprávnění vytvořit, číst, aktualizovat nebo odstranit instanci toku obchodního procesu?</span><span class="sxs-lookup"><span data-stu-id="66efe-114">How can you define who has privileges to create, read, update, or delete a business process flow instance?</span></span>
+    choices:
+    - content: <span data-ttu-id="66efe-115">Přístupová oprávnění k novým tokům obchodních procesů má jenom správce systému.</span><span class="sxs-lookup"><span data-stu-id="66efe-115">Only a system administrator has access privileges to new business process flows.</span></span>
+      explanation: <span data-ttu-id="66efe-116">Pomocí možnosti Upravit role zabezpečení můžete přiřadit oprávnění i uživatelům, kteří nemusí být správci systému.</span><span class="sxs-lookup"><span data-stu-id="66efe-116">You can assign privileges using Edit Security Roles to users other than a system administrator.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="66efe-117">Přístupová oprávnění k novým tokům obchodních procesů má jenom úpravce systému.</span><span class="sxs-lookup"><span data-stu-id="66efe-117">Only a system customizer has access privileges to new business process flows.</span></span>
+      explanation: <span data-ttu-id="66efe-118">Pomocí možnosti Upravit role zabezpečení můžete přiřadit oprávnění i uživatelům, kteří nemusí být úpravci systému.</span><span class="sxs-lookup"><span data-stu-id="66efe-118">You can assign privileges using Edit Security Roles to users other than a system customizer.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="66efe-119">Aktivujte tok obchodního procesu a pak definujte přístupová oprávnění pro uživatele a správce.</span><span class="sxs-lookup"><span data-stu-id="66efe-119">Activate the business process flow, and then define access privileges for users and administrators.</span></span>
+      explanation: <span data-ttu-id="66efe-120">K přiřazení oprávnění uživatelům můžete použít možnost Upravit role zabezpečení.</span><span class="sxs-lookup"><span data-stu-id="66efe-120">You can assign privileges using Edit Security Roles to users.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="66efe-121">Aktivujte tok obchodního procesu, vyberte Upravit role zabezpečení a definujte, kdo bude mít oprávnění.</span><span class="sxs-lookup"><span data-stu-id="66efe-121">Activate the business process flow, and select Edit Security Roles, and define who will have privileges.</span></span>
+      explanation: <span data-ttu-id="66efe-122">K definování oprávnění pro uživatele můžete použít možnost Upravit role zabezpečení.</span><span class="sxs-lookup"><span data-stu-id="66efe-122">You can use Edit Security Roles to define privileges to users.</span></span>
+      isCorrect: true

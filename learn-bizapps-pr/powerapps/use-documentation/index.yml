@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-bizapps.use-documentation
+metadata:
+  title: Dokumentace a testování aplikace PowerApps – Další informace
+  description: Tady najdete informace, jak zdokumentovat a otestovat aplikaci PowerApps.
+  ms.date: 02/14/2019
+  author: kevsch
+  ms.author: kevsch
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 4c8c47fa2b6eb118ad021ddc470b336bbeb68a51
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695661"
+title: Dokumentace a testování aplikace PowerApps
+summary: V tomto modulu se dozvíte osvědčené postupy týkající se testování a dokumentování aplikace PowerApps.
+abstract: "V tomto modulu: \n- Zjistíte další informace o různých typech testovacích plánů a komponentách dobrého testovacího plánu.\n- Identifikujete a proberete nástroje pro optimalizaci a ladění výkonu.\n- Zjistíte více informací o výhodách dokumentování vaší aplikace.\n"
+prerequisites: Žádné
+iconUrl: /learn/achievements/use-documentation-power-platform.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+- bizapps
+- power-platform
+units:
+- learn-bizapps.use-documentation.01-create-test-plans
+- learn-bizapps.use-documentation.02-user-interface-testing
+- learn-bizapps.use-documentation.03-optimize-performance
+- learn-bizapps.use-documentation.04-engage-customer
+- learn-bizapps.use-documentation.05-knowledge-check
+- learn-bizapps.use-documentation.06-summary
+badge:
+  uid: learn.use-documentation-power-platform.badge

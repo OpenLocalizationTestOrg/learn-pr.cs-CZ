@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.get-started-with-power-bi
+metadata:
+  title: Začínáme se sestavováním pomocí Power BI – Learn
+  description: Power BI je kolekce softwarových služeb a aplikací, které umožňují připojit se k nejrůznějším zdrojům dat a vytvářet zajímavé vizuály a sestavy. Můžete využívat výhod toho, že tyto sestavy obdržíte, nebo je můžete sdílet s ostatními ve vaší organizaci i mimo ni. Seznamte se se základy Power BI, jak tyto služby a aplikace spolu fungují a jak je můžete využít k vytváření nebo prohlížení zajímavých vizuálů a analýz na základě vašich dat.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: 6534ff644fee7b576818982769bc7bd7dd7606c5
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697225"
+title: Začínáme se sestavováním pomocí Power BI
+summary: Poznejte Power BI s jeho stavebními prvky a zjistěte, jak fungují.
+abstract: "V tomto modulu: \n- Zjistíte, jak spolupracují služby a aplikace Power BI.\n- Prozkoumáte, jak může Power BI zvýšit efektivitu vaší firmy.\n- Zjistíte, jak vytvářet zajímavé vizuály a sestavy.\n"
+prerequisites: Žádné
+iconUrl: /learn/achievements/get-started-with-power-bi.svg
+ratingEnabled: true
+levels:
+- beginner
+roles:
+- business-user
+- business-analyst
+products:
+- power-platform
+- power-bi
+- bizapps
+- bizapps-power-bi
+units:
+- learn-bizapps.get-started-with-power-bi.1-introduction
+- learn-bizapps.get-started-with-power-bi.2-using-power-bi
+- learn-bizapps.get-started-with-power-bi.3-building-blocks-of-power-bi
+- learn-bizapps.get-started-with-power-bi.4-exercise-touring-and-using-power-bi
+- learn-bizapps.get-started-with-power-bi.5-summary-cleanup
+- learn-bizapps.get-started-with-power-bi.6-get-started-with-power-bi-quiz
+badge:
+  uid: learn.get-started-with-power-bi.badge

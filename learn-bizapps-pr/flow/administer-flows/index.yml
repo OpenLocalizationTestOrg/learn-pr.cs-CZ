@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.flow-administration
+metadata:
+  title: Centrum pro správu slouží ke správě prostředí a zásad pro data v Microsoft Flow.
+  description: Správci tenanta a prostředí pomocí centra pro správu Microsoft Flow spravují zásady pro data a prostředí pro nasazení Microsoft Flow.
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: ce464f2418ac1e0cd03d4c1f94240061732122c4
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697740"
+title: Centrum pro správu slouží ke správě prostředí a zásad pro data v Microsoft Flow.
+summary: Správci tenanta a prostředí pomocí centra pro správu Microsoft Flow spravují zásady pro data a prostředí pro nasazení Microsoft Flow.
+abstract: >
+  V tomto modulu zjistíte:
+
+  - Další informace o Centru pro správu
+
+  - Jak importovat a exportovat toky
+
+  - Jak sdílet toky
+prerequisites: >
+  - Být zaregistrovaný v Microsoft Flow
+iconUrl: /learn/achievements/administer-flows.svg
+ratingEnabled: true
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- flow
+- bizapps
+- bizapps-flow
+units:
+- learn-bizapps.flow-administration.1-introduction
+- learn-bizapps.flow-administration.2-flow-export-import
+- learn-bizapps.flow-administration.3-share-flows
+- learn-bizapps.flow-administration.4-knowledge-check
+- learn-bizapps.flow-administration.5-summary
+badge:
+  uid: learn.flow-administration.badge

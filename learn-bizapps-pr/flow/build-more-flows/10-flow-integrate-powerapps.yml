@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.10-flow-integrate-powerapps
+title: <span data-ttu-id="317e5-101">Integrace služeb PowerApps, Flow a SharePoint</span><span class="sxs-lookup"><span data-stu-id="317e5-101">Integrate PowerApps, Flow, and SharePoint</span></span>
+metadata:
+  title: <span data-ttu-id="317e5-102">Integrace služeb PowerApps, Flow a SharePoint</span><span class="sxs-lookup"><span data-stu-id="317e5-102">Integrate PowerApps, Flow, and SharePoint</span></span>
+  description: <span data-ttu-id="317e5-103">Přečtěte si, jak integrovat PowerApps, Flow a SharePoint do řešení, které umožňuje efektivně spravovat obchodní procesy a informace.</span><span class="sxs-lookup"><span data-stu-id="317e5-103">Learn how to integrate PowerApps, Flow, and SharePoint for a solution to efficiently manage business processes and information</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 577ca46c0b7cae64c69658a185ae888e4be22cfd
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 8
+content: '[!include[](includes/10-flow-integrate-powerapps.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.shape-data.4-modify-columns
+title: <span data-ttu-id="cc6d4-101">Úpravy sloupců ze zdroje dat</span><span class="sxs-lookup"><span data-stu-id="cc6d4-101">Modify the columns from your data source</span></span>
+metadata:
+  title: <span data-ttu-id="cc6d4-102">Úpravy sloupců ze zdroje dat</span><span class="sxs-lookup"><span data-stu-id="cc6d4-102">Modify the columns from your data source</span></span>
+  description: <span data-ttu-id="cc6d4-103">Úpravy sloupců ze zdroje dat</span><span class="sxs-lookup"><span data-stu-id="cc6d4-103">Modify the columns from your data source</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 70c9a5b2984664b509495b69704c2e93605f97af
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265885"
+durationInMinutes: 12
+content: '[!include[](includes/4-modify-columns.md)]'

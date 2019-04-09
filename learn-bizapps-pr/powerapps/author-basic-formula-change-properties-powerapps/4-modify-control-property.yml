@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.4-modify-control-property
+title: <span data-ttu-id="0a643-101">Použití ovládacího prvku ke změně vlastnosti jiných ovládacích prvků</span><span class="sxs-lookup"><span data-stu-id="0a643-101">Use a control to modify the property of other controls</span></span>
+metadata:
+  title: <span data-ttu-id="0a643-102">Použití ovládacího prvku ke změně vlastnosti jiných ovládacích prvků</span><span class="sxs-lookup"><span data-stu-id="0a643-102">Use a control to modify the property of other controls</span></span>
+  description: <span data-ttu-id="0a643-103">Použití ovládacího prvku ke změně vlastnosti jiných ovládacích prvků v PowerApps</span><span class="sxs-lookup"><span data-stu-id="0a643-103">Use a control to modify the property of other controls in PowerApps</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 9d79b85ccb95c4c79840cf58c36b143c563bd523
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265881"
+durationInMinutes: 5
+content: '[!include[](includes/4-modify-control-property.md)]'

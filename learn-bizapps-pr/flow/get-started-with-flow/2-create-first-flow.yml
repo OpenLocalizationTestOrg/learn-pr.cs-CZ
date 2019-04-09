@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.2-flow-create-first
+title: <span data-ttu-id="1d207-101">Vytvoření prvního toku</span><span class="sxs-lookup"><span data-stu-id="1d207-101">Create your first flow</span></span>
+metadata:
+  title: <span data-ttu-id="1d207-102">Vytvoření prvního toku</span><span class="sxs-lookup"><span data-stu-id="1d207-102">Create your first flow</span></span>
+  description: <span data-ttu-id="1d207-103">Zjistěte, jak vytvořit první tok.</span><span class="sxs-lookup"><span data-stu-id="1d207-103">Learn how to create your first flow.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 5bcdbde795a474e6e2d6de04bf25dcc42d2ce2ae
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 12
+content: '[!include[](includes/2-flow-create-first.md)]'

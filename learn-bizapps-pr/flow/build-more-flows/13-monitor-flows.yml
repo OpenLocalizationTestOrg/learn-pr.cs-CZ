@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.13-monitor-flows
+title: <span data-ttu-id="18304-101">Monitorování toků</span><span class="sxs-lookup"><span data-stu-id="18304-101">Monitor flows</span></span>
+metadata:
+  title: <span data-ttu-id="18304-102">Monitorování toků</span><span class="sxs-lookup"><span data-stu-id="18304-102">Monitor flows</span></span>
+  description: <span data-ttu-id="18304-103">Naučte se monitorovat aktivitu toku, abyste dokázali zjistit problémy s používáním.</span><span class="sxs-lookup"><span data-stu-id="18304-103">Learn how to monitor flow activity to spot usage issues.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 2c67598efc35da684b8bdd9d7e8cea7ed239927a
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 6
+content: '[!include[](includes/13-monitor-flows.md)]'

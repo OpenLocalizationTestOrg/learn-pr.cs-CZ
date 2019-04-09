@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.write-data.2-form-modes
+title: <span data-ttu-id="a3f11-101">Režimy formuláře</span><span class="sxs-lookup"><span data-stu-id="a3f11-101">Form modes</span></span>
+metadata:
+  title: <span data-ttu-id="a3f11-102">Režimy formuláře</span><span class="sxs-lookup"><span data-stu-id="a3f11-102">Form modes</span></span>
+  description: <span data-ttu-id="a3f11-103">Režimy formuláře</span><span class="sxs-lookup"><span data-stu-id="a3f11-103">Form modes</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 599c5f403b3d833da9654dc58d3c44f671a3072a
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265877"
+durationInMinutes: 7
+content: '[!include[](includes/2-form-modes.md)]'

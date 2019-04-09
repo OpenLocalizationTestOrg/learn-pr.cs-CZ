@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.tables-and-records.4-filter-your-table
+title: <span data-ttu-id="6a44d-101">Filtrování tabulky</span><span class="sxs-lookup"><span data-stu-id="6a44d-101">Filter your table</span></span>
+metadata:
+  title: <span data-ttu-id="6a44d-102">Filtrování tabulky</span><span class="sxs-lookup"><span data-stu-id="6a44d-102">Filter your table</span></span>
+  description: <span data-ttu-id="6a44d-103">Filtrování tabulky</span><span class="sxs-lookup"><span data-stu-id="6a44d-103">Filter your table</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: bf56d852fba878f02d8faf9c1192a58280b5c6ef
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265888"
+durationInMinutes: 3
+content: '[!include[](includes/4-filter-your-table.md)]'

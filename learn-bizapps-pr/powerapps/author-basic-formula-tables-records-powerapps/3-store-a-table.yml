@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.tables-and-records.3-store-a-table
+title: <span data-ttu-id="cd6d1-101">Uložení tabulky</span><span class="sxs-lookup"><span data-stu-id="cd6d1-101">Store a table</span></span>
+metadata:
+  title: <span data-ttu-id="cd6d1-102">Uložení tabulky</span><span class="sxs-lookup"><span data-stu-id="cd6d1-102">Store a table</span></span>
+  description: <span data-ttu-id="cd6d1-103">Uložení tabulky</span><span class="sxs-lookup"><span data-stu-id="cd6d1-103">Store a table</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: edd8b7060d032c4275904490fccfde18306639f2
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265888"
+durationInMinutes: 5
+content: '[!include[](includes/3-store-a-table.md)]'

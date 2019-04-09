@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.1-formula-overview
+title: <span data-ttu-id="9c09e-101">Přehled vzorců</span><span class="sxs-lookup"><span data-stu-id="9c09e-101">Formulas overview</span></span>
+metadata:
+  title: <span data-ttu-id="9c09e-102">Přehled vzorců</span><span class="sxs-lookup"><span data-stu-id="9c09e-102">Formulas overview</span></span>
+  description: <span data-ttu-id="9c09e-103">Přehled vzorců</span><span class="sxs-lookup"><span data-stu-id="9c09e-103">Formulas overview</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 625527a0892f95dc6fd1f6cd201a04c32a964dca
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265881"
+durationInMinutes: 8
+content: '[!include[](includes/1-formula-overview.md)]'

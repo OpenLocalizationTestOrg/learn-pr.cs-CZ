@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-behaviors.7-knowledge-check
+metadata:
+  title: <span data-ttu-id="201cc-101">Prověrka znalostí o vytvoření základního vzorce pro změnu chování v aplikaci plátna PowerApps</span><span class="sxs-lookup"><span data-stu-id="201cc-101">Author a basic formula to change behaviors in a PowerApps canvas app knowledge check</span></span>
+  description: <span data-ttu-id="201cc-102">Prověrka znalostí o vytvoření základního vzorce pro změnu chování v aplikaci plátna PowerApps</span><span class="sxs-lookup"><span data-stu-id="201cc-102">Author a basic formula to change behaviors in a PowerApps canvas app knowledge check</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: dca025325bbf91d58a40c62d47d8c7e763a21895
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265884"
+title: <span data-ttu-id="201cc-103">Prověřte své znalosti</span><span class="sxs-lookup"><span data-stu-id="201cc-103">Check your knowledge</span></span>
+durationInMinutes: 6
+quiz:
+  title: <span data-ttu-id="201cc-104">Prověrka znalostí o vytvoření základního vzorce pro změnu chování v aplikaci plátna PowerApps</span><span class="sxs-lookup"><span data-stu-id="201cc-104">Author a basic formula to change behaviors in a PowerApps canvas app knowledge check</span></span>
+  questions:
+  - content: <span data-ttu-id="201cc-105">Jaká je správná syntaxe odkazu na hodnotu true ve vzorci nebo vlastnosti ovládacího prvku?</span><span class="sxs-lookup"><span data-stu-id="201cc-105">What is the correct syntax for reference true in a formula or control property?</span></span>
+    choices:
+    - content: <span data-ttu-id="201cc-106">Správná syntaxe je TRUE.</span><span class="sxs-lookup"><span data-stu-id="201cc-106">The correct syntax is TRUE</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-107">Správná syntaxe je true.</span><span class="sxs-lookup"><span data-stu-id="201cc-107">The correct syntax is true</span></span>
+    - content: <span data-ttu-id="201cc-108">Správná syntaxe je True.value</span><span class="sxs-lookup"><span data-stu-id="201cc-108">The correct syntax is True.value</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-109">Správná syntaxe je true.</span><span class="sxs-lookup"><span data-stu-id="201cc-109">The correct syntax is true</span></span>
+    - content: <span data-ttu-id="201cc-110">Správná syntaxe je true.</span><span class="sxs-lookup"><span data-stu-id="201cc-110">The correct syntax is true</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="201cc-111">Správná syntaxe je true.</span><span class="sxs-lookup"><span data-stu-id="201cc-111">The correct syntax is true</span></span>
+    - content: <span data-ttu-id="201cc-112">Správná syntaxe je True.</span><span class="sxs-lookup"><span data-stu-id="201cc-112">The correct syntax is True</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-113">Správná syntaxe je true.</span><span class="sxs-lookup"><span data-stu-id="201cc-113">The correct syntax is true</span></span>
+  - content: <span data-ttu-id="201cc-114">Jak se chová ovládací prvek, který není na obrazovce viditelný?</span><span class="sxs-lookup"><span data-stu-id="201cc-114">What is the behavior of a control that is not visible on the screen?</span></span>
+    choices:
+    - content: <span data-ttu-id="201cc-115">Skryté ovládací prvky nedělají nic a neovlivňují aplikaci žádným způsobem.</span><span class="sxs-lookup"><span data-stu-id="201cc-115">Hidden controls do nothing and don't affect the app in any way.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-116">Skryté ovládací prvky pracují stejně jako viditelné, přestože nejsou zobrazené.</span><span class="sxs-lookup"><span data-stu-id="201cc-116">Hidden controls process the same as a visible control, even though they are not shown.</span></span>
+    - content: <span data-ttu-id="201cc-117">Skryté ovládací prvky pracují stejně jako viditelné, přestože nejsou zobrazené.</span><span class="sxs-lookup"><span data-stu-id="201cc-117">Hidden controls process the same as a visible control, even though they are not shown.</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="201cc-118">Skryté ovládací prvky pracují stejně jako viditelné, přestože nejsou zobrazené.</span><span class="sxs-lookup"><span data-stu-id="201cc-118">Hidden controls process the same as a visible control, even though they are not shown.</span></span>
+    - content: <span data-ttu-id="201cc-119">Ovládací prvky se v PowerApps nedají skrýt.</span><span class="sxs-lookup"><span data-stu-id="201cc-119">It is not possible to hide a control in PowerApps.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-120">Skryté ovládací prvky pracují stejně jako viditelné, přestože nejsou zobrazené.</span><span class="sxs-lookup"><span data-stu-id="201cc-120">Hidden controls process the same as a visible control, even though they are not shown.</span></span>
+    - content: <span data-ttu-id="201cc-121">Skryté ovládací prvky se zpracovávají jenom v případě, že tvůrce aplikace nastavil vlastnost ProcessHidden.</span><span class="sxs-lookup"><span data-stu-id="201cc-121">Hidden controls are processed only if the app maker has set the ProcessHidden property.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-122">Skryté ovládací prvky pracují stejně jako viditelné, přestože nejsou zobrazené.</span><span class="sxs-lookup"><span data-stu-id="201cc-122">Hidden controls process the same as a visible control, even though they are not shown.</span></span>
+  - content: <span data-ttu-id="201cc-123">Co se stane, když vlastnost DisplayMode ovládacího prvku změníte z hodnoty Edit na Disabled?</span><span class="sxs-lookup"><span data-stu-id="201cc-123">What happens when you change the DisplayMode of a control from Edit to Disabled?</span></span>
+    choices:
+    - content: <span data-ttu-id="201cc-124">Ovládací prvek bude vypadat jinak, ale bude umožňovat stejné interakce uživatele.</span><span class="sxs-lookup"><span data-stu-id="201cc-124">The control looks different but allows for the same interactions by the user.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-125">Ovládací prvek bude vypadat jinak a bude umožňovat jiné interakce uživatele.</span><span class="sxs-lookup"><span data-stu-id="201cc-125">The control looks different and allows for different interactions by the user.</span></span>
+    - content: <span data-ttu-id="201cc-126">Ovládací prvek bude vypadat stejně, ale bude umožňovat jiné interakce uživatele.</span><span class="sxs-lookup"><span data-stu-id="201cc-126">The control looks the same but allows for different interactions by the user.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-127">Ovládací prvek bude vypadat jinak a bude umožňovat jiné interakce uživatele.</span><span class="sxs-lookup"><span data-stu-id="201cc-127">The control looks different and allows for different interactions by the user.</span></span>
+    - content: <span data-ttu-id="201cc-128">Ovládací prvek bude vypadat jinak a bude umožňovat jiné interakce uživatele.</span><span class="sxs-lookup"><span data-stu-id="201cc-128">The control looks different and allows for different interactions by the user.</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="201cc-129">Ovládací prvek bude vypadat jinak a bude umožňovat jiné interakce uživatele.</span><span class="sxs-lookup"><span data-stu-id="201cc-129">The control looks different and allows for different interactions by the user.</span></span>
+    - content: <span data-ttu-id="201cc-130">Vlastnost Visible ovládacího prvku se nastaví na true nebo false.</span><span class="sxs-lookup"><span data-stu-id="201cc-130">The control's Visible property is set to true or false.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="201cc-131">Ovládací prvek bude vypadat jinak a bude umožňovat jiné interakce uživatele.</span><span class="sxs-lookup"><span data-stu-id="201cc-131">The control looks different and allows for different interactions by the user.</span></span>

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-your-first-report.1-introduction
+metadata:
+  title: <span data-ttu-id="1d942-101">Úvod</span><span class="sxs-lookup"><span data-stu-id="1d942-101">Introduction</span></span>
+  description: <span data-ttu-id="1d942-102">Úvod</span><span class="sxs-lookup"><span data-stu-id="1d942-102">Introduction</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 2191ee9e24f3db66934c5706269dc1bde21427e5
+  ms.sourcegitcommit: cc419b18821783e2dffd74123baf355c1ef97243
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/14/2019
+  ms.locfileid: "57806213"
+title: <span data-ttu-id="1d942-103">Úvod</span><span class="sxs-lookup"><span data-stu-id="1d942-103">Introduction</span></span>
+durationInMinutes: 3
+content: '[!include[](includes/1-introduction.md)]'

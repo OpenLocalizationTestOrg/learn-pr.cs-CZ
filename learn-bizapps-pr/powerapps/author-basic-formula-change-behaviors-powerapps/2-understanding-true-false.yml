@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-behaviors.2-understanding-true-false
+title: <span data-ttu-id="0107a-101">Vysvětlení hodnot true a false</span><span class="sxs-lookup"><span data-stu-id="0107a-101">Understanding true and false</span></span>
+metadata:
+  title: <span data-ttu-id="0107a-102">Vysvětlení hodnot true a false</span><span class="sxs-lookup"><span data-stu-id="0107a-102">Understanding true and false</span></span>
+  description: <span data-ttu-id="0107a-103">Vysvětlení hodnot true a false</span><span class="sxs-lookup"><span data-stu-id="0107a-103">Understanding true and false</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d5c53e18d1b25a060eccecfa36e6e5a337041165
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265884"
+durationInMinutes: 7
+content: '[!include[](includes/2-understanding-true-false.md)]'

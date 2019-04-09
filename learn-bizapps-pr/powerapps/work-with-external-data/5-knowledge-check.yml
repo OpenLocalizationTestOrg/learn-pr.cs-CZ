@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-external-data.5-knowledge-check
+metadata:
+  title: <span data-ttu-id="7f1c0-101">Prověrka znalostí pro práci s externími daty</span><span class="sxs-lookup"><span data-stu-id="7f1c0-101">Work with external data knowledge check</span></span>
+  description: <span data-ttu-id="7f1c0-102">Prověrka znalostí pro práci s externími daty</span><span class="sxs-lookup"><span data-stu-id="7f1c0-102">Work with external data knowledge check</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 50815321ab4e86df5aad0c84ffd55a22f5c8d2df
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265880"
+title: <span data-ttu-id="7f1c0-103">Prověřte své znalosti</span><span class="sxs-lookup"><span data-stu-id="7f1c0-103">Check your knowledge</span></span>
+durationInMinutes: 6
+quiz:
+  title: <span data-ttu-id="7f1c0-104">Prověrka znalostí pro práci s externími daty</span><span class="sxs-lookup"><span data-stu-id="7f1c0-104">Work with external data knowledge check</span></span>
+  questions:
+  - content: <span data-ttu-id="7f1c0-105">Který ovládací prvek byste u organizace použili k zobrazení seznamu všech žádostí o registraci?</span><span class="sxs-lookup"><span data-stu-id="7f1c0-105">Which control would you use to display a list of all the onboarding requests for an organization?</span></span>
+    choices:
+    - content: <span data-ttu-id="7f1c0-106">Tlačítko</span><span class="sxs-lookup"><span data-stu-id="7f1c0-106">Button</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="7f1c0-107">Ovládací prvek, který byste měli použít, je Galerie.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-107">The Gallery control would be the control to use.</span></span>
+    - content: <span data-ttu-id="7f1c0-108">Formulář</span><span class="sxs-lookup"><span data-stu-id="7f1c0-108">Form</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="7f1c0-109">Ovládací prvek, který byste měli použít, je Galerie.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-109">The Gallery control would be the control to use.</span></span>
+    - content: <span data-ttu-id="7f1c0-110">Galerie</span><span class="sxs-lookup"><span data-stu-id="7f1c0-110">Gallery</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="7f1c0-111">Ovládací prvek, který byste měli použít, je Galerie.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-111">The Gallery control would be the control to use.</span></span>
+    - content: <span data-ttu-id="7f1c0-112">Zaškrtávací políčko</span><span class="sxs-lookup"><span data-stu-id="7f1c0-112">Check box</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="7f1c0-113">Ovládací prvek, který byste měli použít, je Galerie.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-113">The Gallery control would be the control to use.</span></span>
+  - content: <span data-ttu-id="7f1c0-114">Kterou z následujících funkcí použijete v aplikaci k uložení tabulky dat pro dočasné použití?</span><span class="sxs-lookup"><span data-stu-id="7f1c0-114">To store a table of data for temporary use in your app you can use which of the following functions?</span></span>
+    choices:
+    - content: <span data-ttu-id="7f1c0-115">Collect</span><span class="sxs-lookup"><span data-stu-id="7f1c0-115">Collect</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="7f1c0-116">K uložení tabulky dat pro dočasné použití se používá funkce Collect.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-116">Collect can be used to store a table of data for temp use.</span></span>
+    - content: <span data-ttu-id="7f1c0-117">TempTable</span><span class="sxs-lookup"><span data-stu-id="7f1c0-117">TempTable</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="7f1c0-118">K uložení tabulky dat pro dočasné použití se používá funkce Collect.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-118">Collect can be used to store a table of data for temp use.</span></span>
+    - content: <span data-ttu-id="7f1c0-119">Table</span><span class="sxs-lookup"><span data-stu-id="7f1c0-119">Table</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="7f1c0-120">K uložení tabulky dat pro dočasné použití se používá funkce Collect.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-120">Collect can be used to store a table of data for temp use.</span></span>
+    - content: <span data-ttu-id="7f1c0-121">Žádnou, na zdroj dat musíte vždy odkázat přímo.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-121">None, you must always directly reference your data source.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="7f1c0-122">K uložení tabulky dat pro dočasné použití se používá funkce Collect.</span><span class="sxs-lookup"><span data-stu-id="7f1c0-122">Collect can be used to store a table of data for temp use.</span></span>

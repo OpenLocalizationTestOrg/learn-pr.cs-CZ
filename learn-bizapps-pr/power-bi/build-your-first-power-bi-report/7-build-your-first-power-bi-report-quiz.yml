@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi.7-build-your-first-power-bi-report-quiz
+metadata:
+  title: '<span data-ttu-id="83221-101">Prověrka znalostí: Vytvoření první sestavy Power BI</span><span class="sxs-lookup"><span data-stu-id="83221-101">Knowledge check: Build your first Power BI report</span></span>'
+  description: <span data-ttu-id="83221-102">Tato prověrka znalostí prověří vaše znalosti týkající se vytváření sestav.</span><span class="sxs-lookup"><span data-stu-id="83221-102">This knowledge check tests your knowledge of how to create reports.</span></span>
+  ms.date: 02/01/2019
+  author: davidiseminger
+  ms.author: davidi
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 391548935314835fe3aab0b77a276ffb6aa3af55
+  ms.sourcegitcommit: cc419b18821783e2dffd74123baf355c1ef97243
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/14/2019
+  ms.locfileid: "57806213"
+title: <span data-ttu-id="83221-103">Zkontrolujte své znalosti</span><span class="sxs-lookup"><span data-stu-id="83221-103">Check your knowledge</span></span>
+durationInMinutes: 10
+quiz:
+  title: '<span data-ttu-id="83221-104">Prověrka znalostí: Vytvoření první sestavy Power BI</span><span class="sxs-lookup"><span data-stu-id="83221-104">Knowledge check: Build your first Power BI report</span></span>'
+  questions:
+  - content: <span data-ttu-id="83221-105">Který z následujících nástrojů umožňuje formovat zdroje dat?</span><span class="sxs-lookup"><span data-stu-id="83221-105">Which of the following tools let you shape data sources?</span></span>
+    choices:
+    - content: <span data-ttu-id="83221-106">Power BI Gateway.</span><span class="sxs-lookup"><span data-stu-id="83221-106">The Power BI Gateway.</span></span>
+      explanation: <span data-ttu-id="83221-107">Jako nástroj k formování a transformaci dat se používá Editor Power Query.</span><span class="sxs-lookup"><span data-stu-id="83221-107">The Power Query Editor is the tool used to shape and transform data.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="83221-108">Zobrazení relací v Power BI Desktopu.</span><span class="sxs-lookup"><span data-stu-id="83221-108">The Relationships view in Power BI Desktop.</span></span>
+      explanation: <span data-ttu-id="83221-109">Jako nástroj k formování a transformaci dat se používá Editor Power Query.</span><span class="sxs-lookup"><span data-stu-id="83221-109">The Power Query Editor is the tool used to shape and transform data.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="83221-110">Portál pro správu Power BI.</span><span class="sxs-lookup"><span data-stu-id="83221-110">The Power BI admin portal.</span></span>
+      explanation: <span data-ttu-id="83221-111">Jako nástroj k formování a transformaci dat se používá Editor Power Query.</span><span class="sxs-lookup"><span data-stu-id="83221-111">The Power Query Editor is the tool used to shape and transform data.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="83221-112">Buď Editor Power Query v Power BI Desktopu, nebo ve službě Power BI.</span><span class="sxs-lookup"><span data-stu-id="83221-112">Power Query Editor in either Power BI Desktop or Power BI Service.</span></span>
+      explanation: <span data-ttu-id="83221-113">Jako nástroj k formování a transformaci dat se používá Editor Power Query.</span><span class="sxs-lookup"><span data-stu-id="83221-113">The Power Query Editor is the tool used to shape and transform data.</span></span>
+      isCorrect: true
+  - content: <span data-ttu-id="83221-114">Které z následujících tvrzení o formování dat v Power BI Desktopu je pravdivé?</span><span class="sxs-lookup"><span data-stu-id="83221-114">Which of the following statements is true about shaping data with Power BI Desktop?</span></span>
+    choices:
+    - content: <span data-ttu-id="83221-115">Nezáleží na pořadí, ve kterém data formujete nebo transformujete, výsledek je vždycky stejný.</span><span class="sxs-lookup"><span data-stu-id="83221-115">The order in which you shape or transform data doesn't matter, it all comes out the same.</span></span>
+      explanation: <span data-ttu-id="83221-116">Na pořadí operací formování záleží a výsledná data se mohou lišit v závislosti na pořadí, ve kterém se jednotlivé kroky provedou.</span><span class="sxs-lookup"><span data-stu-id="83221-116">The order of shaping operations does matter, and the data outcomes may be different based on which steps come before or after one another.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="83221-117">Při formování a transformaci dat v Power BI Desktopu zůstávají zdrojová data beze změny.</span><span class="sxs-lookup"><span data-stu-id="83221-117">When shaping or transforming data in Power BI Desktop, the source data remains unchanged.</span></span>
+      explanation: <span data-ttu-id="83221-118">To je pravda – zdrojová data zůstávají nezměněná a veškeré formování probíhá nad daty přenesenými do Power BI (nebo nad daty, ke kterým Power BI přistupuje).</span><span class="sxs-lookup"><span data-stu-id="83221-118">This is true - source data remains unchanged, and all data shaping occurs on the data brought into (or accessed by) Power BI.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="83221-119">Při formování a transformaci dat v Power BI Desktopu se zdrojová data také formují a transformují.</span><span class="sxs-lookup"><span data-stu-id="83221-119">When shaping or transforming data in Power BI Desktop, the source data is also shaped and transformed.</span></span>
+      explanation: <span data-ttu-id="83221-120">Kdykoli se připojíte k datům v Power BI Desktopu, zdrojová data zůstanou beze změny a veškeré formování se provádí nad daty přenesenými do Power BI.</span><span class="sxs-lookup"><span data-stu-id="83221-120">Whenever you connect to data in Power BI Desktop, the source data remains unchanged, and any shaping is done on the data brought into Power BI.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="83221-121">Jaká metoda se doporučuje pro sdílení sestav?</span><span class="sxs-lookup"><span data-stu-id="83221-121">What is the recommended method to share your reports?</span></span>
+    choices:
+    - content: <span data-ttu-id="83221-122">Zkopírujete soubor .PBIX do určité složky a spolupracovníkům poskytnete k této složce přístup.</span><span class="sxs-lookup"><span data-stu-id="83221-122">Copy the .PBIX file to a file folder, and give coworkers access to that folder.</span></span>
+      explanation: <span data-ttu-id="83221-123">Soubor Power BI Desktopu (soubor .PBIX) sice můžete sdílet umístěním do sdílené složky, ale metodou doporučenou pro sdílení sestav je publikování do služby Power BI.</span><span class="sxs-lookup"><span data-stu-id="83221-123">While you can share a Power BI Desktop file (a .PBIX file) by putting it on a share, the recommended method to share reports is to publish them to the Power BI service.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="83221-124">Publikujete je do služby Power BI.</span><span class="sxs-lookup"><span data-stu-id="83221-124">Publish them to the Power BI service.</span></span>
+      explanation: <span data-ttu-id="83221-125">Publikování sestav do služby Power BI je doporučenou metodou pro jejich sdílení s ostatními.</span><span class="sxs-lookup"><span data-stu-id="83221-125">Publishing your reports to the Power BI service is the recommended method to share your reports with others.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="83221-126">Vytvoříte soubor PDF sestavy a nasdílíte ho s ostatními.</span><span class="sxs-lookup"><span data-stu-id="83221-126">Create a PDF of the report, and share the PDF with others.</span></span>
+      explanation: <span data-ttu-id="83221-127">Ze sestav Power BI můžete vytvářet soubory PDF a sdílet je s ostatními uživateli.</span><span class="sxs-lookup"><span data-stu-id="83221-127">You can create PDFs of Power BI reports, and share them with others.</span></span> <span data-ttu-id="83221-128">Ale metodou doporučenou pro sdílení sestav je publikování do služby Power BI.</span><span class="sxs-lookup"><span data-stu-id="83221-128">However, the recommended method to share reports is to publish them to the Power BI service.</span></span>
+      isCorrect: false

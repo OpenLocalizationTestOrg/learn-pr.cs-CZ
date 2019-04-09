@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.7-knowledge-check
+metadata:
+  title: <span data-ttu-id="98ccc-101">Prověrka znalostí k vytvoření základního vzorce pro změnu vlastností v aplikaci plátna PowerApps</span><span class="sxs-lookup"><span data-stu-id="98ccc-101">Author a basic formula to change properties in a canvas app in PowerApps knowledge check</span></span>
+  description: <span data-ttu-id="98ccc-102">Prověrka znalostí k vytvoření základního vzorce pro změnu vlastností v aplikaci plátna PowerApps</span><span class="sxs-lookup"><span data-stu-id="98ccc-102">Author a basic formula to change properties in a canvas app in PowerApps knowledge check</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 357eb4c6063febc87366040c485c348d75013ea2
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265881"
+title: <span data-ttu-id="98ccc-103">Prověřte své znalosti</span><span class="sxs-lookup"><span data-stu-id="98ccc-103">Check your knowledge</span></span>
+durationInMinutes: 6
+quiz:
+  title: <span data-ttu-id="98ccc-104">Prověrka znalostí k vytvoření základního vzorce pro změnu vlastností v aplikaci plátna PowerApps</span><span class="sxs-lookup"><span data-stu-id="98ccc-104">Author a basic formula to change properties in a canvas app in PowerApps knowledge check</span></span>
+  questions:
+  - content: <span data-ttu-id="98ccc-105">Které z následujících tvrzení je pravdivé?</span><span class="sxs-lookup"><span data-stu-id="98ccc-105">Which of the following statements is true?</span></span>
+    choices:
+    - content: <span data-ttu-id="98ccc-106">Všechny ovládací prvky mají stejné vlastnosti.</span><span class="sxs-lookup"><span data-stu-id="98ccc-106">All controls have the same properties.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-107">Každý ovládací prvek má sadu jedinečných vlastností, některé vlastnosti jsou ale společné všem ovládacím prvkům.</span><span class="sxs-lookup"><span data-stu-id="98ccc-107">Each control has a set of unique properties, but there are a few common properties every control includes.</span></span>
+    - content: <span data-ttu-id="98ccc-108">Ovládací prvky nemají žádné stejné vlastnosti.</span><span class="sxs-lookup"><span data-stu-id="98ccc-108">Controls do not share any of the same properties.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-109">Každý ovládací prvek má sadu jedinečných vlastností, některé vlastnosti jsou ale společné všem ovládacím prvkům.</span><span class="sxs-lookup"><span data-stu-id="98ccc-109">Each control has a set of unique properties, but there are a few common properties every control includes.</span></span>
+    - content: <span data-ttu-id="98ccc-110">Každý ovládací prvek má sadu jedinečných vlastností, některé vlastnosti jsou ale společné všem ovládacím prvkům, například vlastnosti X a Y.</span><span class="sxs-lookup"><span data-stu-id="98ccc-110">Each control has a set of unique properties, but there are a few common properties every control includes, such as the X and Y properties.</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="98ccc-111">Každý ovládací prvek má sadu jedinečných vlastností, některé vlastnosti jsou ale společné všem ovládacím prvkům.</span><span class="sxs-lookup"><span data-stu-id="98ccc-111">Each control has a set of unique properties, but there are a few common properties every control includes.</span></span>
+    - content: <span data-ttu-id="98ccc-112">Žádná z výše uvedených možností</span><span class="sxs-lookup"><span data-stu-id="98ccc-112">None of the above</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-113">Každý ovládací prvek má sadu jedinečných vlastností, některé vlastnosti jsou ale společné všem ovládacím prvkům.</span><span class="sxs-lookup"><span data-stu-id="98ccc-113">Each control has a set of unique properties, but there are a few common properties every control includes.</span></span>
+  - content: <span data-ttu-id="98ccc-114">Kdybyste chtěli zajistit, aby uživatel nemohl odeslat formulář, dokud nezadá e-mailovou adresu, jakou funkci byste použili v kombinaci s funkcí **If** u vlastnosti **DisplayMode** tlačítka Odeslat?</span><span class="sxs-lookup"><span data-stu-id="98ccc-114">If you wanted to ensure that a user could not submit a form unless they had provided an email address, what function would you use in combination with the **If** function on the **DisplayMode** property of your Submit button?</span></span>
+    choices:
+    - content: <span data-ttu-id="98ccc-115">Lookup</span><span class="sxs-lookup"><span data-stu-id="98ccc-115">Lookup</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-116">Pro tento účel byste měli použít funkci IsMatch.</span><span class="sxs-lookup"><span data-stu-id="98ccc-116">You should use IsMatch to accomplish this.</span></span>
+    - content: <span data-ttu-id="98ccc-117">IsMatch</span><span class="sxs-lookup"><span data-stu-id="98ccc-117">IsMatch</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="98ccc-118">Pro tento účel byste měli použít funkci IsMatch.</span><span class="sxs-lookup"><span data-stu-id="98ccc-118">You should use IsMatch to accomplish this.</span></span>
+    - content: <span data-ttu-id="98ccc-119">EmailMatch</span><span class="sxs-lookup"><span data-stu-id="98ccc-119">EmailMatch</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-120">Pro tento účel byste měli použít funkci IsMatch.</span><span class="sxs-lookup"><span data-stu-id="98ccc-120">You should use IsMatch to accomplish this.</span></span>
+    - content: <span data-ttu-id="98ccc-121">Equal</span><span class="sxs-lookup"><span data-stu-id="98ccc-121">Equal</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-122">Pro tento účel byste měli použít funkci IsMatch.</span><span class="sxs-lookup"><span data-stu-id="98ccc-122">You should use IsMatch to accomplish this.</span></span>
+  - content: <span data-ttu-id="98ccc-123">Která z následujících není výpočetní funkce?</span><span class="sxs-lookup"><span data-stu-id="98ccc-123">Which of the following is not a calculation function?</span></span>
+    choices:
+    - content: <span data-ttu-id="98ccc-124">Sum</span><span class="sxs-lookup"><span data-stu-id="98ccc-124">Sum</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-125">Funkce Sum je výpočetní funkce.</span><span class="sxs-lookup"><span data-stu-id="98ccc-125">Sum is a calculation function.</span></span>
+    - content: <span data-ttu-id="98ccc-126">Subtract</span><span class="sxs-lookup"><span data-stu-id="98ccc-126">Subtract</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="98ccc-127">Funkce Subtract není výpočetní funkce.</span><span class="sxs-lookup"><span data-stu-id="98ccc-127">Subtract is not a calculation function.</span></span>
+    - content: <span data-ttu-id="98ccc-128">Max</span><span class="sxs-lookup"><span data-stu-id="98ccc-128">Max</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-129">Funkce Max je výpočetní funkce.</span><span class="sxs-lookup"><span data-stu-id="98ccc-129">Max is a calculation function.</span></span>
+    - content: <span data-ttu-id="98ccc-130">Average</span><span class="sxs-lookup"><span data-stu-id="98ccc-130">Average</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="98ccc-131">Funkce Average je výpočetní funkce.</span><span class="sxs-lookup"><span data-stu-id="98ccc-131">Average is a calculation function.</span></span>

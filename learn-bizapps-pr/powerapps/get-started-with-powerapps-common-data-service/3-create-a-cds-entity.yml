@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-common-data-service.3-create-a-cds-entity
+title: <span data-ttu-id="de5c6-101">Vytvoření entity Common Data Service</span><span class="sxs-lookup"><span data-stu-id="de5c6-101">Create a Common Data Service entity</span></span>
+metadata:
+  title: <span data-ttu-id="de5c6-102">Vytvoření entity Common Data Service</span><span class="sxs-lookup"><span data-stu-id="de5c6-102">Create a Common Data Service entity</span></span>
+  description: <span data-ttu-id="de5c6-103">Vytvoření entity Common Data Service</span><span class="sxs-lookup"><span data-stu-id="de5c6-103">Create a Common Data Service entity</span></span>
+  ms.openlocfilehash: 0c04c27b4bce654ba5c9bbc397c4583891c5368b
+  ms.sourcegitcommit: d4531d76c2cc5030d9fd2c39f3c6c73ce8768841
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/26/2019
+  ms.locfileid: "58473966"
+durationInMinutes: 12
+content: '[!include[](includes/3-create-a-cds-entity.md)]'

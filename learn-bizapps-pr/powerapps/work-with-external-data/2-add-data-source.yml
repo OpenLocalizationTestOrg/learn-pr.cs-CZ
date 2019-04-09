@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-external-data.2-add-data-source
+title: <span data-ttu-id="c509a-101">Přidání zdroje dat</span><span class="sxs-lookup"><span data-stu-id="c509a-101">Add a data source</span></span>
+metadata:
+  title: <span data-ttu-id="c509a-102">Přidání zdroje dat</span><span class="sxs-lookup"><span data-stu-id="c509a-102">Add a data source</span></span>
+  description: <span data-ttu-id="c509a-103">Přidání zdroje dat</span><span class="sxs-lookup"><span data-stu-id="c509a-103">Add a data source</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 0ca38af2a6e792df59165e05a8ee2eafefbba636
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265880"
+durationInMinutes: 10
+content: '[!include[](includes/2-add-data-source.md)]'

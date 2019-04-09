@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.write-data.6-knowledge-check
+metadata:
+  title: <span data-ttu-id="42d37-101">Zápis dat v aplikaci plátna PowerApps – prověrka znalostí</span><span class="sxs-lookup"><span data-stu-id="42d37-101">Write data in a PowerApps canvas app knowledge check</span></span>
+  description: <span data-ttu-id="42d37-102">Zápis dat v aplikaci plátna PowerApps – prověrka znalostí</span><span class="sxs-lookup"><span data-stu-id="42d37-102">Write data in a PowerApps canvas app knowledge check</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 191995ea0179a0d48567be54da4d8d9ceac9c24c
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265877"
+title: <span data-ttu-id="42d37-103">Prověřte své znalosti</span><span class="sxs-lookup"><span data-stu-id="42d37-103">Check your knowledge</span></span>
+durationInMinutes: 6
+quiz:
+  title: <span data-ttu-id="42d37-104">Zápis dat v aplikaci plátna PowerApps – prověrka znalostí</span><span class="sxs-lookup"><span data-stu-id="42d37-104">Write data in a PowerApps canvas app knowledge check</span></span>
+  questions:
+  - content: <span data-ttu-id="42d37-105">Který z následujících režimů NENÍ režimem zobrazení ovládacího prvku Formulář pro úpravy?</span><span class="sxs-lookup"><span data-stu-id="42d37-105">Which of the following is NOT a display mode for an Edit Form control?</span></span>
+    choices:
+    - content: <span data-ttu-id="42d37-106">Režim Zobrazení</span><span class="sxs-lookup"><span data-stu-id="42d37-106">View Mode</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-107">Interaktivní režim není režimem zobrazení.</span><span class="sxs-lookup"><span data-stu-id="42d37-107">Interactive mode is not a display mode.</span></span>
+    - content: <span data-ttu-id="42d37-108">Režim Úpravy</span><span class="sxs-lookup"><span data-stu-id="42d37-108">Edit Mode</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-109">Interaktivní režim není režimem zobrazení.</span><span class="sxs-lookup"><span data-stu-id="42d37-109">Interactive mode is not a display mode.</span></span>
+    - content: <span data-ttu-id="42d37-110">Režim Nový</span><span class="sxs-lookup"><span data-stu-id="42d37-110">New Mode</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-111">Interaktivní režim není režimem zobrazení.</span><span class="sxs-lookup"><span data-stu-id="42d37-111">Interactive mode is not a display mode.</span></span>
+    - content: <span data-ttu-id="42d37-112">Interaktivní režim</span><span class="sxs-lookup"><span data-stu-id="42d37-112">Interactive Mode</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="42d37-113">Interaktivní režim není režimem zobrazení.</span><span class="sxs-lookup"><span data-stu-id="42d37-113">Interactive mode is not a display mode.</span></span>
+  - content: <span data-ttu-id="42d37-114">Kterou funkci použijete k uložení dat z formuláře zpět do zdroje dat?</span><span class="sxs-lookup"><span data-stu-id="42d37-114">What function do you use to save the data from your form back to your data source?</span></span>
+    choices:
+    - content: <span data-ttu-id="42d37-115">SaveForm</span><span class="sxs-lookup"><span data-stu-id="42d37-115">SaveForm</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-116">K tomu slouží SubmitForm.</span><span class="sxs-lookup"><span data-stu-id="42d37-116">SubmitForm is used to do this.</span></span>
+    - content: <span data-ttu-id="42d37-117">Save</span><span class="sxs-lookup"><span data-stu-id="42d37-117">Save</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-118">K tomu slouží SubmitForm.</span><span class="sxs-lookup"><span data-stu-id="42d37-118">SubmitForm is used to do this.</span></span>
+    - content: <span data-ttu-id="42d37-119">SubmitForm</span><span class="sxs-lookup"><span data-stu-id="42d37-119">SubmitForm</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="42d37-120">K tomu slouží SubmitForm.</span><span class="sxs-lookup"><span data-stu-id="42d37-120">SubmitForm is used to do this.</span></span>
+    - content: <span data-ttu-id="42d37-121">Žádná funkce není potřeba.</span><span class="sxs-lookup"><span data-stu-id="42d37-121">You do not need a function.</span></span> <span data-ttu-id="42d37-122">Formuláře ukládají data do zdroje dat automaticky.</span><span class="sxs-lookup"><span data-stu-id="42d37-122">Forms automatically save the data to the data source.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-123">K tomu slouží SubmitForm.</span><span class="sxs-lookup"><span data-stu-id="42d37-123">SubmitForm is used to do this.</span></span>
+  - content: <span data-ttu-id="42d37-124">Jaký je správný způsob spuštění vzorce po úspěšném odeslání formuláře?</span><span class="sxs-lookup"><span data-stu-id="42d37-124">What is the correct way to run a formula after a form has been successfully submitted?</span></span>
+    choices:
+    - content: <span data-ttu-id="42d37-125">Vložení vzorce do vlastnosti OnSuccess formuláře</span><span class="sxs-lookup"><span data-stu-id="42d37-125">Put your formula in the OnSuccess property of the form.</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="42d37-126">Správným způsobem je vložení vzorce do vlastnosti OnSuccess formuláře.</span><span class="sxs-lookup"><span data-stu-id="42d37-126">The correct way is to put the formula in the OnSuccess property of the form.</span></span>
+    - content: <span data-ttu-id="42d37-127">Přidání vzorce do ovládacího prvku Tlačítko</span><span class="sxs-lookup"><span data-stu-id="42d37-127">Add the formula to a Button control</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-128">Správným způsobem je vložení vzorce do vlastnosti OnSuccess formuláře.</span><span class="sxs-lookup"><span data-stu-id="42d37-128">The correct way is to put the formula in the OnSuccess property of the form.</span></span>
+    - content: <span data-ttu-id="42d37-129">Vložení vzorce do vlastnosti OnReset formuláře</span><span class="sxs-lookup"><span data-stu-id="42d37-129">Put your formula in the OnReset property of the form.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-130">Správným způsobem je vložení vzorce do vlastnosti OnSuccess formuláře.</span><span class="sxs-lookup"><span data-stu-id="42d37-130">The correct way is to put the formula in the OnSuccess property of the form.</span></span>
+    - content: <span data-ttu-id="42d37-131">Po odeslání formuláře není možné spustit vzorec.</span><span class="sxs-lookup"><span data-stu-id="42d37-131">It is not possible to run a formula after a form is submitted.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="42d37-132">Správným způsobem je vložení vzorce do vlastnosti OnSuccess formuláře.</span><span class="sxs-lookup"><span data-stu-id="42d37-132">The correct way is to put the formula in the OnSuccess property of the form.</span></span>

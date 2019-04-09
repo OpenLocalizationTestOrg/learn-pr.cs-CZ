@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.10-knowledge-check
+title: <span data-ttu-id="d1cad-101">Prověřte své znalosti</span><span class="sxs-lookup"><span data-stu-id="d1cad-101">Check your knowledge</span></span>
+metadata:
+  title: '<span data-ttu-id="d1cad-102">Prověrka znalostí: Začínáme s Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="d1cad-102">Knowledge check: Get started with Microsoft Flow</span></span>'
+  description: <span data-ttu-id="d1cad-103">Tato prověrka znalostí prověří vaše znalosti týkající se používání Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="d1cad-103">This knowledge check tests your knowledge of how to use Microsoft Flow.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 73d0a0d6f9701b28a6cc39f2f336cbe99cb9c844
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 4
+quiz:
+  title: '<span data-ttu-id="d1cad-104">Prověrka znalostí: Začínáme s Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="d1cad-104">Knowledge check: Get started with Microsoft Flow</span></span>'
+  questions:
+  - content: <span data-ttu-id="d1cad-105">Jak vytvoříte tok, který se denně opakuje?</span><span class="sxs-lookup"><span data-stu-id="d1cad-105">How can you create a flow that reoccurs daily?</span></span>
+    choices:
+    - content: <span data-ttu-id="d1cad-106">Vytvoříte tok a připojíte ho ke kalendáři.</span><span class="sxs-lookup"><span data-stu-id="d1cad-106">Create the flow and connect the flow to a calendar.</span></span>
+      explanation: <span data-ttu-id="d1cad-107">Nastavením frekvence aktivační události Plán – Opakování na denní a intervalu na 1 vytvoříte tok, který se denně opakuje.</span><span class="sxs-lookup"><span data-stu-id="d1cad-107">Set the Schedule – Recurrence trigger frequency to daily and interval to 1 to create a flow that reoccurs daily.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="d1cad-108">Vytvoříte tok a nastavíte frekvenci příznaku toku na denní opakování.</span><span class="sxs-lookup"><span data-stu-id="d1cad-108">Create the flow and set the flow flag frequency to daily reoccurrence.</span></span>
+      explanation: <span data-ttu-id="d1cad-109">Nastavením frekvence aktivační události Plán – Opakování na denní a intervalu na 1 vytvoříte tok, který se denně opakuje.</span><span class="sxs-lookup"><span data-stu-id="d1cad-109">Set the Schedule – Recurrence trigger frequency to daily and interval to 1 to create a flow that reoccurs daily.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="d1cad-110">Nastavíte frekvenci aktivační události Plán – Opakování na denní a interval na 1.</span><span class="sxs-lookup"><span data-stu-id="d1cad-110">Set the Schedule – Recurrence trigger frequency to daily and interval to 1.</span></span>
+      explanation: <span data-ttu-id="d1cad-111">Takto vytvoříte tok, který se denně opakuje.</span><span class="sxs-lookup"><span data-stu-id="d1cad-111">This is how you can create a flow that reoccurs on a daily basis.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="d1cad-112">Vytvoříte tok a nastavíte frekvenci příznaku toku na hodinovou a hodnotu na 24.</span><span class="sxs-lookup"><span data-stu-id="d1cad-112">Create the flow and set the flow flag frequency to hourly and the value to 24.</span></span>
+      explanation: <span data-ttu-id="d1cad-113">Nastavením frekvence aktivační události Plán – Opakování na denní a intervalu na 1 vytvoříte tok, který se denně opakuje.</span><span class="sxs-lookup"><span data-stu-id="d1cad-113">Set the Schedule – Recurrence trigger frequency to daily and interval to 1 to create a flow that reoccurs daily.</span></span>
+      isCorrect: false
+  - content: '<span data-ttu-id="d1cad-114">Každý tok má dvě hlavní části: aktivační událost a jednu nebo více akcí.</span><span class="sxs-lookup"><span data-stu-id="d1cad-114">Every flow has two main parts, a trigger, and one or more actions.</span></span> <span data-ttu-id="d1cad-115">Která z následujících možností nejlépe popisuje akce?</span><span class="sxs-lookup"><span data-stu-id="d1cad-115">Which of the following best describes an action?</span></span>'
+    choices:
+    - content: <span data-ttu-id="d1cad-116">Akce definují, co se má stát, když dojde k aktivační události.</span><span class="sxs-lookup"><span data-stu-id="d1cad-116">Actions are what you want to happen when a trigger is invoked.</span></span>
+      explanation: <span data-ttu-id="d1cad-117">Aktivační události vyvolávají akce.</span><span class="sxs-lookup"><span data-stu-id="d1cad-117">Triggers invoke actions.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="d1cad-118">Akce aktivují frekvenci opakování toku.</span><span class="sxs-lookup"><span data-stu-id="d1cad-118">Actions will trigger the frequency of the flow reoccurrence.</span></span>
+      explanation: <span data-ttu-id="d1cad-119">Akce neaktivují opakování toku.</span><span class="sxs-lookup"><span data-stu-id="d1cad-119">Actions will not trigger a flow reoccurrence.</span></span> <span data-ttu-id="d1cad-120">Akce se provedou, když dojde k aktivačním událostem.</span><span class="sxs-lookup"><span data-stu-id="d1cad-120">Actions occur when triggers are invoked.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="d1cad-121">Aktivační události definují, co se má stát, když dojde k akci.</span><span class="sxs-lookup"><span data-stu-id="d1cad-121">Triggers are what you want to happen when an action is invoked.</span></span>
+      explanation: <span data-ttu-id="d1cad-122">Akce definují, co se má stát, když dojde k aktivační události.</span><span class="sxs-lookup"><span data-stu-id="d1cad-122">Actions are what you want to happen when a trigger is invoked.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="d1cad-123">Akce toku aktivují spuštění toku v případě splnění definované hodnoty aktivační události.</span><span class="sxs-lookup"><span data-stu-id="d1cad-123">Flow actions trigger the flow to occur as long as the defined value of the trigger is met.</span></span>
+      explanation: <span data-ttu-id="d1cad-124">Aktivační události vyvolávají akce.</span><span class="sxs-lookup"><span data-stu-id="d1cad-124">Triggers invoke actions.</span></span>
+      isCorrect: false

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.2-building-blocks-of-model-driven-apps
+title: <span data-ttu-id="b5640-101">Stavební bloky modelem řízených aplikací</span><span class="sxs-lookup"><span data-stu-id="b5640-101">Building blocks of model-driven apps</span></span>
+metadata:
+  title: <span data-ttu-id="b5640-102">Stavební bloky modelem řízených aplikací</span><span class="sxs-lookup"><span data-stu-id="b5640-102">Building blocks of model-driven apps</span></span>
+  description: <span data-ttu-id="b5640-103">Stavební bloky modelem řízených aplikací</span><span class="sxs-lookup"><span data-stu-id="b5640-103">Building blocks of model-driven apps</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 594886e262bd511ebf56ae500c96d83b48cbe759
+  ms.sourcegitcommit: ea295d90d665cb91222895600f8945aff5a20f02
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58218046"
+durationInMinutes: 10
+content: '[!include[](includes/2-building-blocks-of-model-driven-apps.md)]'

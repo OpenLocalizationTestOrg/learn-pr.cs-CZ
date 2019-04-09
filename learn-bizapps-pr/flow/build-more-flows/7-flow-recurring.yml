@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.7-flow-recurring
+title: <span data-ttu-id="c70b3-101">Vytvoření toku, který se spouští v pravidelném časovém intervalu</span><span class="sxs-lookup"><span data-stu-id="c70b3-101">Learn to build a flow that runs at recurring time intervals</span></span>
+metadata:
+  title: <span data-ttu-id="c70b3-102">Vytvoření toku, který se spouští v pravidelném časovém intervalu</span><span class="sxs-lookup"><span data-stu-id="c70b3-102">Learn to build a flow that runs at recurring time intervals</span></span>
+  description: <span data-ttu-id="c70b3-103">Naučte se vytvářet tok, který se spouští podle plánu vždy ve stejnou dobu.</span><span class="sxs-lookup"><span data-stu-id="c70b3-103">Learn to build a flow that runs at the same time on a recurring schedule.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 3883acbb8673ed3f897b3e574204aec98972a14c
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 8
+content: '[!include[](includes/7-flow-recurring.md)]'

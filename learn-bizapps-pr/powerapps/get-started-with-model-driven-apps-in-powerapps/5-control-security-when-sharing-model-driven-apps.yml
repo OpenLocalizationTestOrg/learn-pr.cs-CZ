@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.5-control-security-when-sharing-model-driven-apps
+title: <span data-ttu-id="a8b6b-101">Řízení zabezpečení při sdílení modelem řízené aplikace</span><span class="sxs-lookup"><span data-stu-id="a8b6b-101">Control security when sharing model-driven apps</span></span>
+metadata:
+  title: <span data-ttu-id="a8b6b-102">Řízení zabezpečení při sdílení modelem řízené aplikace</span><span class="sxs-lookup"><span data-stu-id="a8b6b-102">Control security when sharing model-driven apps</span></span>
+  description: <span data-ttu-id="a8b6b-103">Řízení zabezpečení při sdílení modelem řízené aplikace</span><span class="sxs-lookup"><span data-stu-id="a8b6b-103">Control security when sharing model-driven apps</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 82ac79cbbfee4c27c7ae2a422cef296e32d66305
+  ms.sourcegitcommit: ea295d90d665cb91222895600f8945aff5a20f02
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58218046"
+durationInMinutes: 10
+content: '[!include[](includes/5-control-security-when-sharing-model-driven-apps.md)]'

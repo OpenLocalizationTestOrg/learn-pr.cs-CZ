@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.write-data.5-special-properties
+title: <span data-ttu-id="e1d3a-101">Speciální vlastnosti</span><span class="sxs-lookup"><span data-stu-id="e1d3a-101">Special properties</span></span>
+metadata:
+  title: <span data-ttu-id="e1d3a-102">Speciální vlastnosti</span><span class="sxs-lookup"><span data-stu-id="e1d3a-102">Special properties</span></span>
+  description: <span data-ttu-id="e1d3a-103">Speciální vlastnosti</span><span class="sxs-lookup"><span data-stu-id="e1d3a-103">Special properties</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b59babc3895c5be7c99d4ce6f2977dcba9d0384e
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265877"
+durationInMinutes: 5
+content: '[!include[](includes/5-special-properties.md)]'

@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.author-basic-formula-change-properties-powerapps
+metadata:
+  title: Vytvoření základního vzorce pro změnu vlastností v aplikaci plátna PowerApps
+  description: Chcete vylepšit své aplikace plátna PowerApps? Pomocí základních vzorců můžete měnit vlastnosti ovládacích prvků.  Sem patří změna formátu a umístění, jednoduché výpočty a implementace podmíněného formátování.
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 79dd614f8137a20cb70f2b4f4d4e9daedadcb052
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265881"
+title: Vytvoření základního vzorce pro změnu vlastností v aplikaci plátna PowerApps
+summary: Chcete vylepšit své aplikace plátna PowerApps? Pomocí základních vzorců můžete měnit vlastnosti ovládacích prvků.  Sem patří změna formátu a umístění, jednoduché výpočty a implementace podmíněného formátování.
+abstract: "V tomto modulu se naučíte: \n- Principiální základy používání vzorců v aplikaci plátna\n- Změnit formát ovládacího prvku data \n- Použít vzorec k jednoduchým výpočtům\n- Změnit umístění ikony pomocí vzorce\n- Princip implementace podmíněného formátování v aplikacích plátna pomocí vzorce\n"
+prerequisites: Měli byste mít základní znalosti o tom, jak se v PowerApps vytvoří aplikace plátna.  Ty by měly zahrnovat přidání ovládacích prvků do aplikace.  Znalost práce s daty v PowerApps je také užitečná, ale nevyžaduje se.
+iconUrl: /learn/achievements/change-properties.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+units:
+- learn-bizapps.change-properties.1-formula-overview
+- learn-bizapps.change-properties.2-modify-controls-format
+- learn-bizapps.change-properties.3-formula-for-calculation
+- learn-bizapps.change-properties.4-modify-control-property
+- learn-bizapps.change-properties.5-conditional-formatting
+- learn-bizapps.change-properties.6-functions-validating-data
+- learn-bizapps.change-properties.7-knowledge-check
+- learn-bizapps.change-properties.8-summary
+badge:
+  uid: learn-bizapps.author-basic-formula-change-properties-powerapps.badge

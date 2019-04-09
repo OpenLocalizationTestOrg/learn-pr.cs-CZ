@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.3-powerapps-related-technologies
+title: <span data-ttu-id="39a03-101">Technologie související s PowerApps</span><span class="sxs-lookup"><span data-stu-id="39a03-101">PowerApps related technologies</span></span>
+metadata:
+  title: <span data-ttu-id="39a03-102">Technologie související s PowerApps</span><span class="sxs-lookup"><span data-stu-id="39a03-102">PowerApps related technologies</span></span>
+  description: <span data-ttu-id="39a03-103">Zjistěte, jak můžete PowerApps používat s dalšími technologiemi a vytvářet a sdílet aplikace ve své organizaci.</span><span class="sxs-lookup"><span data-stu-id="39a03-103">Learn how you can use PowerApps with other technologies to build and share apps across your organization.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 2c36bb6ba91b9f470f85a5f5ef0076ef5e4c4a32
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697962"
+durationInMinutes: 10
+content: '[!include[](includes/3-powerapps-related-technologies.md)]'

@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-use-analytics-reports-power-bi
+metadata:
+  title: Vytváření a použití analytických sestav pomocí Power BI
+  description: Tento studijní program vás seznámí s Power BI a naučí vás používat a vytvářet sestavy Business Intelligence.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: cf80ab891fb879af617be19d79d0b3df28bbe028
+  ms.sourcegitcommit: 5ebf8a0bcda552e6940920db0a3899205aec7c4d
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 02/12/2019
+  ms.locfileid: "56157931"
+title: Vytváření a použití analytických sestav pomocí Power BI
+summary: Tento studijní program vás seznámí s Power BI a naučí vás používat a vytvářet sestavy business intelligence.
+prerequisites: "- Znalost Excelu. \n"
+iconUrl: /learn/achievements/create-use-analytics-reports-power-bi.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- power-bi
+- bizapps
+- bizapps-power-bi
+modules:
+- learn-bizapps.get-started-with-power-bi
+- learn-bizapps.build-your-first-report
+trophy:
+  uid: learn.create-use-analytics-reports-power-bi.trophy

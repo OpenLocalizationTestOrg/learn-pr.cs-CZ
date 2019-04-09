@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps-get-started
+metadata:
+  title: Začínáme s PowerApps
+  description: Přečtěte si základní informace o službě PowerApps a o tom, jak ji můžete využít ve vaší organizaci.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: cf132874432ca6dd7950251d63e9e91c607d7ea7
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697962"
+title: Začínáme s PowerApps
+summary: Přečtěte si základní informace o službě PowerApps a o tom, jak ji můžete využít ve vaší organizaci.
+abstract: >
+  V tomto modulu:
+
+  - Prozkoumáte, jak může PowerApps zvýšit efektivitu vaší firmy.
+
+  - Porozumíte použití různých technologií k provádění různých úkolů v PowerApps.
+
+  - Pochopit různé způsoby, jak se v PowerApps vytvářejí aplikace
+
+  - Vytvoříte svou první aplikaci z dat v excelovém sešitu.
+prerequisites: >
+  - Získáte přístup k Microsoft Excelu a OneDrivu pro firmy.
+iconUrl: /learn/achievements/get-started-with-powerapps.svg
+ratingEnabled: true
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+units:
+- learn-bizapps.powerapps-get-started.1-powerapps-introduction
+- learn-bizapps.powerapps-get-started.2-powerapps-building-blocks
+- learn-bizapps.powerapps-get-started.3-powerapps-related-technologies
+- learn-bizapps.powerapps-get-started.4-powerapps-ways-to-build
+- learn-bizapps.powerapps-get-started.5-powerapps-create-first
+- learn-bizapps.powerapps-get-started.6-powerapps-quiz-get-started
+- learn-bizapps.powerapps-get-started.7-summary-cleanup
+badge:
+  uid: learn.powerapps-get-started.badge

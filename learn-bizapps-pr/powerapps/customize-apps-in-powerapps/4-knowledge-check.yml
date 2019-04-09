@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-customize.4-quiz-customize-an-app
+title: <span data-ttu-id="e3c9e-101">Zkontrolujte své znalosti</span><span class="sxs-lookup"><span data-stu-id="e3c9e-101">Check your knowledge</span></span>
+metadata:
+  title: '<span data-ttu-id="e3c9e-102">Prověrka znalostí: Přizpůsobení aplikace</span><span class="sxs-lookup"><span data-stu-id="e3c9e-102">Knowledge check: Customize an app</span></span>'
+  description: <span data-ttu-id="e3c9e-103">Tato kontrola znalostí prověří vaše znalosti týkající se přizpůsobení aplikace.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-103">This knowledge check tests your knowledge of how to customize an app.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 677c59b1b26328ff1c048c5480237a48a7059a3b
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697501"
+durationInMinutes: 5
+quiz:
+  title: '<span data-ttu-id="e3c9e-104">Prověrka znalostí: Přizpůsobení aplikace</span><span class="sxs-lookup"><span data-stu-id="e3c9e-104">Knowledge check: Customize an app</span></span>'
+  questions:
+  - content: <span data-ttu-id="e3c9e-105">Kde si můžete v PowerApps přizpůsobit aplikaci?</span><span class="sxs-lookup"><span data-stu-id="e3c9e-105">In PowerApps, where do you customize an app?</span></span>
+    choices:
+    - content: <span data-ttu-id="e3c9e-106">web.powerapps.com</span><span class="sxs-lookup"><span data-stu-id="e3c9e-106">web.powerapps.com</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="e3c9e-107">Web.powerapps.com je místo, kde si všechny své aplikace můžete zobrazit.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-107">Web.powerapps.com is where you can view all your apps.</span></span> <span data-ttu-id="e3c9e-108">Nemůžete je tam ale přizpůsobovat.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-108">It isn't where you customize them.</span></span>
+    - content: <span data-ttu-id="e3c9e-109">PowerApps Studio</span><span class="sxs-lookup"><span data-stu-id="e3c9e-109">PowerApps Studio</span></span>
+      explanation: <span data-ttu-id="e3c9e-110">PowerApps Studio je místo, kde si své aplikace můžete přizpůsobit.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-110">PowerApps Studio is where you customize your apps.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="e3c9e-111">Microsoft SharePoint</span><span class="sxs-lookup"><span data-stu-id="e3c9e-111">Microsoft SharePoint</span></span>
+      explanation: <span data-ttu-id="e3c9e-112">SharePoint může být zdrojem dat pro aplikace, ale aplikace se na něm nedají přizpůsobit.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-112">SharePoint can be a data source for apps, but you don't customize apps there.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e3c9e-113">Microsoft AppSource</span><span class="sxs-lookup"><span data-stu-id="e3c9e-113">Microsoft AppSource</span></span>
+      explanation: <span data-ttu-id="e3c9e-114">Z Microsoft AppSourcu si můžete aplikace nainstalovat, ale přizpůsobují se v PowerApps Studiu.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-114">You install apps from Microsoft AppSource, but you customize them in PowerApps Studio.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="e3c9e-115">Co z následujících možností není obrazovka v aplikacích, které PowerApps generuje?</span><span class="sxs-lookup"><span data-stu-id="e3c9e-115">Which of the following isn't a screen in apps that PowerApps generates?</span></span>
+    choices:
+    - content: <span data-ttu-id="e3c9e-116">Obrazovka pro procházení</span><span class="sxs-lookup"><span data-stu-id="e3c9e-116">Browse screen</span></span>
+      explanation: <span data-ttu-id="e3c9e-117">Obrazovka pro procházení se v aplikacích vygenerovaných v PowerApps otevře jako výchozí.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-117">The browse screen opens by default in apps that PowerApps generates.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e3c9e-118">Obrazovka pro úpravy nebo vytvoření</span><span class="sxs-lookup"><span data-stu-id="e3c9e-118">Edit/create screen</span></span>
+      explanation: <span data-ttu-id="e3c9e-119">Když PowerApps vygeneruje aplikaci, obsahuje obrazovku pro procházení, obrazovku s podrobnostmi a obrazovku pro úpravy nebo vytvoření.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-119">When PowerApps generates an app, it contains browse, details, and edit/create screens.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e3c9e-120">Podokno Náhled</span><span class="sxs-lookup"><span data-stu-id="e3c9e-120">Preview pane</span></span>
+      explanation: <span data-ttu-id="e3c9e-121">I když tlačítko Spustit aplikaci spustí, abyste mohli zobrazit její náhled, není podokno Náhled hlavní obrazovkou.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-121">Although the Run button does start your app so that you can preview it, the Preview pane isn't a main screen.</span></span>
+      isCorrect: true
+  - content: <span data-ttu-id="e3c9e-122">Která obrazovka se v aplikacích vygenerovaných v PowerApps otevře jako výchozí?</span><span class="sxs-lookup"><span data-stu-id="e3c9e-122">Which screen opens by default in apps that PowerApps generates?</span></span>
+    choices:
+    - content: <span data-ttu-id="e3c9e-123">Podokno Náhled</span><span class="sxs-lookup"><span data-stu-id="e3c9e-123">Preview pane</span></span>
+      explanation: <span data-ttu-id="e3c9e-124">Tlačítko Spustit sice aplikaci spustí, abyste se mohli podívat na její náhled, ale podokno Náhled nepatří mezi hlavní obrazovky.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-124">The Run button does start your app so that you can preview it, but the Preview pane isn't a main screen.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e3c9e-125">Obrazovka s podrobnostmi</span><span class="sxs-lookup"><span data-stu-id="e3c9e-125">Details screen</span></span>
+      explanation: <span data-ttu-id="e3c9e-126">První obrazovkou je obrazovka pro procházení.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-126">The browse screen is the first screen.</span></span> <span data-ttu-id="e3c9e-127">Obrazovka s podrobnostmi se obvykle otevře při výběru konkrétní položky na obrazovce pro procházení.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-127">A details screen typically opens when a specific item is selected on the browse screen.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e3c9e-128">Obrazovka pro procházení</span><span class="sxs-lookup"><span data-stu-id="e3c9e-128">Browse screen</span></span>
+      explanation: <span data-ttu-id="e3c9e-129">Při spuštění aplikace PowerApps je vždy první obrazovkou obrazovka pro procházení.</span><span class="sxs-lookup"><span data-stu-id="e3c9e-129">When PowerApps apps start, the browse screen is always the first screen.</span></span>
+      isCorrect: true

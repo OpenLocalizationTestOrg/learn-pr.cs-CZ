@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps-common-data-service
+metadata:
+  title: Začínáme se službou Common Data Service pro aplikace
+  description: Služba Common Data Service pro aplikace umožňuje bezpečně ukládat a spravovat data využívaná podnikovými aplikacemi. Standardní a vlastní entity ve službě Common Data Service pro aplikace poskytují možnost zabezpečeného cloudového úložiště pro vaše data.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 2cf2f58622734beaa2d51d3bcd13aacce0563b39
+  ms.sourcegitcommit: d4531d76c2cc5030d9fd2c39f3c6c73ce8768841
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/26/2019
+  ms.locfileid: "58473966"
+title: Začínáme se službou Common Data Service pro aplikace
+summary: Služba Common Data Service pro aplikace umožňuje bezpečně ukládat a spravovat data využívaná podnikovými aplikacemi. Standardní a vlastní entity ve službě Common Data Service pro aplikace poskytují možnost zabezpečeného cloudového úložiště pro vaše data.
+abstract: "V tomto modulu se naučíte:\n- Vytvářet entity se službou Common Data Service pro aplikace. \n"
+prerequisites: >
+  - Používat účet Microsoft PowerApps. Pokud ještě účet PowerApps nemáte, vyberte odkaz **Začněte zdarma** na webu [powerapps.com](https://web.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc).
+iconUrl: /learn/achievements/get-started-with-powerapps-common-data-service.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+units:
+- learn-bizapps.powerapps-common-data-service.1-introduction
+- learn-bizapps.powerapps-common-data-service.2-learn-about-entities
+- learn-bizapps.powerapps-common-data-service.3-create-a-cds-entity
+- learn-bizapps.powerapps-common-data-service.4-import-data-into-your-database
+- learn-bizapps.powerapps-common-data-service.5-summary
+badge:
+  uid: learn.powerapps-common-data-service.badge

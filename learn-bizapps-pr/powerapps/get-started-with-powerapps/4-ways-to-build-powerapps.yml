@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.4-powerapps-ways-to-build
+title: <span data-ttu-id="8a06a-101">Způsoby vytváření PowerApps</span><span class="sxs-lookup"><span data-stu-id="8a06a-101">Ways to build PowerApps</span></span>
+metadata:
+  title: <span data-ttu-id="8a06a-102">Způsoby vytváření PowerApps</span><span class="sxs-lookup"><span data-stu-id="8a06a-102">Ways to build PowerApps</span></span>
+  description: <span data-ttu-id="8a06a-103">Zjistěte, jakými různými způsoby můžete vytvářet aplikace v PowerApps.</span><span class="sxs-lookup"><span data-stu-id="8a06a-103">Learn the different ways you can build apps in PowerApps.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: c6982c409ef968743145a8b79b0eca5bf4e9bba3
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697962"
+durationInMinutes: 10
+content: '[!include[](includes/4-powerapps-ways-to-build.md)]'

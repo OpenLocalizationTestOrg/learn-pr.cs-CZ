@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.write-data.7-summary
+title: <span data-ttu-id="3212e-101">Shrnutí</span><span class="sxs-lookup"><span data-stu-id="3212e-101">Summary</span></span>
+metadata:
+  title: <span data-ttu-id="3212e-102">Shrnutí</span><span class="sxs-lookup"><span data-stu-id="3212e-102">Summary</span></span>
+  description: <span data-ttu-id="3212e-103">Shrnutí</span><span class="sxs-lookup"><span data-stu-id="3212e-103">Summary</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 33391d8d95fc9d077226d8793c1465e0137a29ac
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265877"
+durationInMinutes: 3
+content: '[!include[](includes/7-summary.md)]'

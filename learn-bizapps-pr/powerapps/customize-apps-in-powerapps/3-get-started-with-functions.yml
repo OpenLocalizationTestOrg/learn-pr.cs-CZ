@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-customize.3-powerapps-functions
+title: <span data-ttu-id="673b1-101">Začínáme s funkcemi v PowerApps</span><span class="sxs-lookup"><span data-stu-id="673b1-101">Get started with functions in PowerApps</span></span>
+metadata:
+  title: <span data-ttu-id="673b1-102">Začínáme s funkcemi v PowerApps</span><span class="sxs-lookup"><span data-stu-id="673b1-102">Get started with functions in PowerApps</span></span>
+  description: <span data-ttu-id="673b1-103">Seznamte se s výchozími funkcemi v aplikacích, které PowerApps vygeneruje.</span><span class="sxs-lookup"><span data-stu-id="673b1-103">Get started with default functions in apps that PowerApps generates.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: d8fe4f966c9bb99e495186a185091503bc48b592
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697501"
+durationInMinutes: 15
+content: '[!include[](includes/3-powerapps-functions.md)]'

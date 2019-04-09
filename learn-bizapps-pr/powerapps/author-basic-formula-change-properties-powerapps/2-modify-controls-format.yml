@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.2-modify-controls-format
+title: <span data-ttu-id="9fd4d-101">Změna formátu ovládacích prvků pomocí vzorce</span><span class="sxs-lookup"><span data-stu-id="9fd4d-101">Use a formula to modify the format of controls</span></span>
+metadata:
+  title: <span data-ttu-id="9fd4d-102">Změna formátu ovládacích prvků pomocí vzorce</span><span class="sxs-lookup"><span data-stu-id="9fd4d-102">Use a formula to modify the format of controls</span></span>
+  description: <span data-ttu-id="9fd4d-103">Změna formátu ovládacích prvků pomocí vzorce</span><span class="sxs-lookup"><span data-stu-id="9fd4d-103">Use a formula to modify the format of controls</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1539a3820f4889ad7e282290b58240878714ba0e
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265881"
+durationInMinutes: 5
+content: '[!include[](includes/2-modify-controls-format.md)]'

@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-app-models-business-processes
+metadata:
+  title: Vytvoření modelem řízené aplikace v PowerApps
+  description: Tento studijní program vám představí vytvoření modelem řízené aplikace PowerApps, která používá službu Common Data Service pro aplikace.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 13c4de1fbbdbeec945e079072f0dec4ca08f8860
+  ms.sourcegitcommit: 16f79ebb54cba4fcec92ab3cd8f500681de910e7
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 02/14/2019
+  ms.locfileid: "56225520"
+title: Vytvoření modelem řízené aplikace v PowerApps
+summary: Tento studijní program vám představí vytvoření modelem řízené aplikace PowerApps, která používá službu Common Data Service for Apps.
+prerequisites: "- Znalost PowerApps, Excelu a Microsoft Flow. \n"
+iconUrl: /learn/achievements/create-app-models-business-processes.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+modules:
+- learn-bizapps.powerapps-design-model-driven-apps
+- learn-bizapps.powerapps-common-data-service
+trophy:
+  uid: learn.create-app-models-business-processes.trophy

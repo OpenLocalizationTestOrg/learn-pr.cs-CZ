@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-your-first-report.5-exercise-share-a-power-bi-report
+metadata:
+  title: <span data-ttu-id="de15b-101">Cvičení – sdílení sestavy Power BI</span><span class="sxs-lookup"><span data-stu-id="de15b-101">Exercise - Share a Power BI report</span></span>
+  description: <span data-ttu-id="de15b-102">Cvičení – sdílení sestavy Power BI</span><span class="sxs-lookup"><span data-stu-id="de15b-102">Exercise - Share a Power BI report</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 46015e6b0057c823a3d2ff8ea48ef2d00bec84e6
+  ms.sourcegitcommit: cc419b18821783e2dffd74123baf355c1ef97243
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/14/2019
+  ms.locfileid: "57806213"
+title: <span data-ttu-id="de15b-103">Cvičení – sdílení sestavy Power BI</span><span class="sxs-lookup"><span data-stu-id="de15b-103">Exercise - Share a Power BI report</span></span>
+durationInMinutes: 5
+content: '[!include[](includes/5-exercise-share-a-power-bi-report.md)]'

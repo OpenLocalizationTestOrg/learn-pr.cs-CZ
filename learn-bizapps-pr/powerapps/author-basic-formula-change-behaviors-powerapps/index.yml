@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.author-basic-forumla-change-behaviors-powerapps
+metadata:
+  title: Vytvoření základního vzorce pro změnu chování v aplikaci plátna PowerApps
+  description: Zjistěte, jak vylepšit aplikaci plátna PowerApps pomocí základních vzorců a změnit tak chování aplikace.  Změnit chování aplikace znamená změnit to, jak fungují ovládací prvky. Tento modul je zaměřený na vlastnosti Visible a DisplayMode.
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 994e5a66db7f8a09bbe8130cd3861a6468821a1e
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265884"
+title: Vytvoření základního vzorce pro změnu chování v aplikaci plátna PowerApps
+summary: Zjistěte, jak vylepšit aplikaci plátna PowerApps pomocí základních vzorců a změnit tak chování aplikace.  Změnit chování aplikace znamená změnit to, jak fungují ovládací prvky. Tento modul je zaměřený na vlastnosti Visible a DisplayMode.
+abstract: "V tomto modulu: \n- Vysvětlení hodnot true a false\n- Ovládání vlastnosti Visible pomocí vzorce\n- Ovládání režimu zobrazení pomocí vzorce\n- Kombinace více funkcí v jednom vzorci\n"
+prerequisites: Měli byste mít základní znalosti o tom, jak v PowerApps vytvořit aplikaci plátna.  K tomu patří přidání ovládacích prvků do aplikace a použití základního vzorce k úpravě ovládacího prvku.  Určitá znalost práce s daty v PowerApps je užitečná, ale nevyžaduje se.
+iconUrl: /learn/achievements/change-behaviors.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+units:
+- learn-bizapps.change-behaviors.1-formulas-behaviors-overview
+- learn-bizapps.change-behaviors.2-understanding-true-false
+- learn-bizapps.change-behaviors.3-understanding-control-behaviors-actions
+- learn-bizapps.change-behaviors.4-controlling-visible-through-formula
+- learn-bizapps.change-behaviors.5-control-display-mode-through-formula
+- learn-bizapps.change-behaviors.6-combine-formulas-single-statement
+- learn-bizapps.change-behaviors.7-knowledge-check
+- learn-bizapps.change-behaviors.8-summary
+badge:
+  uid: learn-bizapps.author-basic-forumla-change-behaviors-powerapps.badge

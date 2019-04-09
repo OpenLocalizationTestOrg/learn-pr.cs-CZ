@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.12-flow-create-business-process-flow-branching
+title: <span data-ttu-id="3acf1-101">Vytvoření toku obchodního procesu s podmínkami</span><span class="sxs-lookup"><span data-stu-id="3acf1-101">Create a business process flow that has conditions</span></span>
+metadata:
+  title: <span data-ttu-id="3acf1-102">Vytvoření toku obchodního procesu s podmínkami</span><span class="sxs-lookup"><span data-stu-id="3acf1-102">Create a business process flow that has conditions</span></span>
+  description: <span data-ttu-id="3acf1-103">Naučte se vytvářet tok obchodního procesu s větvemi, které pomocí podmínek řeší složitější proces.</span><span class="sxs-lookup"><span data-stu-id="3acf1-103">Learn how to create a business process flow that has branches to handle a process that is more complex with conditions.</span></span>
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: d6af81b522d8ba71cf28e29aaf9b95abe2575fa9
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 8
+content: '[!include[](includes/12-flow-create-business-process-flow-branching.md)]'

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.6-flow-scheduled-flows
+title: <span data-ttu-id="82b55-101">Vytváření opakovaných toků</span><span class="sxs-lookup"><span data-stu-id="82b55-101">Create recurring flows</span></span>
+metadata:
+  title: <span data-ttu-id="82b55-102">Vytváření opakovaných toků</span><span class="sxs-lookup"><span data-stu-id="82b55-102">Create recurring flows</span></span>
+  description: <span data-ttu-id="82b55-103">Zjistěte, jak vytvářet toky, u kterých je naplánováno pravidelné spouštění.</span><span class="sxs-lookup"><span data-stu-id="82b55-103">Learn how to create flows that are scheduled to run periodically.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 1c2aea9b3aaa1b20a302aa8d6dd53139f8d0bd3f
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 5
+content: '[!include[](includes/6-flow-scheduled-flows.md)]'

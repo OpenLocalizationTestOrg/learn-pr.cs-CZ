@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-your-first-report.2-connect-to-data-sources-in-power-bi-desktop
+metadata:
+  title: <span data-ttu-id="100be-101">Připojení ke zdroji dat v Power BI Desktopu</span><span class="sxs-lookup"><span data-stu-id="100be-101">Connect to data sources in Power BI Desktop</span></span>
+  description: <span data-ttu-id="100be-102">Připojení ke zdroji dat v Power BI Desktopu</span><span class="sxs-lookup"><span data-stu-id="100be-102">Connect to data sources in Power BI Desktop</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: e0b110236e92b7e3f658392e1067f931bf113e90
+  ms.sourcegitcommit: cc419b18821783e2dffd74123baf355c1ef97243
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/14/2019
+  ms.locfileid: "57806213"
+title: <span data-ttu-id="100be-103">Připojení ke zdroji dat v Power BI Desktopu</span><span class="sxs-lookup"><span data-stu-id="100be-103">Connect to data sources in Power BI Desktop</span></span>
+durationInMinutes: 5
+content: '[!include[](includes/2-connect-to-data-sources-in-power-bi-desktop.md)]'

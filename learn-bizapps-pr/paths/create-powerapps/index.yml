@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-powerapps
+metadata:
+  title: Vytvoření aplikace plátna v PowerApps
+  description: Tento studijní program vás seznámí s PowerApps, pomůže vám vytvořit a přizpůsobit aplikaci a pak ji spravovat a distribuovat.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 61ffab8c813743cbd0a75c10474f83e754878add
+  ms.sourcegitcommit: 16f79ebb54cba4fcec92ab3cd8f500681de910e7
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 02/14/2019
+  ms.locfileid: "56262014"
+title: Vytvoření aplikace plátna v PowerApps
+summary: Tento studijní program vás seznámí s PowerApps, pomůže vám vytvořit a přizpůsobit aplikaci a pak ji spravovat a distribuovat.
+prerequisites: "- Znalost OneDrivu, SharePointu a Excelu \n"
+iconUrl: /learn/achievements/create-powerapps.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+modules:
+- learn-bizapps.powerapps-get-started
+- learn-bizapps.powerapps-customize
+- learn-bizapps.powerapps-manage
+trophy:
+  uid: learn.create-powerapps.trophy

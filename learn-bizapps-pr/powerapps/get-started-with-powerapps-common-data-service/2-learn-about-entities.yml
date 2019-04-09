@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-common-data-service.2-learn-about-entities
+title: <span data-ttu-id="00be9-101">Informace o entitách</span><span class="sxs-lookup"><span data-stu-id="00be9-101">Learn about entities</span></span>
+metadata:
+  title: <span data-ttu-id="00be9-102">Informace o entitách</span><span class="sxs-lookup"><span data-stu-id="00be9-102">Learn about entities</span></span>
+  description: <span data-ttu-id="00be9-103">Informace o entitách</span><span class="sxs-lookup"><span data-stu-id="00be9-103">Learn about entities</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: dc458e314ae04901c71ff4909af114ba85bf9ad0
+  ms.sourcegitcommit: d4531d76c2cc5030d9fd2c39f3c6c73ce8768841
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/26/2019
+  ms.locfileid: "58473966"
+durationInMinutes: 12
+content: '[!include[](includes/2-learn-about-entities.md)]'

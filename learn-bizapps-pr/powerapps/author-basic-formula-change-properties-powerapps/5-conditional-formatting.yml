@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.5-conditional-formatting
+title: <span data-ttu-id="94936-101">Podmíněné formátování</span><span class="sxs-lookup"><span data-stu-id="94936-101">Conditional formatting</span></span>
+metadata:
+  title: <span data-ttu-id="94936-102">Podmíněné formátování</span><span class="sxs-lookup"><span data-stu-id="94936-102">Conditional formatting</span></span>
+  description: <span data-ttu-id="94936-103">Podmíněné formátování</span><span class="sxs-lookup"><span data-stu-id="94936-103">Conditional formatting</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 7765a18143c77b959768ca692af8806e49edc06e
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265881"
+durationInMinutes: 5
+content: '[!include[](includes/5-conditional-formatting.md)]'

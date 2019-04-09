@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.5-flow-use-tokens
+title: <span data-ttu-id="5c62a-101">Vytvoření toku, který používá informace, jako je umístění nebo datum</span><span class="sxs-lookup"><span data-stu-id="5c62a-101">Build a flow that uses information like locations or date</span></span>
+metadata:
+  title: <span data-ttu-id="5c62a-102">Vytvoření toku, který používá informace, jako je umístění nebo datum</span><span class="sxs-lookup"><span data-stu-id="5c62a-102">Build a flow that uses information like location or date</span></span>
+  description: <span data-ttu-id="5c62a-103">Naučte se vytvářet tok, který používá dostupné informace, jako je umístění nebo datum.</span><span class="sxs-lookup"><span data-stu-id="5c62a-103">Learn to build a flow that uses information already available to the flow, like location or date.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 16a2a70569a45ac22d53e375309278689f2dd925
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 8
+content: '[!include[](includes/5-flow-use-tokens.md)]'

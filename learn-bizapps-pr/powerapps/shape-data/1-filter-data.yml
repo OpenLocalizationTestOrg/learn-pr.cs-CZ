@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.shape-data.1-filter-data
+title: <span data-ttu-id="eabee-101">Filtrování dat</span><span class="sxs-lookup"><span data-stu-id="eabee-101">Filter data</span></span>
+metadata:
+  title: <span data-ttu-id="eabee-102">Filtrování dat</span><span class="sxs-lookup"><span data-stu-id="eabee-102">Filter data</span></span>
+  description: <span data-ttu-id="eabee-103">Filtrování dat</span><span class="sxs-lookup"><span data-stu-id="eabee-103">Filter data</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: afc364619d4ed029cb5aa3a8f38e4891a5e9ebcb
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265885"
+durationInMinutes: 10
+content: '[!include[](includes/1-filter-data.md)]'

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-administration.2-flow-export-import
+title: <span data-ttu-id="dc532-101">Export a import toků</span><span class="sxs-lookup"><span data-stu-id="dc532-101">Export and import flows</span></span>
+metadata:
+  title: <span data-ttu-id="dc532-102">Export a import toků</span><span class="sxs-lookup"><span data-stu-id="dc532-102">Export and import flows</span></span>
+  description: <span data-ttu-id="dc532-103">Zde najdete informace, jak exportovat a importovat toky, abyste je mohli sdílet s jinými uživateli ve vašem týmu.</span><span class="sxs-lookup"><span data-stu-id="dc532-103">Learn how to export and import flows to share them with other people on your team.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 4f2161d5b5274321d48bd82f598f895621600bb5
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697740"
+durationInMinutes: 8
+content: '[!include[](includes/2-flow-export-import.md)]'

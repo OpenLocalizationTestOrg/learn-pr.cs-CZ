@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.3-learn-to-use-flow-mobile-app
+title: <span data-ttu-id="b0bb0-101">Naučte se používat mobilní aplikaci Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="b0bb0-101">Learn to use the Microsoft Flow mobile app</span></span>
+metadata:
+  title: <span data-ttu-id="b0bb0-102">Naučte se používat mobilní aplikaci Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="b0bb0-102">Learn to use the Microsoft Flow mobile app</span></span>
+  description: <span data-ttu-id="b0bb0-103">Naučte se používat mobilní aplikaci Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="b0bb0-103">Learn how to use the Microsoft Flow mobile app.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 816baaa31753ac363c2cdea4573a7ccba353d92e
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 5
+content: '[!include[](includes/3-flow-mobile-app.md)]'

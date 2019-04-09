@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-bizapps.flow-build-more
+metadata:
+  title: Vytváření složitějších toků pomocí Microsoft Flow
+  description: Naučte se vytvářet složitější toky, které automatizují události.
+  ms.date: 02/03/2019
+  author: Toney001
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 34388b280439ebb46faf8448c3997fa9702bf2c1
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+title: Vytváření složitějších toků pomocí Microsoft Flow
+summary: Microsoft Flow je online služba pro vytváření pracovních postupů, která automatizuje různé akce v nejčastěji používaných aplikacích a službách. V tomto modulu budete vytvářet složitější toky, které zjednoduší vaši činnost, šetří čas a umožňují pracovat efektivněji.
+abstract: Když vytvoříte pokročilé toky, můžete dostávat oznámení, kopírovat soubory mezi online službami, publikovat tweety, převádět a ukládat dokumenty apod.
+prerequisites: Musíte být zaregistrovaný v Microsoft Flow a mít účet OneDrivu pro firmy.
+iconUrl: /learn/achievements/build-more-flows.svg
+ratingEnabled: true
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- flow
+- bizapps
+- bizapps-flow
+units:
+- learn-bizapps.flow-build-more.1-introduction
+- learn-bizapps.flow-build-more.2-flow-create-approval-request
+- learn-bizapps.flow-build-more.3-flow-process-approval-request
+- learn-bizapps.flow-build-more.4-flow-store-documents
+- learn-bizapps.flow-build-more.5-flow-use-tokens
+- learn-bizapps.flow-build-more.6-flow-accepts-user-input
+- learn-bizapps.flow-build-more.7-flow-recurring
+- learn-bizapps.flow-build-more.8-flow-event-D365
+- learn-bizapps.flow-build-more.9-flow-use-SQL
+- learn-bizapps.flow-build-more.10-flow-integrate-powerapps
+- learn-bizapps.flow-build-more.11-flow-create-business-process-flow
+- learn-bizapps.flow-build-more.12-flow-create-business-process-flow-branching
+- learn-bizapps.flow-build-more.13-monitor-flows
+- learn-bizapps.flow-build-more.14-knowledge-check
+- learn-bizapps.flow-build-more.15-summary
+badge:
+  uid: learn.flow-build-more.badge

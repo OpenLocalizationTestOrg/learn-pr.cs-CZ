@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-behaviors.5-control-display-mode-through-formula
+title: <span data-ttu-id="5fa8a-101">Ovládání režimu zobrazení pomocí vzorce</span><span class="sxs-lookup"><span data-stu-id="5fa8a-101">Control the display mode through a formula</span></span>
+metadata:
+  title: <span data-ttu-id="5fa8a-102">Ovládání režimu zobrazení pomocí vzorce</span><span class="sxs-lookup"><span data-stu-id="5fa8a-102">Control the display mode through a formula</span></span>
+  description: <span data-ttu-id="5fa8a-103">Ovládání režimu zobrazení pomocí vzorce</span><span class="sxs-lookup"><span data-stu-id="5fa8a-103">Control the display mode through a formula</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 3fa373de910fff18a06692bec232180b785feada
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265884"
+durationInMinutes: 8
+content: '[!include[](includes/5-control-display-mode-through-formula.md)]'

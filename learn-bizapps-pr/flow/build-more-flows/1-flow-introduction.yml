@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.1-introduction
+title: <span data-ttu-id="b0f9f-101">Vytváření složitějších toků</span><span class="sxs-lookup"><span data-stu-id="b0f9f-101">Learn to build more complex flows</span></span>
+metadata:
+  title: <span data-ttu-id="b0f9f-102">Vytváření složitějších toků</span><span class="sxs-lookup"><span data-stu-id="b0f9f-102">Learn to build more complex flows</span></span>
+  description: <span data-ttu-id="b0f9f-103">Vytvářejte pokročilejší toky, ve kterých můžete získat oznámení, kopírovat soubory, zveřejňovat tweety a provádět další akce.</span><span class="sxs-lookup"><span data-stu-id="b0f9f-103">Create more advanced flows to get notifications, copy files, posts tweets, and more.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: b91ac7780a3ae3dca0be5b781489ec66eb8488f0
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 5
+content: '[!include[](includes/1-introduction.md)]'

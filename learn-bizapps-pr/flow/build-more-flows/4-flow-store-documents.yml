@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.4-flow-store-documents
+title: <span data-ttu-id="82f34-101">Vytvoření toku, který ukládá dokumenty</span><span class="sxs-lookup"><span data-stu-id="82f34-101">Create a flow that stores documents</span></span>
+metadata:
+  title: <span data-ttu-id="82f34-102">Vytvoření toku, který ukládá dokumenty</span><span class="sxs-lookup"><span data-stu-id="82f34-102">Create a flow that stores documents</span></span>
+  description: <span data-ttu-id="82f34-103">Přečtěte si, jak vytvořit tok, který převede soubory do formátu PDF a pak je uloží na server.</span><span class="sxs-lookup"><span data-stu-id="82f34-103">Learn to build a flow that converts files to PDF and then stores them on a server.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: d3c1a4bad5aecd42abe02b0740fa0e58c4b4836f
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 6
+content: '[!include[](includes/4-flow-store-documents.md)]'

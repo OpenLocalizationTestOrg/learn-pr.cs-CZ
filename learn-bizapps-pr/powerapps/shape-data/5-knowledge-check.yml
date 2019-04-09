@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.shape-data.5-knowledge-check
+metadata:
+  title: <span data-ttu-id="d398e-101">Formování dat v aplikaci plátna PowerApps – prověrka znalostí</span><span class="sxs-lookup"><span data-stu-id="d398e-101">Shape data in a PowerApps canvas app knowledge check</span></span>
+  description: <span data-ttu-id="d398e-102">Formování dat v aplikaci plátna PowerApps – prověrka znalostí</span><span class="sxs-lookup"><span data-stu-id="d398e-102">Shape data in a PowerApps canvas app knowledge check</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 099fa5ecc7cc2e1f4ee9ee3a69511f0868baf31f
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265885"
+title: <span data-ttu-id="d398e-103">Prověřte své znalosti</span><span class="sxs-lookup"><span data-stu-id="d398e-103">Check your knowledge</span></span>
+durationInMinutes: 6
+quiz:
+  title: <span data-ttu-id="d398e-104">Formování dat v aplikaci plátna PowerApps – prověrka znalostí</span><span class="sxs-lookup"><span data-stu-id="d398e-104">Shape data in a PowerApps canvas app knowledge check</span></span>
+  questions:
+  - content: <span data-ttu-id="d398e-105">Jaká je správná syntaxe pro funkci v PowerApps, která má spárovat záznamy v případě, že hodnota některého ze vzorců je true?</span><span class="sxs-lookup"><span data-stu-id="d398e-105">What is the correct syntax for a function in PowerApps where you would like to match records if either formula is true?</span></span>
+    choices:
+    - content: <span data-ttu-id="d398e-106">Country = "Německo" or Country = "Francie"</span><span class="sxs-lookup"><span data-stu-id="d398e-106">Country = "Germany" or Country = "France"</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-107">Správná syntaxe je Country = "Německo" Or Country = "Francie".</span><span class="sxs-lookup"><span data-stu-id="d398e-107">The correct syntax is Country = "Germany" Or Country = "France".</span></span>
+    - content: <span data-ttu-id="d398e-108">Country = "Německo" Or Country = "Francie"</span><span class="sxs-lookup"><span data-stu-id="d398e-108">Country = "Germany" Or Country = "France"</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="d398e-109">Správná syntaxe je Country = "Německo" Or Country = "Francie".</span><span class="sxs-lookup"><span data-stu-id="d398e-109">The correct syntax is Country = "Germany" Or Country = "France".</span></span>
+    - content: <span data-ttu-id="d398e-110">Country = "Německo" or "Francie"</span><span class="sxs-lookup"><span data-stu-id="d398e-110">Country = "Germany" or "France"</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-111">Správná syntaxe je Country = "Německo" Or Country = "Francie".</span><span class="sxs-lookup"><span data-stu-id="d398e-111">The correct syntax is Country = "Germany" Or Country = "France".</span></span>
+    - content: <span data-ttu-id="d398e-112">Country = "Německo" Or "Francie"</span><span class="sxs-lookup"><span data-stu-id="d398e-112">Country = "Germany" Or "France"</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-113">Správná syntaxe je Country = "Německo" Or Country = "Francie".</span><span class="sxs-lookup"><span data-stu-id="d398e-113">The correct syntax is Country = "Germany" Or Country = "France".</span></span>
+  - content: <span data-ttu-id="d398e-114">Které z následujících sloupcových funkcí umožňují provádět úpravy sloupců tabulky jenom v rámci PowerApps?</span><span class="sxs-lookup"><span data-stu-id="d398e-114">Which of the following column functions allow you to modify the columns of your table only within PowerApps?</span></span>
+    choices:
+    - content: <span data-ttu-id="d398e-115">AddColumns</span><span class="sxs-lookup"><span data-stu-id="d398e-115">AddColumns</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="d398e-116">Funkcí, kterou lze použít, je AddColumns.</span><span class="sxs-lookup"><span data-stu-id="d398e-116">AddColumns is the function that can be used.</span></span>
+    - content: <span data-ttu-id="d398e-117">NameColumns</span><span class="sxs-lookup"><span data-stu-id="d398e-117">NameColumns</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-118">Funkcí, kterou lze použít, je AddColumns.</span><span class="sxs-lookup"><span data-stu-id="d398e-118">AddColumns is the function that can be used.</span></span>
+    - content: <span data-ttu-id="d398e-119">ReduceColumns</span><span class="sxs-lookup"><span data-stu-id="d398e-119">ReduceColumns</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-120">Funkcí, kterou lze použít, je AddColumns.</span><span class="sxs-lookup"><span data-stu-id="d398e-120">AddColumns is the function that can be used.</span></span>
+    - content: <span data-ttu-id="d398e-121">CalculateColumns</span><span class="sxs-lookup"><span data-stu-id="d398e-121">CalculateColumns</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-122">Funkcí, kterou lze použít, je AddColumns.</span><span class="sxs-lookup"><span data-stu-id="d398e-122">AddColumns is the function that can be used.</span></span>
+  - content: <span data-ttu-id="d398e-123">Pokud je hledaný řetězec prázdný, jaké záznamy se vrátí?</span><span class="sxs-lookup"><span data-stu-id="d398e-123">If the search string is blank, what records are returned?</span></span>
+    choices:
+    - content: <span data-ttu-id="d398e-124">Nevrátí se žádné záznamy.</span><span class="sxs-lookup"><span data-stu-id="d398e-124">No records are returned.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-125">Vrátí se všechny záznamy.</span><span class="sxs-lookup"><span data-stu-id="d398e-125">All records are returned.</span></span>
+    - content: <span data-ttu-id="d398e-126">Vrátí se záznamy hledání posledního uživatele.</span><span class="sxs-lookup"><span data-stu-id="d398e-126">The last user's search records are returned.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-127">Vrátí se všechny záznamy.</span><span class="sxs-lookup"><span data-stu-id="d398e-127">All records are returned.</span></span>
+    - content: <span data-ttu-id="d398e-128">Vrátí se všechny záznamy.</span><span class="sxs-lookup"><span data-stu-id="d398e-128">All records are returned.</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="d398e-129">Vrátí se všechny záznamy.</span><span class="sxs-lookup"><span data-stu-id="d398e-129">All records are returned.</span></span>
+    - content: <span data-ttu-id="d398e-130">Autor aplikace musí zadat ve vzorci, jaké záznamy se mají vrátit v případě, že hledaný řetězec je prázdný.</span><span class="sxs-lookup"><span data-stu-id="d398e-130">The app creator must specify in the formula what records to return if the search string is blank.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="d398e-131">Vrátí se všechny záznamy.</span><span class="sxs-lookup"><span data-stu-id="d398e-131">All records are returned.</span></span>

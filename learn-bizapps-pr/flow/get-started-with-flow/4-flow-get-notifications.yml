@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.4-flow-get-notifications
+title: <span data-ttu-id="5db1b-101">Příjem textových a e-mailových oznámení z toků</span><span class="sxs-lookup"><span data-stu-id="5db1b-101">Receive text and email notifications from flows</span></span>
+metadata:
+  title: <span data-ttu-id="5db1b-102">Příjem textových a e-mailových oznámení z toků</span><span class="sxs-lookup"><span data-stu-id="5db1b-102">Receive text and email notifications from flows</span></span>
+  description: <span data-ttu-id="5db1b-103">Zjistěte, jak vytvářet toky, abyste dostávali textová a e-mailová oznámení.</span><span class="sxs-lookup"><span data-stu-id="5db1b-103">Learn how to get text and email notifications when you create flows.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 1248847434deb9e5fb524a74b1718db27247e287
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 5
+content: '[!include[](includes/4-flow-get-notifications.md)]'

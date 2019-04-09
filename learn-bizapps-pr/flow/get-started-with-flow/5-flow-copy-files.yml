@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.5-flow-copy-files
+title: <span data-ttu-id="43537-101">Kopírování souborů pomocí toků</span><span class="sxs-lookup"><span data-stu-id="43537-101">Copy files with flows</span></span>
+metadata:
+  title: <span data-ttu-id="43537-102">Kopírování souborů pomocí toků</span><span class="sxs-lookup"><span data-stu-id="43537-102">Copy files with flows</span></span>
+  description: <span data-ttu-id="43537-103">Zjistěte, jak kopírovat soubory z jedné služby do druhé.</span><span class="sxs-lookup"><span data-stu-id="43537-103">Learn how to copy files from one service to another.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: c6374daf7bc30ce5d5f2d7691c3090cb1273df30
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 5
+content: '[!include[](includes/5-flow-copy-files.md)]'

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.8-flow-team-flows
+title: <span data-ttu-id="570a5-101">Vytváření týmových toků</span><span class="sxs-lookup"><span data-stu-id="570a5-101">Create team flows</span></span>
+metadata:
+  title: <span data-ttu-id="570a5-102">Vytváření týmových toků</span><span class="sxs-lookup"><span data-stu-id="570a5-102">Create team flows</span></span>
+  description: <span data-ttu-id="570a5-103">Zjistěte, jak vytvořit tok, který může být používaný vaším týmem.</span><span class="sxs-lookup"><span data-stu-id="570a5-103">Learn how to build a flow that your team can use.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 923d2809d40005e004270fd4e806ef70eedabbe0
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 5
+content: '[!include[](includes/8-flow-team-flows.md)]'

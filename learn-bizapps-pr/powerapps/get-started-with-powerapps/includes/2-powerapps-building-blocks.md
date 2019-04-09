@@ -1,0 +1,40 @@
+---
+ms.openlocfilehash: cccabbf9acfdf220f597403a4f4b77c94727c9a4
+ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+ms.translationtype: HT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "57697962"
+---
+<span data-ttu-id="aea01-101">V první lekci jste se naučili hlavní části Microsoft PowerApps.</span><span class="sxs-lookup"><span data-stu-id="aea01-101">In the first unit, you learned about the main parts of Microsoft PowerApps.</span></span> <span data-ttu-id="aea01-102">Teď se na každou část podíváme podrobněji.</span><span class="sxs-lookup"><span data-stu-id="aea01-102">We're now going to dive deeper into each part.</span></span> <span data-ttu-id="aea01-103">Součásti PowerApps:</span><span class="sxs-lookup"><span data-stu-id="aea01-103">The PowerApps components are:</span></span>
+
+* <span data-ttu-id="aea01-104">**web.powerapps.com:** Tady se spouštějí aplikace. Nezáleží přitom, jestli jste je vytvořili z dat, ukázkové aplikace nebo prázdné obrazovky.</span><span class="sxs-lookup"><span data-stu-id="aea01-104">**web.powerapps.com**: Apps start here, whether you build them from data, a sample app, or a blank screen.</span></span>
+* <span data-ttu-id="aea01-105">**PowerApps Studio:** Tady můžete aplikace snadno připojit k datům, přidat a uspořádat prvky uživatelského rozhraní (takzvané ovládací prvky) a sestavovat vzorce.</span><span class="sxs-lookup"><span data-stu-id="aea01-105">**PowerApps Studio**: Flesh out your apps by easily connecting to data, adding and arranging user interface (UI) elements (known as controls), and building formulas.</span></span>
+* <span data-ttu-id="aea01-106">**PowerApps Mobile:** Aplikace můžete spouštět na zařízeních se systémy Microsoft Windows, Apple iOS a Google Android.</span><span class="sxs-lookup"><span data-stu-id="aea01-106">**PowerApps Mobile**: Run your apps on Microsoft Windows, Apple iOS, and Google Android devices.</span></span>
+* <span data-ttu-id="aea01-107">**Centrum pro správu PowerApps:** Umožňuje spravovat prostředí PowerApps a další součásti.</span><span class="sxs-lookup"><span data-stu-id="aea01-107">**PowerApps admin center**: Manage PowerApps environments and other components.</span></span>
+
+## <a name="webpowerappscom"></a><span data-ttu-id="aea01-108">web.powerapps.com</span><span class="sxs-lookup"><span data-stu-id="aea01-108">web.powerapps.com</span></span>
+<span data-ttu-id="aea01-109">Pokud vytváříte aplikaci, začnete tady.</span><span class="sxs-lookup"><span data-stu-id="aea01-109">If you are building an app, you'll start here.</span></span> <span data-ttu-id="aea01-110">Aplikace můžete vytvářet z ukázkových aplikací, ze šablon nebo z prázdné obrazovky.</span><span class="sxs-lookup"><span data-stu-id="aea01-110">You can build apps from sample apps, from templates, or from a blank screen.</span></span> <span data-ttu-id="aea01-111">Na tomto portálu se zobrazí všechny aplikace, které jste vytvořili, společně se všemi aplikacemi, které vytvořili jiní uživatelé a vám je nasdíleli.</span><span class="sxs-lookup"><span data-stu-id="aea01-111">All the apps that you've built appear here, along with any apps that others have created and shared with you.</span></span>
+
+![Webová stránka web.powerapps.com](../media/powerapps-homepage5.png)
+
+## <a name="powerapps-studio"></a><span data-ttu-id="aea01-113">PowerApps Studio</span><span class="sxs-lookup"><span data-stu-id="aea01-113">PowerApps Studio</span></span>
+<span data-ttu-id="aea01-114">V nástroji PowerApps Studio dolaďujete svoje aplikace, aby se z nich staly účinnější obchodní nástroje a aby byly atraktivnější.</span><span class="sxs-lookup"><span data-stu-id="aea01-114">PowerApps Studio is where you flesh out your apps to make them more effective as a business tool and to make them more attractive.</span></span> <span data-ttu-id="aea01-115">PowerApps Studio má tři podokna, díky kterým se tvorba aplikací podobá vytváření prezentace v Microsoft PowerPointu:</span><span class="sxs-lookup"><span data-stu-id="aea01-115">PowerApps Studio has three panes that make creating apps feel more like building a slide deck in Microsoft PowerPoint:</span></span>
+
+- <span data-ttu-id="aea01-116">V levém podokně se zobrazuje hierarchická struktura všech ovládacích prvků na jednotlivých obrazovkách nebo miniatury jednotlivých obrazovek v aplikaci.</span><span class="sxs-lookup"><span data-stu-id="aea01-116">Left pane, which shows a hierarchical view of all the controls on each screen or a thumbnail for each screen in your app.</span></span>
+- <span data-ttu-id="aea01-117">V prostředním podokně se zobrazuje aplikace, na které pracujete.</span><span class="sxs-lookup"><span data-stu-id="aea01-117">Middle pane, which shows the app that you're working on.</span></span>
+- <span data-ttu-id="aea01-118">V pravém podokně nastavujete možnosti, jako jsou rozložení a zdroje dat pro určité ovládací prvky.</span><span class="sxs-lookup"><span data-stu-id="aea01-118">Right pane, where you set options such as the layout and data sources for certain controls.</span></span>
+
+![PowerApps Studio](../media/powerapps-full-screen.png)
+
+## <a name="powerapps-mobile"></a><span data-ttu-id="aea01-120">PowerApps Mobile</span><span class="sxs-lookup"><span data-stu-id="aea01-120">PowerApps Mobile</span></span>
+<span data-ttu-id="aea01-121">PowerApps Mobile pro zařízení s Windows, iOSem nebo Androidem nabízí prostředí, kde najdete své aplikace a můžete je používat.</span><span class="sxs-lookup"><span data-stu-id="aea01-121">PowerApps Mobile for Windows, iOS, and Android devices provides an environment where you can find and use your apps.</span></span> <span data-ttu-id="aea01-122">Když chcete používat aplikace, které jste vytvořili a které s vámi sdílí jiní uživatelé, nemusíte otevírat samostatné obchody s aplikacemi.</span><span class="sxs-lookup"><span data-stu-id="aea01-122">You don't need to open separate app stores to use all the apps that you've created and that others have shared with you.</span></span> <span data-ttu-id="aea01-123">Pokud používáte aplikace v PowerApps Mobile, můžete maximálně využít možnosti svého zařízení, například ovládání fotoaparátu, poloha GPS a další funkce.</span><span class="sxs-lookup"><span data-stu-id="aea01-123">When you use apps in PowerApps Mobile, you get the most out of your device's capabilities: camera controls, GPS location, and more.</span></span>
+
+![PowerApps Mobile](../media/powerapps-mobile.png)
+
+## <a name="admin-center"></a><span data-ttu-id="aea01-125">Centrum pro správu</span><span class="sxs-lookup"><span data-stu-id="aea01-125">Admin center</span></span>
+<span data-ttu-id="aea01-126">Centrum pro správu PowerApps je společným místem pro správu PowerApps v organizaci.</span><span class="sxs-lookup"><span data-stu-id="aea01-126">The PowerApps admin center is the centralized place for managing PowerApps for an organization.</span></span> <span data-ttu-id="aea01-127">Na tomto webu můžete definovat různá prostředí, do kterých se umísťují aplikace.</span><span class="sxs-lookup"><span data-stu-id="aea01-127">On this site, you define different environments that house the apps.</span></span> <span data-ttu-id="aea01-128">Můžete také definovat datová připojení a další prvky.</span><span class="sxs-lookup"><span data-stu-id="aea01-128">You also define data connections and other elements.</span></span> <span data-ttu-id="aea01-129">V centru pro správu také spravujete oprávnění a datová pravidla.</span><span class="sxs-lookup"><span data-stu-id="aea01-129">The admin center is also where you manage permissions and data policies.</span></span>
+
+![Centrum pro správu PowerApps](../media//powerapps-admin.png)
+
+<span data-ttu-id="aea01-131">V další lekci se seznámíte se skupinou příbuzných technologií, které spolupracují s PowerApps, a společně tvoří účinný ekosystém pro vývoj aplikací.</span><span class="sxs-lookup"><span data-stu-id="aea01-131">In the next unit, you'll learn about the set of related technologies that PowerApps works with to make a powerful ecosystem for app development.</span></span>

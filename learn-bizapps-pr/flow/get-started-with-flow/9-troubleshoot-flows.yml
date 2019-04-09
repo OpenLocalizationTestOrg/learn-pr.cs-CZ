@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.9-troubleshoot-flows
+title: <span data-ttu-id="e8534-101">Řešení problémů s toky</span><span class="sxs-lookup"><span data-stu-id="e8534-101">Troubleshoot flows</span></span>
+metadata:
+  title: <span data-ttu-id="e8534-102">Řešení problémů s toky</span><span class="sxs-lookup"><span data-stu-id="e8534-102">Troubleshoot flows</span></span>
+  description: <span data-ttu-id="e8534-103">Zjistěte, jak u toků řešit problémy s připojeními a výkonem.</span><span class="sxs-lookup"><span data-stu-id="e8534-103">Learn how to troubleshoot flows to fix issues with connections and performance.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: ed5f075166553bad317f3653ebe1dbbf49a65c98
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 5
+content: '[!include[](includes/9-troubleshoot-flows.md)]'

@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.write-data
+metadata:
+  title: Zápis dat v aplikaci plátna PowerApps
+  description: Formuláře mohou sloužit k zobrazení, úpravám a vytváření záznamů. Tento modul ukazuje, jak pomocí formulářů zapisovat data do zdroje dat.  Témata zahrnují nastavení formuláře, různé režimy formuláře a konfiguraci tlačítka pro odeslání.
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: f89eb4da557db06cad0bf43a7ddd246cec4b0817
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265877"
+title: Zápis dat v aplikaci plátna PowerApps
+summary: Formuláře mohou sloužit k zobrazení, úpravám a vytváření záznamů. Tento modul ukazuje, jak pomocí formulářů zapisovat data do zdroje dat.  Témata zahrnují nastavení formuláře, různé režimy formuláře a konfiguraci tlačítka pro odeslání.
+abstract: "V tomto modulu: \n- Princip práce s formuláři v aplikacích plátna\n- Konfigurace tlačítka pro odeslání za účelem zápisu dat\n- Použití a princip různých režimů formuláře\n"
+prerequisites: Měli byste mít základní znalosti o tom, jak vytvořit aplikaci plátna PowerApps.
+iconUrl: /learn/achievements/write-data.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+units:
+- learn-bizapps.write-data.1-introduction-to-forms
+- learn-bizapps.write-data.2-form-modes
+- learn-bizapps.write-data.3-adding-customizing-edit-form
+- learn-bizapps.write-data.4-submit-your-form
+- learn-bizapps.write-data.5-special-properties
+- learn-bizapps.write-data.6-knowledge-check
+- learn-bizapps.write-data.7-summary
+badge:
+  uid: learn.write-data.badge

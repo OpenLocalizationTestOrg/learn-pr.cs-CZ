@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.2-flow-create-approval-request
+title: <span data-ttu-id="a3f31-101">Vytvoření žádosti o schválení</span><span class="sxs-lookup"><span data-stu-id="a3f31-101">Build an approval request</span></span>
+metadata:
+  title: <span data-ttu-id="a3f31-102">Vytvoření žádosti o schválení</span><span class="sxs-lookup"><span data-stu-id="a3f31-102">Build an approval request</span></span>
+  description: <span data-ttu-id="a3f31-103">Vytvořte žádost o schválení, která ke schvalování tweetů používá SharePoint a Flow.</span><span class="sxs-lookup"><span data-stu-id="a3f31-103">Create an approval request that uses SharePoint and Flow to approval tweets.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 8ca7a6e30609ad36d5e14d9633831e0af0c6c85c
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 8
+content: '[!include[](includes/2-flow-create-approval-request.md)]'

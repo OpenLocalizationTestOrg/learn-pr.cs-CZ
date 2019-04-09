@@ -1,0 +1,46 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.6-knowledge-check
+metadata:
+  title: '<span data-ttu-id="1c204-101">Prověrka znalostí: Začínáme s modelem řízenými aplikacemi</span><span class="sxs-lookup"><span data-stu-id="1c204-101">Knowledge check: Get started in model-driven apps</span></span>'
+  description: <span data-ttu-id="1c204-102">Tento kvíz prověří, jestli víte, jak začít s modelem řízenými aplikacemi.</span><span class="sxs-lookup"><span data-stu-id="1c204-102">This quiz tests your knowledge of how to get started building model-driven apps.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: dfbcfe292459ea158c1220fe096d1b6514fb34ab
+  ms.sourcegitcommit: ea295d90d665cb91222895600f8945aff5a20f02
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58218046"
+title: <span data-ttu-id="1c204-103">Zkontrolujte své znalosti</span><span class="sxs-lookup"><span data-stu-id="1c204-103">Check your knowledge</span></span>
+durationInMinutes: 5
+quiz:
+  title: '<span data-ttu-id="1c204-104">Prověrka znalostí: Začínáme s modelem řízenými aplikacemi</span><span class="sxs-lookup"><span data-stu-id="1c204-104">Knowledge check: Get started in model-driven apps</span></span>'
+  questions:
+  - content: <span data-ttu-id="1c204-105">Které z následujících tvrzení o entitách je pravdivé?</span><span class="sxs-lookup"><span data-stu-id="1c204-105">Which of the following statements about entities is true?</span></span>
+    choices:
+    - content: <span data-ttu-id="1c204-106">Entity jsou vlastnosti, které pomáhají definovat pole.</span><span class="sxs-lookup"><span data-stu-id="1c204-106">Entities are properties that help define a field.</span></span>
+      explanation: <span data-ttu-id="1c204-107">Entity nejsou vlastnosti.</span><span class="sxs-lookup"><span data-stu-id="1c204-107">Entities aren't properties.</span></span> <span data-ttu-id="1c204-108">Mají ale vlastnosti.</span><span class="sxs-lookup"><span data-stu-id="1c204-108">But they have properties.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1c204-109">Entity obsahují pole.</span><span class="sxs-lookup"><span data-stu-id="1c204-109">Entities have fields.</span></span>
+      explanation: <span data-ttu-id="1c204-110">Entity neobsahují pole.</span><span class="sxs-lookup"><span data-stu-id="1c204-110">Entities don't have fields.</span></span> <span data-ttu-id="1c204-111">Vlastnosti obsahují pole.</span><span class="sxs-lookup"><span data-stu-id="1c204-111">Properties have fields.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1c204-112">Názvy obchodních vztahů jsou typem entity.</span><span class="sxs-lookup"><span data-stu-id="1c204-112">Account names are a type of entity.</span></span>
+      explanation: <span data-ttu-id="1c204-113">Obchodní vztahy jsou běžné entity sloužící k popisu zákazníků.</span><span class="sxs-lookup"><span data-stu-id="1c204-113">Accounts are a common entity that's used to describe customers.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="1c204-114">Relace přidružují pole k vlastnosti.</span><span class="sxs-lookup"><span data-stu-id="1c204-114">Relationships associate a field with a property.</span></span>
+      explanation: <span data-ttu-id="1c204-115">Relace definují, jak spolu entity navzájem souvisejí.</span><span class="sxs-lookup"><span data-stu-id="1c204-115">Relationships define how entities can be related to each other.</span></span> <span data-ttu-id="1c204-116">Nesouvisejí s entitami ani poli.</span><span class="sxs-lookup"><span data-stu-id="1c204-116">They don't relate entities or fields.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="1c204-117">Které z následujících tvrzení o zabezpečení modelem řízených aplikací je pravdivé?</span><span class="sxs-lookup"><span data-stu-id="1c204-117">Which of the following statements about security for model-driven apps is true?</span></span>
+    choices:
+    - content: <span data-ttu-id="1c204-118">Zabezpečení vychází z oprávnění Microsoft SharePointu.</span><span class="sxs-lookup"><span data-stu-id="1c204-118">Security is based on Microsoft SharePoint permissions.</span></span>
+      explanation: <span data-ttu-id="1c204-119">Zabezpečení modelem řízených aplikací vychází z rolí obsahujících sady oprávnění.</span><span class="sxs-lookup"><span data-stu-id="1c204-119">Security for model-driven apps is built on roles that contain a set of privileges.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1c204-120">Role zabezpečení lze přiřadit týmům.</span><span class="sxs-lookup"><span data-stu-id="1c204-120">Security roles can be assigned to teams.</span></span>
+      explanation: <span data-ttu-id="1c204-121">Role zabezpečení lze přiřadit týmům a jednotlivcům.</span><span class="sxs-lookup"><span data-stu-id="1c204-121">Security roles can be assigned to teams and individuals.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="1c204-122">Role zabezpečení jsou definované systémem Microsoft Windows a nelze je změnit.</span><span class="sxs-lookup"><span data-stu-id="1c204-122">Security roles are defined by Microsoft Windows and can't be changed.</span></span>
+      explanation: <span data-ttu-id="1c204-123">Role zabezpečení lze přizpůsobit.</span><span class="sxs-lookup"><span data-stu-id="1c204-123">Security roles can be customized.</span></span>
+      isCorrect: false

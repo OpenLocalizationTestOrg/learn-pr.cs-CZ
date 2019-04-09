@@ -1,0 +1,34 @@
+---
+ms.openlocfilehash: 463829face4537b11f31594aa20add2bf3183027
+ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+ms.translationtype: HT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "58265881"
+---
+<span data-ttu-id="bb177-101">Další způsob, jak aplikaci učinit pro uživatele dynamičtější a intuitivnější, spočívá v použití funkcí **IsBlank**, **IsEmpty**, **IsNumeric**, **IsToday** a **IsMatch**.</span><span class="sxs-lookup"><span data-stu-id="bb177-101">Another way to make your App more dynamic and intuitive to the user is to use the **IsBlank**, **IsEmpty**, **IsNumeric**, **IsToday**, and **IsMatch** functions.</span></span> <span data-ttu-id="bb177-102">Tyto funkce umožňují ověřit stav pole, ovládacího prvku, proměnné nebo tabulky.</span><span class="sxs-lookup"><span data-stu-id="bb177-102">These functions allow for validation of the condition of a field, control, variable, or table.</span></span> <span data-ttu-id="bb177-103">Všechny tyto funkce vracejí hodnotu true nebo false na základě výsledků jejich vyhodnocení.</span><span class="sxs-lookup"><span data-stu-id="bb177-103">All these functions return true or false based on the results of their evaluation.</span></span> <span data-ttu-id="bb177-104">Můžete tak vytvořit řešení, ve kterých uživateli neumožníte odeslání formuláře, pokud je pole prázdné nebo pokud data v poli neodpovídají vyhodnocení.</span><span class="sxs-lookup"><span data-stu-id="bb177-104">This can allow for the creation of solutions where you don't allow the user to submit a form if a field is blank or if the field's data doesn't match the evaluation.</span></span> <span data-ttu-id="bb177-105">Následuje přehled jednotlivých funkcí.</span><span class="sxs-lookup"><span data-stu-id="bb177-105">The following is an overview of each function.</span></span>
+
+-   <span data-ttu-id="bb177-106">**IsBlank** – tato funkce zkontroluje, jestli je výsledek pole, vlastnosti nebo proměnné prázdný.</span><span class="sxs-lookup"><span data-stu-id="bb177-106">**IsBlank** -- This function checks a field, property, or variable to see if the result is blank.</span></span> <span data-ttu-id="bb177-107">Pokud je objekt prázdný, vrátí funkce hodnotu true.</span><span class="sxs-lookup"><span data-stu-id="bb177-107">If the object is blank then the function returns true.</span></span>
+
+-   <span data-ttu-id="bb177-108">**IsEmpty** -- tato funkce zkontroluje, jestli tabulka dat obsahuje záznamy.</span><span class="sxs-lookup"><span data-stu-id="bb177-108">**IsEmpty** -- This function checks a table of data to see if it contains records.</span></span> <span data-ttu-id="bb177-109">Pokud je tabulka prázdná, vrátí funkce hodnotu true.</span><span class="sxs-lookup"><span data-stu-id="bb177-109">If the table is empty then the function returns true.</span></span>
+
+-   <span data-ttu-id="bb177-110">**IsMatch** – tato funkce zkontroluje, jestli se výsledek pole, vlastnosti nebo proměnné shoduje se zadaným vzorem.</span><span class="sxs-lookup"><span data-stu-id="bb177-110">**IsMatch** -- This function checks a field, property, or variable to determine if the result matches the specified pattern.</span></span> <span data-ttu-id="bb177-111">Pokud se s vzorem shoduje, vrátí funkce hodnotu true.</span><span class="sxs-lookup"><span data-stu-id="bb177-111">If the pattern is a match the function returns true.</span></span> <span data-ttu-id="bb177-112">Podrobnosti o různých vzorech shody najdete v článku o [funkci IsMatch v PowerApps](https://docs.microsoft.com/powerapps/maker/canvas-apps/functions/function-ismatch).</span><span class="sxs-lookup"><span data-stu-id="bb177-112">For details about the various matching patterns, see [IsMatch function in PowerApps](https://docs.microsoft.com/powerapps/maker/canvas-apps/functions/function-ismatch).</span></span>
+
+-   <span data-ttu-id="bb177-113">**IsNumeric** – tato funkce zkontroluje, jestli je výsledek pole, vlastnosti nebo proměnné číselný.</span><span class="sxs-lookup"><span data-stu-id="bb177-113">**IsNumeric** -- This function checks a field, property, or variable to determine if the result is numeric.</span></span> <span data-ttu-id="bb177-114">Pokud je objekt číselný, vrátí funkce hodnotu true.</span><span class="sxs-lookup"><span data-stu-id="bb177-114">If the object is numeric, then the function returns true.</span></span>
+
+-   <span data-ttu-id="bb177-115">**IsToday** – tato funkce zkontroluje, jestli hodnota data nebo času leží mezi dnešní a zítřejší půlnocí.</span><span class="sxs-lookup"><span data-stu-id="bb177-115">**IsToday** -- This function checks if a date or time value is between midnight today and midnight tomorrow.</span></span> <span data-ttu-id="bb177-116">Pokud je hodnota data nebo času v tomto rozsahu, vrátí funkce hodnotu true.</span><span class="sxs-lookup"><span data-stu-id="bb177-116">If the date or time value is within that range, the function returns true.</span></span>
+
+<span data-ttu-id="bb177-117">Pomocí následujícího příkladu můžete zakázat tlačítko, pokud ovládací prvek **Textové zadání** neobsahuje platnou e-mailovou adresu.</span><span class="sxs-lookup"><span data-stu-id="bb177-117">Use the following example to disable a button if the **Text Input** control is not a valid email address.</span></span>
+
+1.  <span data-ttu-id="bb177-118">Přidejte na plátno ovládací prvek **Textové zadání**.</span><span class="sxs-lookup"><span data-stu-id="bb177-118">Add a **Text Input** control to the canvas.</span></span>
+
+2.  <span data-ttu-id="bb177-119">Přidejte na plátno ovládací prvek **Tlačítko**.</span><span class="sxs-lookup"><span data-stu-id="bb177-119">Add a **Button** control to the canvas.</span></span>
+
+3.  <span data-ttu-id="bb177-120">Upravte vlastnost **DisplayMode** ovládacího prvku **Tlačítko** na následující vzorec.</span><span class="sxs-lookup"><span data-stu-id="bb177-120">Modify the **DisplayMode** property of the **Button** control to the following formula.</span></span>
+```
+If(IsMatch(TextInput1.Text, Email), DisplayMode.Edit,DisplayMode.Disabled)
+```
+
+4.  <span data-ttu-id="bb177-121">Výběrem tlačítka **Přehrát** v pravém horním rohu zobrazte náhled aplikace.</span><span class="sxs-lookup"><span data-stu-id="bb177-121">Preview the app by selecting the **Play** button in the upper-right corner.</span></span>
+
+5.  <span data-ttu-id="bb177-122">Pokud je pole prázdné nebo obsahuje neúplnou e-mailovou adresu, bude toto tlačítko zakázané a zobrazené šedou barvou.</span><span class="sxs-lookup"><span data-stu-id="bb177-122">If the field is blank or has an incomplete email address, the button will be disabled and display in a grey color.</span></span> <span data-ttu-id="bb177-123">Při zadání platné naformátované e-mailové adresy toto tlačítko zmodrá.</span><span class="sxs-lookup"><span data-stu-id="bb177-123">When you enter a valid formatted email address, the button will turn to blue.</span></span>

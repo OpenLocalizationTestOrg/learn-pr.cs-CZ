@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-administration.4-knowledge-check
+title: <span data-ttu-id="1cd1a-101">Zkontrolujte své znalosti</span><span class="sxs-lookup"><span data-stu-id="1cd1a-101">Check your knowledge</span></span>
+metadata:
+  title: '<span data-ttu-id="1cd1a-102">Prověrka znalostí: Správa toků</span><span class="sxs-lookup"><span data-stu-id="1cd1a-102">Knowledge check: Administer flows</span></span>'
+  description: <span data-ttu-id="1cd1a-103">Tento kvíz prověří vaše znalosti týkající se správy toků.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-103">This quiz tests your knowledge of how to administer flows</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 0020e9e1aebf8a0b4c8d9603ca1ab391e9581534
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697740"
+durationInMinutes: 6
+quiz:
+  title: '<span data-ttu-id="1cd1a-104">Prověrka znalostí: Správa toků</span><span class="sxs-lookup"><span data-stu-id="1cd1a-104">Knowledge check: Administer flows</span></span>'
+  questions:
+  - content: <span data-ttu-id="1cd1a-105">Kdo může importovat tok po jeho vyexportování?</span><span class="sxs-lookup"><span data-stu-id="1cd1a-105">After a flow has been exported, who can import the flow?</span></span>
+    choices:
+    - content: <span data-ttu-id="1cd1a-106">Jenom úpravci systému</span><span class="sxs-lookup"><span data-stu-id="1cd1a-106">Only System Customizers</span></span>
+      explanation: <span data-ttu-id="1cd1a-107">Každý uživatel, který obdrží soubor zip, ho může naimportovat.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-107">Anyone that receives the zip file can import it.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1cd1a-108">Jenom správci systému</span><span class="sxs-lookup"><span data-stu-id="1cd1a-108">Only System Administrators</span></span>
+      explanation: <span data-ttu-id="1cd1a-109">Každý uživatel, který obdrží soubor zip, ho může naimportovat.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-109">Anyone that receives the zip file can import it.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1cd1a-110">Jenom uživatel, který tok exportoval</span><span class="sxs-lookup"><span data-stu-id="1cd1a-110">Only the user that exported the flow</span></span>
+      explanation: <span data-ttu-id="1cd1a-111">Každý uživatel, který obdrží soubor zip, ho může naimportovat.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-111">Anyone that receives the zip file can import it.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1cd1a-112">Každý uživatel, který obdrží soubor zip, ho může importovat</span><span class="sxs-lookup"><span data-stu-id="1cd1a-112">Anyone that receives the zip file can import it</span></span>
+      explanation: <span data-ttu-id="1cd1a-113">Každý uživatel, který obdrží soubor zip, může importovat tok.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-113">Anyone that recieves the zip file can import the flow.</span></span>
+      isCorrect: true
+  - content: <span data-ttu-id="1cd1a-114">Která z následujících položek je nutná ke sdílení toků spouštěných tlačítkem?</span><span class="sxs-lookup"><span data-stu-id="1cd1a-114">Which of the following is a requirement to share button flows?</span></span>
+    choices:
+    - content: <span data-ttu-id="1cd1a-115">Účet, který má přístup k Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="1cd1a-115">An account that has access to Microsoft Flow.</span></span>
+      explanation: <span data-ttu-id="1cd1a-116">Ke sdílení toků spouštěných tlačítkem je nutný účet Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-116">A Microsoft Flow account is a requirement to share button flows.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="1cd1a-117">Účet, který je úpravcem systému</span><span class="sxs-lookup"><span data-stu-id="1cd1a-117">An account that is a System Customizer.</span></span>
+      explanation: <span data-ttu-id="1cd1a-118">Ke sdílení toku není nutné být úpravcem systému.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-118">It is not a requirement to be a System Customizer to share a flow.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1cd1a-119">Účet, který je správcem systému</span><span class="sxs-lookup"><span data-stu-id="1cd1a-119">An account that is a System Administrator.</span></span>
+      explanation: <span data-ttu-id="1cd1a-120">Ke sdílení toku není nutné být správcem systému.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-120">It is not a requirement to be a System Administrator to share a flow.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1cd1a-121">Sharepointový účet a oprávnění ke sdílení Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="1cd1a-121">A SharePoint account and Microsoft Flow sharing rights.</span></span>
+      explanation: <span data-ttu-id="1cd1a-122">Ke sdílení toku spouštěného tlačítkem není nutné mít sharepointový účet ani oprávnění ke sdílení.</span><span class="sxs-lookup"><span data-stu-id="1cd1a-122">It is not a requirement to have a Sharepoint account or sharing rights to share a button flow.</span></span>
+      isCorrect: false

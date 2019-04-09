@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.5-powerapps-create-first
+title: <span data-ttu-id="7451e-101">Vytvoření první aplikace PowerApps</span><span class="sxs-lookup"><span data-stu-id="7451e-101">Create your first PowerApps app</span></span>
+metadata:
+  title: <span data-ttu-id="7451e-102">Vytvoření první aplikace v PowerApps</span><span class="sxs-lookup"><span data-stu-id="7451e-102">Create your first app in PowerApps</span></span>
+  description: <span data-ttu-id="7451e-103">Přečtěte si, jak můžete vytvořit svoji první aplikaci v PowerApps.</span><span class="sxs-lookup"><span data-stu-id="7451e-103">Learn to build your first app in PowerApps.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 9f13e13c440786d11975fe0fb96a9814e2161ef2
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697962"
+durationInMinutes: 15
+content: '[!include[](includes/5-powerapps-create-first.md)]'

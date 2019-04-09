@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-your-first-report.3-clean-and-transform-data-with-power-query-editor
+metadata:
+  title: <span data-ttu-id="41581-101">Čištění a transformace dat pomocí editoru Power Query</span><span class="sxs-lookup"><span data-stu-id="41581-101">Clean and transform data with Power Query Editor</span></span>
+  description: <span data-ttu-id="41581-102">Čištění a transformace dat pomocí editoru Power Query</span><span class="sxs-lookup"><span data-stu-id="41581-102">Clean and transform data with Power Query Editor</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: bf3c5097d92cc2c097367bb8c79acc74d32c7708
+  ms.sourcegitcommit: cc419b18821783e2dffd74123baf355c1ef97243
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/14/2019
+  ms.locfileid: "57806213"
+title: <span data-ttu-id="41581-103">Čištění a transformace dat pomocí editoru Power Query</span><span class="sxs-lookup"><span data-stu-id="41581-103">Clean and transform data with Power Query Editor</span></span>
+durationInMinutes: 20
+content: '[!include[](includes/3-clean-and-transform-data-with-power-query-editor.md)]'

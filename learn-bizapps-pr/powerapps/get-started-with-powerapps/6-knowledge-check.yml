@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.6-powerapps-quiz-get-started
+metadata:
+  title: '<span data-ttu-id="ae01b-101">Prověrka znalostí: Začínáme s PowerApps</span><span class="sxs-lookup"><span data-stu-id="ae01b-101">Knowledge check: Get started in PowerApps</span></span>'
+  description: <span data-ttu-id="ae01b-102">Tato prověrka znalostí prověří vaše znalosti před zahájením práce s PowerApps.</span><span class="sxs-lookup"><span data-stu-id="ae01b-102">This knowledge check tests your knowledge of how to get started in PowerApps.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 481408e073c5992cd9c4245ad4a9f10716a6f7b3
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697962"
+title: <span data-ttu-id="ae01b-103">Zkontrolujte své znalosti</span><span class="sxs-lookup"><span data-stu-id="ae01b-103">Check your knowledge</span></span>
+durationInMinutes: 10
+quiz:
+  title: '<span data-ttu-id="ae01b-104">Prověrka znalostí: Začínáme s PowerApps</span><span class="sxs-lookup"><span data-stu-id="ae01b-104">Knowledge check: Get started in PowerApps</span></span>'
+  questions:
+  - content: <span data-ttu-id="ae01b-105">Kde můžete sdílet aplikaci s ostatními?</span><span class="sxs-lookup"><span data-stu-id="ae01b-105">Where do you share an app with others?</span></span>
+    choices:
+    - content: <span data-ttu-id="ae01b-106">Na portálu web.powerapps.com.</span><span class="sxs-lookup"><span data-stu-id="ae01b-106">In web.powerapps.com.</span></span>
+      explanation: <span data-ttu-id="ae01b-107">Na portálu web.powerapps.com opravdu můžete sdílet aplikaci s ostatními uživateli. Můžete jim přitom povolit, aby ji mohli jenom spouštět nebo aby ji mohli spouštět i upravovat.</span><span class="sxs-lookup"><span data-stu-id="ae01b-107">In web.powerapps.com, you can share an app with others, allowing them to just run it or to both run and edit it.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="ae01b-108">V centru pro správu PowerApps.</span><span class="sxs-lookup"><span data-stu-id="ae01b-108">In the PowerApps admin center.</span></span>
+      explanation: <span data-ttu-id="ae01b-109">V centru pro správu PowerApps můžete spravovat prostředí a vytvářet databáze, ale nemůžete z něj sdílet aplikace.</span><span class="sxs-lookup"><span data-stu-id="ae01b-109">You can manage environments and create databases in the PowerApps admin center, but you can't share apps from that location.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="ae01b-110">V Microsoft Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="ae01b-110">In Microsoft Dynamics 365.</span></span>
+      explanation: <span data-ttu-id="ae01b-111">Ve službě Dynamics 365 můžete aplikace spouštět, ale nemůžete je z ní sdílet.</span><span class="sxs-lookup"><span data-stu-id="ae01b-111">You can run apps in Dynamics 365, but you can't share them from that location.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="ae01b-112">V PowerApps Studiu.</span><span class="sxs-lookup"><span data-stu-id="ae01b-112">In PowerApps Studio.</span></span>
+      explanation: <span data-ttu-id="ae01b-113">V PowerApps Studiu můžete aplikace navrhovat, ale nemůžete je z něj sdílet.</span><span class="sxs-lookup"><span data-stu-id="ae01b-113">You can design apps in PowerApps Studio, but you can't share them from that location.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="ae01b-114">Které z těchto tvrzení o zdrojích dat je pravdivé?</span><span class="sxs-lookup"><span data-stu-id="ae01b-114">Which of these statements about data sources is true?</span></span>
+    choices:
+    - content: <span data-ttu-id="ae01b-115">Data aplikací v PowerApps pocházejí primárně z vašeho místního zařízení.</span><span class="sxs-lookup"><span data-stu-id="ae01b-115">In PowerApps, app data comes primarily from your local device.</span></span>
+      explanation: <span data-ttu-id="ae01b-116">Data mohou pocházet z mnoha zdrojů, včetně Microsoft SharePointu, Disku Google nebo Salesforcu.</span><span class="sxs-lookup"><span data-stu-id="ae01b-116">Data can come from many sources, including Microsoft SharePoint, Google Drive, and Salesforce.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="ae01b-117">Twitter může být zdrojem dat.</span><span class="sxs-lookup"><span data-stu-id="ae01b-117">Twitter can be a data source.</span></span>
+      explanation: <span data-ttu-id="ae01b-118">Můžete využít mnoho zdrojů dat, včetně Twitteru, Facebooku, Microsoft SQL Serveru a Salesforcu.</span><span class="sxs-lookup"><span data-stu-id="ae01b-118">You can use many data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="ae01b-119">Dropbox nemůže být zdrojem dat.</span><span class="sxs-lookup"><span data-stu-id="ae01b-119">Dropbox can't be a data source.</span></span>
+      explanation: <span data-ttu-id="ae01b-120">Dropbox je jedním z mnoha zdrojů dat, které můžete při vytváření aplikace v PowerApps použít.</span><span class="sxs-lookup"><span data-stu-id="ae01b-120">Dropbox is one of many data sources that you can use when you build an app in PowerApps.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="ae01b-121">Který z těchto výroků *nepopisuje* způsob, jak se vytvářejí aplikace?</span><span class="sxs-lookup"><span data-stu-id="ae01b-121">Which of these statements *doesn't* describe a way to build apps?</span></span>
+    choices:
+    - content: <span data-ttu-id="ae01b-122">Aplikaci můžete vytvořit ze šablony nebo ukázky.</span><span class="sxs-lookup"><span data-stu-id="ae01b-122">You can build an app from a template or a sample.</span></span>
+      explanation: <span data-ttu-id="ae01b-123">PowerApps nabízí mnoho šablon a ukázek, ze kterých můžete vytvářet aplikace.</span><span class="sxs-lookup"><span data-stu-id="ae01b-123">PowerApps ships with many templates and samples from which you can build apps.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="ae01b-124">Aplikaci můžete vytvořit z prázdné obrazovky.</span><span class="sxs-lookup"><span data-stu-id="ae01b-124">You can build an app from a blank screen.</span></span>
+      explanation: <span data-ttu-id="ae01b-125">Aplikaci můžete vytvořit od základů tak, že přidáte prvky uživatelského rozhraní, které určí, jak bude aplikace vypadat, a vytvoříte vzorce, které budou řídit její chování.</span><span class="sxs-lookup"><span data-stu-id="ae01b-125">You can build an app from the ground up by adding UI elements that determine how the app looks and creating formulas that determine how the app behaves.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="ae01b-126">Aplikaci můžete vytvořit v PowerApps Mobile.</span><span class="sxs-lookup"><span data-stu-id="ae01b-126">You can build an app in PowerApps Mobile.</span></span>
+      explanation: <span data-ttu-id="ae01b-127">V PowerApps Mobile můžete aplikace spouštět, ale ne vytvářet.</span><span class="sxs-lookup"><span data-stu-id="ae01b-127">You can run but not build apps in PowerApps Mobile.</span></span>
+      isCorrect: true

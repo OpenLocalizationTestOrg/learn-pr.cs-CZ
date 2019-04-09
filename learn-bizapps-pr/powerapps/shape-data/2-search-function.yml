@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.shape-data.2-search-function
+title: <span data-ttu-id="e5f6f-101">Funkce Search</span><span class="sxs-lookup"><span data-stu-id="e5f6f-101">Search function</span></span>
+metadata:
+  title: <span data-ttu-id="e5f6f-102">Funkce Search</span><span class="sxs-lookup"><span data-stu-id="e5f6f-102">Search function</span></span>
+  description: <span data-ttu-id="e5f6f-103">Funkce Search</span><span class="sxs-lookup"><span data-stu-id="e5f6f-103">Search function</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 3b7e17e6d402f047fa9571fa82bcd54ed53b2fd3
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265885"
+durationInMinutes: 5
+content: '[!include[](includes/2-search-function.md)]'

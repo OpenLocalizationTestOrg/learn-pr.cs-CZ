@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.automate-process-using-flow
+metadata:
+  title: Automatizace obchodních procesů pomocí Microsoft Flow
+  description: Tento studijní program vás seznámí s Microsoft Flow a naučí vás, jak vytvářet pracovních postupy a spravovat toky.
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 1b07a39486b6b9df0a098b25feb71aac67c190ae
+  ms.sourcegitcommit: 5ebf8a0bcda552e6940920db0a3899205aec7c4d
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 02/12/2019
+  ms.locfileid: "56157908"
+title: Automatizace obchodních procesů pomocí Microsoft Flow
+summary: Tento studijní program vás seznámí s Microsoft Flow a naučí vás, jak vytvářet pracovních postupy a spravovat toky.
+prerequisites: "- Znalost SharePointu, OneDrivu a Excelu \n"
+iconUrl: /learn/achievements/automate-process-using-flow.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- flow
+- bizapps
+- bizapps-flow
+modules:
+- learn-bizapps.flow-get-started
+- learn-bizapps.flow-build-more
+- learn-bizapps.flow-administration
+trophy:
+  uid: learn.automate-process-using-flow.trophy

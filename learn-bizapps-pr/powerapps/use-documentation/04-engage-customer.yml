@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-documentation.04-engage-customer
+title: <span data-ttu-id="c77f0-101">Dokumentace a zákazník</span><span class="sxs-lookup"><span data-stu-id="c77f0-101">Documentation and the customer</span></span>
+metadata:
+  title: <span data-ttu-id="c77f0-102">Dokumentace a zákazník</span><span class="sxs-lookup"><span data-stu-id="c77f0-102">Documentation and the customer</span></span>
+  description: <span data-ttu-id="c77f0-103">Diskuse o osvědčených postupech pro dokumentaci</span><span class="sxs-lookup"><span data-stu-id="c77f0-103">Discuss documentation best practices</span></span>
+  ms.date: 02/14/2019
+  author: kevsch
+  ms.author: kevsch
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 9a32a3a857a58a455a85a6fab9da33d52a445147
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695661"
+durationInMinutes: 4
+content: '[!include[](includes/04-engage-customer.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.shape-data.3-combine-data-shaping-functions
+title: <span data-ttu-id="b8b2b-101">Kombinování funkcí pro formování dat</span><span class="sxs-lookup"><span data-stu-id="b8b2b-101">Combining data shaping functions</span></span>
+metadata:
+  title: <span data-ttu-id="b8b2b-102">Kombinování funkcí pro formování dat</span><span class="sxs-lookup"><span data-stu-id="b8b2b-102">Combine data shaping functions</span></span>
+  description: <span data-ttu-id="b8b2b-103">Kombinování funkcí pro formování dat</span><span class="sxs-lookup"><span data-stu-id="b8b2b-103">Combine data shaping functions</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5d12c8f35b0b02bebcdad5c6e803228f287615e1
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265885"
+durationInMinutes: 7
+content: '[!include[](includes/3-combine-data-shaping-functions.md)]'

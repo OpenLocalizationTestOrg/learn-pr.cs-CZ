@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.author-basic-formula-tables-records-powerapps
+metadata:
+  title: Vytvoření základního vzorce, který v aplikaci plátna PowerApps používá tabulky a záznamy
+  description: Chcete v aplikaci plátna používat tabulky a záznamy a filtrovat data? Tento modul se zaměří na rozdíly mezi tabulkou a záznamem a na způsob využití obou těchto prvků v aplikaci plátna PowerApps.
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 3553c1573c2521f027b3a9841db0d65e056e1038
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265888"
+title: Vytvoření základního vzorce, který v aplikaci plátna PowerApps používá tabulky a záznamy
+summary: Chcete v aplikaci plátna používat tabulky a záznamy a filtrovat data? Tento modul se zaměří na rozdíly mezi tabulkou a záznamem a na způsob využití obou těchto prvků v aplikaci plátna PowerApps.
+abstract: "V tomto modulu se naučíte: \n- Principy tabulek a záznamů v PowerApps \n- Používat příkazy Collect a ClearCollect k vytváření vícesloupcových tabulek\n- Přidat kolekci jako zdroj dat do galerie\n- Filtrovat tabulku dat\n- Používat funkci LookUp\n"
+prerequisites: Měli byste mít základní znalosti o tom, jak se v PowerApps vytvoří aplikace plátna.  Jedná se o přidání ovládacích prvků do aplikace a použití základního vzorce k úpravě ovládacího prvku a jeho chování.  Znalost práce s daty v PowerApps je také užitečná, ale nevyžaduje se.
+iconUrl: /learn/achievements/tables-and-records.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+units:
+- learn-bizapps.tables-and-records.1-what-are-tables-records
+- learn-bizapps.tables-and-records.2-using-table-function
+- learn-bizapps.tables-and-records.3-store-a-table
+- learn-bizapps.tables-and-records.4-filter-your-table
+- learn-bizapps.tables-and-records.5-lookup-return-record
+- learn-bizapps.tables-and-records.6-additional-table-functions
+- learn-bizapps.tables-and-records.7-knowledge-check
+- learn-bizapps.tables-and-records.8-summary
+badge:
+  uid: learn-bizapps.author-basic-formula-tables-records-powerapps.badge

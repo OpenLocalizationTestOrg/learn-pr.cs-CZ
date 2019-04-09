@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.1-introduction
+metadata:
+  title: <span data-ttu-id="8ad0c-101">Úvod</span><span class="sxs-lookup"><span data-stu-id="8ad0c-101">Introduction</span></span>
+  description: <span data-ttu-id="8ad0c-102">Úvod</span><span class="sxs-lookup"><span data-stu-id="8ad0c-102">Introduction</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 2985c72a82c877bc254f42e0fac5068da9f46b70
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697225"
+title: <span data-ttu-id="8ad0c-103">Úvod</span><span class="sxs-lookup"><span data-stu-id="8ad0c-103">Introduction</span></span>
+durationInMinutes: 6
+content: '[!include[](includes/1-introduction.md)]'

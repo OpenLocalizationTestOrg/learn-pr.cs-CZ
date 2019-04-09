@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.6-get-started-with-power-bi-quiz
+metadata:
+  title: '<span data-ttu-id="e94e2-101">Prověrka znalostí: Začínáme s Power BI</span><span class="sxs-lookup"><span data-stu-id="e94e2-101">Knowledge check: Get started with Power BI</span></span>'
+  description: <span data-ttu-id="e94e2-102">Tato prověrka znalostí prověří vaše znalosti před zahájením práce s Power BI.</span><span class="sxs-lookup"><span data-stu-id="e94e2-102">This knowledge check tests your knowledge of getting started with Power BI.</span></span>
+  ms.date: 02/01/2019
+  author: davidiseminger
+  ms.author: davidi
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 188fd6c42426e6b0f11fb9b176af62b970398771
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697225"
+title: <span data-ttu-id="e94e2-103">Zkontrolujte své znalosti</span><span class="sxs-lookup"><span data-stu-id="e94e2-103">Check your knowledge</span></span>
+durationInMinutes: 10
+quiz:
+  title: '<span data-ttu-id="e94e2-104">Prověrka znalostí: Začínáme s Power BI</span><span class="sxs-lookup"><span data-stu-id="e94e2-104">Knowledge check: Get started with Power BI</span></span>'
+  questions:
+  - content: <span data-ttu-id="e94e2-105">Jaký je obecný postup aktivity v Power BI?</span><span class="sxs-lookup"><span data-stu-id="e94e2-105">What is the common flow of activity in Power BI?</span></span>
+    choices:
+    - content: <span data-ttu-id="e94e2-106">Vytvoření sestavy v Power BI Mobile, její sdílení v Power BI Desktopu, zobrazení a interakce ve službě Power BI.</span><span class="sxs-lookup"><span data-stu-id="e94e2-106">Create a report in Power BI mobile, share it to the Power BI Desktop, view and interact in the Power BI service.</span></span>
+      explanation: <span data-ttu-id="e94e2-107">V Power BI Mobile nemůžete vytvářet sestavy, sestavy se vytvářejí v Power BI Desktopu.</span><span class="sxs-lookup"><span data-stu-id="e94e2-107">You can't create reports in Power BI mobile; you create reports in Power BI Desktop.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e94e2-108">Vytvoření sestavy ve službě Power BI, její sdílení v Power BI Mobile, interakce v Power BI Desktopu.</span><span class="sxs-lookup"><span data-stu-id="e94e2-108">Create a report in the Power BI service, share it to Power BI mobile, interact with it in Power BI Desktop.</span></span>
+      explanation: <span data-ttu-id="e94e2-109">Běžný tok aktivity v Power BI nezačíná vytvořením sestavy ve službě Power BI.</span><span class="sxs-lookup"><span data-stu-id="e94e2-109">The common flow of activity in Power BI doesn't start with creating a report in the Power BI service.</span></span> <span data-ttu-id="e94e2-110">Tok obvykle začíná vytvořením sestavy v Power BI Desktopu.</span><span class="sxs-lookup"><span data-stu-id="e94e2-110">Commonly, the flow begins by creating a report in Power BI Desktop.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e94e2-111">Přenesení dat do Power BI Desktopu a vytvoření sestavy, její sdílení ve službě Power BI, zobrazení a interakce se sestavami a řídicími panely v této službě a v Power BI Mobile.</span><span class="sxs-lookup"><span data-stu-id="e94e2-111">Bring data into Power BI Desktop and create a report, share it to the Power BI service, view and interact with reports and dashboards in the service and Power BI mobile.</span></span>
+      explanation: <span data-ttu-id="e94e2-112">Služba Power BI umožňuje zobrazovat sestavy a řídicí panely a interagovat s nimi, ale neumožňuje formování dat.</span><span class="sxs-lookup"><span data-stu-id="e94e2-112">The Power BI service lets you view and interact with reports and dashboards, but doesn't let you shape data.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="e94e2-113">Přenesení dat do Power BI Mobile, vytvoření sestavy, její sdílení v Power BI Desktopu.</span><span class="sxs-lookup"><span data-stu-id="e94e2-113">Bring data into Power BI mobile, create a report, then share it to Power BI Desktop.</span></span>
+      explanation: <span data-ttu-id="e94e2-114">data se nedají přímo přenést do Power BI Mobile, pro připojení k datům a vytváření sestav se používá Power BI Desktop.</span><span class="sxs-lookup"><span data-stu-id="e94e2-114">You can't bring data directly into Power BI mobile, you connect to data and create reports in Power BI Desktop.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="e94e2-115">Které z následujících položek jsou stavební bloky Power BI?</span><span class="sxs-lookup"><span data-stu-id="e94e2-115">Which of the following are building blocks of Power BI?</span></span>
+    choices:
+    - content: <span data-ttu-id="e94e2-116">Dlaždice, řídicí panely, databáze, mobilní zařízení.</span><span class="sxs-lookup"><span data-stu-id="e94e2-116">Tiles, dashboards, databases, mobile devices.</span></span>
+      explanation: <span data-ttu-id="e94e2-117">Dlaždice a řídicí panely jsou stavební bloky Power BI. Mobilní zařízení a databáze jsou sice důležité, ale mezi stavební bloky nepatří.</span><span class="sxs-lookup"><span data-stu-id="e94e2-117">Tiles and dashboards are building blocks of Power BI, and while databases and mobile devices are important, they aren't among the building blocks.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e94e2-118">Vizualizace, datové sady, sestavy, řídicí panely, dlaždice.</span><span class="sxs-lookup"><span data-stu-id="e94e2-118">Visualizations, datasets, reports, dashboards, tiles.</span></span>
+      explanation: <span data-ttu-id="e94e2-119">Stavebními bloky pro Power BI jsou vizualizace, datové sady, sestavy, řídicí panely a dlaždice.</span><span class="sxs-lookup"><span data-stu-id="e94e2-119">Building blocks for Power BI are visualizations, datasets, reports, dashboards, tiles.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="e94e2-120">Soubory JSON, Visual Studio a C#.</span><span class="sxs-lookup"><span data-stu-id="e94e2-120">Visual Studio, C#, and JSON files.</span></span>
+      explanation: <span data-ttu-id="e94e2-121">Power BI usnadňuje vytváření sestav a interakci s sady a nezávisí na vývojářských jazycích nebo nástrojích.</span><span class="sxs-lookup"><span data-stu-id="e94e2-121">Power BI makes creating reports and interacting with data easy, and is not dependent on development languages or tools.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="e94e2-122">Jak se v Power BI označuje kolekce předem připravených vizuálů, předem uspořádaných řídicích panelů a sestav?</span><span class="sxs-lookup"><span data-stu-id="e94e2-122">A collection of ready-made visuals, pre-arranged in dashboards and reports is called what in Power BI?</span></span>
+    choices:
+    - content: <span data-ttu-id="e94e2-123">Plátno.</span><span class="sxs-lookup"><span data-stu-id="e94e2-123">The canvas.</span></span>
+      explanation: <span data-ttu-id="e94e2-124">Plátno je oblast ve středu Power BI Desktopu nebo služby Power BI a dokud nevytvoříte vizuály a sestavy, je prázdné.</span><span class="sxs-lookup"><span data-stu-id="e94e2-124">The canvas is the area in the center of Power BI Desktop or the Power BI service, and is blank until you create visuals or reports.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e94e2-125">Plánovaná aktualizace.</span><span class="sxs-lookup"><span data-stu-id="e94e2-125">Scheduled refresh.</span></span>
+      explanation: <span data-ttu-id="e94e2-126">Plánovaná aktualizace umožňuje automaticky aktualizovat data pro datové sady, ale není kolekcí předem připravených vizuálů.</span><span class="sxs-lookup"><span data-stu-id="e94e2-126">Scheduled refresh lets you automatically update data for datasets, but is not a collection of ready-made visuals.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="e94e2-127">Aplikace.</span><span class="sxs-lookup"><span data-stu-id="e94e2-127">An app.</span></span>
+      explanation: <span data-ttu-id="e94e2-128">Aplikace je kolekce předem připravených vizuálů, předem uspořádaných řídicích panelů a sestav.</span><span class="sxs-lookup"><span data-stu-id="e94e2-128">An app is a collection of ready-made visuals, pre-arranged in dashboards and reports.</span></span> <span data-ttu-id="e94e2-129">Můžete mít aplikace, které se připojují k celé řadě online služeb z AppSource.</span><span class="sxs-lookup"><span data-stu-id="e94e2-129">You can get apps that connect to many online services from the AppSource.</span></span>
+      isCorrect: true

@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.work-with-data-in-a-canvas-app
+metadata:
+  title: Práce s daty v aplikaci plátna PowerApps
+  description: Musíte se kvůli přístupu k datům připojit k nějaké aplikaci? Pak je tento studijní program určený pro vás. Je zaměřený na připojení ke zdrojům dat. Zároveň se dozvíte, jak pomocí filtrování, podmínek a dalších funkcí formovat data a zapisovat data do zdroje dat.
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 4b3ef04298833c44b117331fe0fcc7f39ef0e3c6
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58353883"
+title: Práce s daty v aplikaci plátna PowerApps
+summary: Musíte se kvůli přístupu k datům připojit k nějaké aplikaci? Pak je tento studijní program určený pro vás. Je zaměřený na připojení ke zdrojům dat. Zároveň se dozvíte, jak pomocí filtrování, podmínek a dalších funkcí formovat data a zapisovat data do zdroje dat.
+prerequisites: "- Základní znalosti o tom, jak se vytvoří aplikace plátna PowerApps \n"
+iconUrl: /learn/achievements/work-with-data-in-a-canvas-app.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+modules:
+- learn-bizapps.work-with-external-data
+- learn-bizapps.shape-data
+- learn-bizapps.write-data
+trophy:
+  uid: learn.work-with-data-in-a-canvas-app.trophy

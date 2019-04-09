@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-administration.5-summary
+title: <span data-ttu-id="b8ab9-101">Shrnutí</span><span class="sxs-lookup"><span data-stu-id="b8ab9-101">Summary</span></span>
+metadata:
+  title: <span data-ttu-id="b8ab9-102">Shrnutí</span><span class="sxs-lookup"><span data-stu-id="b8ab9-102">Summary</span></span>
+  description: <span data-ttu-id="b8ab9-103">Shrnutí správy toků</span><span class="sxs-lookup"><span data-stu-id="b8ab9-103">Summary of administering flows.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: c669afe251f80f54e0ffd7dc52a85200b4df0c06
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697740"
+durationInMinutes: 2
+content: '[!include[](includes/5-summary.md)]'

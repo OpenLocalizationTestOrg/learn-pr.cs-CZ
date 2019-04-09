@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.1-powerapps-introduction
+title: <span data-ttu-id="ef863-101">Úvod do Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="ef863-101">Introducing Microsoft PowerApps</span></span>
+metadata:
+  title: <span data-ttu-id="ef863-102">Úvod do Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="ef863-102">Introducing Microsoft PowerApps</span></span>
+  description: <span data-ttu-id="ef863-103">Tento modul vás naučí základy Microsoft PowerApps.</span><span class="sxs-lookup"><span data-stu-id="ef863-103">This module teaches you the basics of Microsoft PowerApps.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: a0f1e6644c9ca1ec1ad9d093532a24cece624d07
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697962"
+durationInMinutes: 5
+content: '[!include[](includes/1-powerapps-introduction.md)]'

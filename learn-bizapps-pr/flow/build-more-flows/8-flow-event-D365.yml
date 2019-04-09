@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.8-flow-event-D365
+title: <span data-ttu-id="3ba5c-101">Vytvoření toku, který se spustí při výskytu události v Dynamicsu 365</span><span class="sxs-lookup"><span data-stu-id="3ba5c-101">Build a flow that runs when an event in Dynamics 365 occurs</span></span>
+metadata:
+  title: <span data-ttu-id="3ba5c-102">Vytvoření toku, který se spustí při výskytu události v Dynamicsu 365</span><span class="sxs-lookup"><span data-stu-id="3ba5c-102">Build a flow that runs when an event in Dynamics 365 occurs</span></span>
+  description: <span data-ttu-id="3ba5c-103">Naučte se vytvářet tok, který se spustí, když v Dynamicsu 365 dojde k události, jako je kopírování zájemce do seznamu v Excelu.</span><span class="sxs-lookup"><span data-stu-id="3ba5c-103">Learn to build a flow that runs when an event in Dynamics 365 occurs, such as copying a lead to an Excel list.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: cd2c6a02902c8a68bbf39e8bae3097775c8286bc
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 6
+content: '[!include[](includes/8-flow-event-D365.md)]'

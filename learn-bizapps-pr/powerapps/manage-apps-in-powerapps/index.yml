@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps-manage
+metadata:
+  title: Správa aplikací v PowerApps
+  description: Spravujte verze aplikací, sdílení aplikací a prostředí v PowerApps.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 059b5198df8cc664820defd60db11385668737fc
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695385"
+title: Správa aplikací v PowerApps
+summary: Spravujte verze aplikací, sdílení aplikací a prostředí v PowerApps.
+abstract: "V tomto modulu se naučíte: \n- Jak zkontrolovat verze aplikace a obnovit je\n- Jak sdílet aplikaci, včetně oprávnění a oznámení\n- Co jsou prostředí, jak je vytvořit a jak spravovat zabezpečení\n- Další informace o službě PowerApps\n"
+prerequisites: Žádné
+iconUrl: /learn/achievements/manage-apps-in-powerapps.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+units:
+- learn-bizapps.powerapps-manage.1-powerapps-versions
+- learn-bizapps.powerapps-manage.2-powerapps-share
+- learn-bizapps.powerapps-manage.3-powerapps-environments
+- learn-bizapps.powerapps-manage.4-review-powerapps
+- learn-bizapps.powerapps-manage.5-quiz-manage-apps
+- learn-bizapps.powerapps-manage.6-summary-cleanup
+badge:
+  uid: learn.powerapps-manage.badge

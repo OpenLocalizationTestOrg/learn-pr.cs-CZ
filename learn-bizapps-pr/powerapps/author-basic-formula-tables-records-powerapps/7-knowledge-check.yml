@@ -1,0 +1,61 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.tables-and-records.7-knowledge-check
+metadata:
+  title: <span data-ttu-id="858b9-101">Prověrka znalostí pro vytvoření základního vzorce, který v aplikaci plátna PowerApps používá tabulky a záznamy</span><span class="sxs-lookup"><span data-stu-id="858b9-101">Author a basic formula that uses tables and records in a PowerApps canvas app knowledge check</span></span>
+  description: <span data-ttu-id="858b9-102">Prověrka znalostí pro vytvoření základního vzorce, který v aplikaci plátna v PowerApps používá tabulky a záznamy</span><span class="sxs-lookup"><span data-stu-id="858b9-102">Author a basic formula that uses tables and records in a canvas app in PowerApps knowledge check</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 109172ef0a8a49906f88d4fd569fb961ef8fe1b7
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265888"
+title: <span data-ttu-id="858b9-103">Prověřte své znalosti</span><span class="sxs-lookup"><span data-stu-id="858b9-103">Check your knowledge</span></span>
+durationInMinutes: 6
+quiz:
+  title: <span data-ttu-id="858b9-104">Prověrka znalostí pro vytvoření základního vzorce, který v aplikaci plátna PowerApps používá tabulky a záznamy</span><span class="sxs-lookup"><span data-stu-id="858b9-104">Author a basic formula that uses tables and records in a PowerApps canvas app knowledge check</span></span>
+  questions:
+  - content: <span data-ttu-id="858b9-105">Které z následujících tvrzení je pravdivé?</span><span class="sxs-lookup"><span data-stu-id="858b9-105">Which of the following statements is true?</span></span>
+    choices:
+    - content: <span data-ttu-id="858b9-106">Kolekce jsou tabulkové proměnné, ve kterých můžete dočasně ukládat data do řádků a sloupců.</span><span class="sxs-lookup"><span data-stu-id="858b9-106">Collections are table variables in which you can temporarily store data in rows and columns.</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="858b9-107">Kolekce jsou tabulkové proměnné, které lze dočasně použít k uložení dat.</span><span class="sxs-lookup"><span data-stu-id="858b9-107">Collections are table variables that can be temporarily used to store data.</span></span>
+    - content: <span data-ttu-id="858b9-108">Kolekce jsou automaticky uložené ve zdroji dat.</span><span class="sxs-lookup"><span data-stu-id="858b9-108">Collections are automatically stored in your data source.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="858b9-109">Kolekce nejsou automaticky uložené ve zdroji dat.</span><span class="sxs-lookup"><span data-stu-id="858b9-109">Collections are not automatically stored in your data source.</span></span> <span data-ttu-id="858b9-110">Kolekce jsou tabulkové proměnné, které lze dočasně použít k uložení dat.</span><span class="sxs-lookup"><span data-stu-id="858b9-110">Collections are table variables that can be temporarily used to store data.</span></span>
+    - content: <span data-ttu-id="858b9-111">Kolekce se používají s formuláři.</span><span class="sxs-lookup"><span data-stu-id="858b9-111">Use collections with forms.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="858b9-112">Kolekce jsou tabulkové proměnné, které lze dočasně použít k uložení dat.</span><span class="sxs-lookup"><span data-stu-id="858b9-112">Collections are table variables that can be temporarily used to store data.</span></span>
+  - content: <span data-ttu-id="858b9-113">K čemu slouží funkce LookUp?</span><span class="sxs-lookup"><span data-stu-id="858b9-113">The LookUp function is used for?</span></span>
+    choices:
+    - content: <span data-ttu-id="858b9-114">K vrácení všech horních záznamů ve zdroji dat.</span><span class="sxs-lookup"><span data-stu-id="858b9-114">Returning all the upper records of a data source.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="858b9-115">Funkce LookUp se používá k vrácení prvního záznamu, který splňuje zadaná kritéria.</span><span class="sxs-lookup"><span data-stu-id="858b9-115">The Lookup function is used to return the first record that matches a given criteria.</span></span>
+    - content: <span data-ttu-id="858b9-116">K aktualizaci konkrétního záznamu ve zdroji dat.</span><span class="sxs-lookup"><span data-stu-id="858b9-116">To update a specific record in your data source.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="858b9-117">Funkce LookUp se používá k vrácení prvního záznamu, který splňuje zadaná kritéria.</span><span class="sxs-lookup"><span data-stu-id="858b9-117">The Lookup function is used to return the first record that matches a given criteria.</span></span>
+    - content: <span data-ttu-id="858b9-118">K vrácení prvního záznamu, který splňuje zadaná kritéria.</span><span class="sxs-lookup"><span data-stu-id="858b9-118">To return the first record that matches a given criteria.</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="858b9-119">Funkce LookUp se používá k vrácení prvního záznamu, který splňuje zadaná kritéria.</span><span class="sxs-lookup"><span data-stu-id="858b9-119">The Lookup function is used to return the first record that matches a given criteria.</span></span>
+    - content: <span data-ttu-id="858b9-120">K vyhledání všech záznamů, které splňují zadaná kritéria.</span><span class="sxs-lookup"><span data-stu-id="858b9-120">To look for all the records that match a given criteria.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="858b9-121">Funkce LookUp se používá k vrácení prvního záznamu, který splňuje zadaná kritéria.</span><span class="sxs-lookup"><span data-stu-id="858b9-121">The Lookup function is used to return the first record that matches a given criteria.</span></span>
+  - content: <span data-ttu-id="858b9-122">Kdy se používá funkce Table a co se stane s daty?</span><span class="sxs-lookup"><span data-stu-id="858b9-122">When you use the Table function what happens to the data?</span></span>
+    choices:
+    - content: <span data-ttu-id="858b9-123">Vytvoří tabulku dat, která je trvale uložena v místním zařízení.</span><span class="sxs-lookup"><span data-stu-id="858b9-123">It creates a table of data that is stored permanently on the local device.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="858b9-124">Vytvoří tabulku dat, která má být použita konkrétním ovládacím prvkem.</span><span class="sxs-lookup"><span data-stu-id="858b9-124">It creates a table of data to be used by a specific control.</span></span>
+    - content: <span data-ttu-id="858b9-125">Vytvoří tabulku dat v kolekci, která se má používat v rámci aplikace.</span><span class="sxs-lookup"><span data-stu-id="858b9-125">It creates a table of data in a collection to be used throughout your app.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="858b9-126">Vytvoří tabulku dat, která má být použita konkrétním ovládacím prvkem.</span><span class="sxs-lookup"><span data-stu-id="858b9-126">It creates a table of data to be used by a specific control.</span></span>
+    - content: <span data-ttu-id="858b9-127">Aktualizuje externí zdroj dat novými daty.</span><span class="sxs-lookup"><span data-stu-id="858b9-127">Is updates your external data source with new data.</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="858b9-128">Vytvoří tabulku dat, která má být použita konkrétním ovládacím prvkem.</span><span class="sxs-lookup"><span data-stu-id="858b9-128">It creates a table of data to be used by a specific control.</span></span>
+    - content: <span data-ttu-id="858b9-129">Vytvoří tabulku dat, která má být použita konkrétním ovládacím prvkem.</span><span class="sxs-lookup"><span data-stu-id="858b9-129">It creates a table of data to be used by a specific control.</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="858b9-130">Vytvoří tabulku dat, která má být použita konkrétním ovládacím prvkem.</span><span class="sxs-lookup"><span data-stu-id="858b9-130">It creates a table of data to be used by a specific control.</span></span>

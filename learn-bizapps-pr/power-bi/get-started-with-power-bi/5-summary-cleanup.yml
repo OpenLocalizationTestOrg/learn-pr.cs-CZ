@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.5-summary-cleanup
+metadata:
+  title: <span data-ttu-id="07745-101">Shrnutí</span><span class="sxs-lookup"><span data-stu-id="07745-101">Summary</span></span>
+  description: <span data-ttu-id="07745-102">Shrnutí</span><span class="sxs-lookup"><span data-stu-id="07745-102">Summary</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 629daf257de828bdbbfc3aa6cb6f100bd691bd5e
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697225"
+title: <span data-ttu-id="07745-103">Shrnutí</span><span class="sxs-lookup"><span data-stu-id="07745-103">Summary</span></span>
+durationInMinutes: 5
+content: '[!include[](includes/5-summary-cleanup.md)]'

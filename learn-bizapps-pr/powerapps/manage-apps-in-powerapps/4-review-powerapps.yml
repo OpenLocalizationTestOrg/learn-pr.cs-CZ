@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-manage.4-review-powerapps
+title: <span data-ttu-id="818b2-101">Rekapitulace PowerApps</span><span class="sxs-lookup"><span data-stu-id="818b2-101">PowerApps review</span></span>
+metadata:
+  title: <span data-ttu-id="818b2-102">Rekapitulace PowerApps</span><span class="sxs-lookup"><span data-stu-id="818b2-102">PowerApps review</span></span>
+  description: <span data-ttu-id="818b2-103">Zrekapitulujte si, co jste se zatím naučili.</span><span class="sxs-lookup"><span data-stu-id="818b2-103">Review what you've learned so far.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 830de326a446a69be4fdd0472a147bb54a71f49a
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695385"
+durationInMinutes: 5
+content: '[!include[](includes/4-review-powerapps.md)]'

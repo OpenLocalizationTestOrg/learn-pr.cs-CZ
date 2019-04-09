@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.tables-and-records.2-using-table-function
+title: <span data-ttu-id="64077-101">Použití funkce Table</span><span class="sxs-lookup"><span data-stu-id="64077-101">Using the Table function</span></span>
+metadata:
+  title: <span data-ttu-id="64077-102">Použití funkce Table</span><span class="sxs-lookup"><span data-stu-id="64077-102">Using the Table function</span></span>
+  description: <span data-ttu-id="64077-103">Použití funkce Table</span><span class="sxs-lookup"><span data-stu-id="64077-103">Using the Table function</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c6dfb41880ce68098fa8440df0ec709ebfaa9a74
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265888"
+durationInMinutes: 5
+content: '[!include[](includes/2-using-table-function.md)]'

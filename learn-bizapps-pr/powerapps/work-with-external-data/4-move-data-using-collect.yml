@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-external-data.4-move-data-using-collect
+title: <span data-ttu-id="cb74b-101">Přesun dat mezi kolekcemi a zdroji dat pomocí funkce Collect</span><span class="sxs-lookup"><span data-stu-id="cb74b-101">Move data between collections and data sources by using Collect</span></span>
+metadata:
+  title: <span data-ttu-id="cb74b-102">Přesun dat mezi kolekcemi a zdroji dat pomocí funkce Collect</span><span class="sxs-lookup"><span data-stu-id="cb74b-102">Move data between collections and data sources by using Collect</span></span>
+  description: <span data-ttu-id="cb74b-103">Přesun dat mezi kolekcemi a zdroji dat pomocí funkce Collect</span><span class="sxs-lookup"><span data-stu-id="cb74b-103">Move data between collections and data sources by using Collect</span></span>
+  ms.date: 03/15/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1cdfe4b5206f4e7e3e402e8ab635f7a3f4c2febe
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265880"
+durationInMinutes: 8
+content: '[!include[](includes/4-move-data-using-collect.md)]'

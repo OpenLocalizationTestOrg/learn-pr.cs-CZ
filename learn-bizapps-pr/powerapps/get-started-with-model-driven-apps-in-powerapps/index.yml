@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps-design-model-driven-apps
+metadata:
+  title: Začínáme s modelem řízenými aplikacemi v PowerApps
+  description: Návrh modelem řízené aplikace je přístup, který se zaměřuje na rychlé přidání komponent do aplikací. Mezi tyto komponenty patří řídicí panely, formuláře, zobrazení a grafy. Bez kódu nebo jen s minimem kódu tak můžete vytvořit aplikace, které jsou jednoduché nebo velmi složité. Na rozdíl od vývoje aplikací plátna, kde má návrhář úplnou kontrolu nad rozložením aplikace, je rozložení modelem řízených aplikací určeno spíše přidanými komponentami. Jinými slovy, důraz se klade hlavně na rychlé zobrazení obchodních dat a rozhodování než na komplikovaný návrh aplikace.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: fa3174f3e66f10e5d62816e45065570d738c361b
+  ms.sourcegitcommit: ea295d90d665cb91222895600f8945aff5a20f02
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58218046"
+title: Začínáme s modelem řízenými aplikacemi v PowerApps
+summary: Návrh modelem řízené aplikace je přístup, který se zaměřuje na rychlé přidání komponent do aplikací. Mezi tyto komponenty patří řídicí panely, formuláře, zobrazení a grafy. Bez kódu nebo jen s minimem kódu tak můžete vytvořit aplikace, které jsou jednoduché nebo velmi složité.
+abstract: >
+  V tomto modulu:
+
+  - Získáte informace o návrhu modelem řízené aplikace
+
+  - Vytvoříte modelem řízenou aplikaci
+prerequisites: Žádné
+iconUrl: /learn/achievements/get-started-with-model-driven-apps-in-powerapps.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-bi
+units:
+- learn-bizapps.powerapps-design-model-driven-apps.1-introduction
+- learn-bizapps.powerapps-design-model-driven-apps.2-building-blocks-of-model-driven-apps
+- learn-bizapps.powerapps-design-model-driven-apps.3-create-a-model-driven-app
+- learn-bizapps.powerapps-design-model-driven-apps.4-explore-sample-model-driven-apps
+- learn-bizapps.powerapps-design-model-driven-apps.5-control-security-when-sharing-model-driven-apps
+- learn-bizapps.powerapps-design-model-driven-apps.6-knowledge-check
+- learn-bizapps.powerapps-design-model-driven-apps.7-summary
+badge:
+  uid: learn.powerapps-design-model-driven-apps.badge

@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps-customize
+metadata:
+  title: Přizpůsobení aplikace v PowerApps
+  description: Zjistěte, jak můžete aplikaci přizpůsobit přidáním ovládacích prvků, obrázků a logiky.
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: f4615a524d9d1765dc61092ad3c9fca6b102e772
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697501"
+title: Přizpůsobení aplikace v PowerApps
+summary: Zjistěte, jak můžete aplikaci přizpůsobit přidáním ovládacích prvků, obrázků a logiky.
+abstract: >
+  V tomto modulu se naučíte:
+
+  - Změnit rozložení galerie
+
+  - Změnit data zobrazovaná ovládacím prvkem
+
+  - Změnit pořadí, ve kterém se zobrazují pole
+
+  - Změnit ovládací prvek, jehož pomocí uživatel zadá informace
+
+  - Prozkoumat ovládací prvky na jednotlivých obrazovkách aplikace
+
+  - Naformátovat číslo jako cenu
+
+  - Nastavit barvu ceny podle hodnoty
+
+  - Prozkoumat vzorce ve vygenerované aplikaci
+prerequisites: Aplikace plátna v Microsoft PowerApps
+iconUrl: /learn/achievements/customize-apps-in-powerapps.svg
+ratingEnabled: true
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+- powerapps
+- bizapps
+- bizapps-power-apps
+units:
+- learn-bizapps.powerapps-customize.1-powerapps-customize
+- learn-bizapps.powerapps-customize.2-powerapps-explore
+- learn-bizapps.powerapps-customize.3-powerapps-functions
+- learn-bizapps.powerapps-customize.4-quiz-customize-an-app
+- learn-bizapps.powerapps-customize.5-summary-cleanup
+badge:
+  uid: learn.powerapps-customize.badge

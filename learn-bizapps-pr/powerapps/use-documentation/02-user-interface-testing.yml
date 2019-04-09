@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-documentation.02-user-interface-testing
+title: <span data-ttu-id="3334c-101">Testování uživatelského rozhraní</span><span class="sxs-lookup"><span data-stu-id="3334c-101">User interface testing</span></span>
+metadata:
+  title: <span data-ttu-id="3334c-102">Testování uživatelského rozhraní</span><span class="sxs-lookup"><span data-stu-id="3334c-102">User interface testing</span></span>
+  description: <span data-ttu-id="3334c-103">Zavedení nástrojů EasyRepro pro testování uživatelského rozhraní</span><span class="sxs-lookup"><span data-stu-id="3334c-103">Introduce the EasyRepro tools used for user interface testing</span></span>
+  ms.date: 02/14/2019
+  author: kevsch
+  ms.author: kevsch
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 7076f614327e10e2411da23a11d3a38e9fbc837b
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695661"
+durationInMinutes: 5
+content: '[!include[](includes/02-user-interface-testing.md)]'

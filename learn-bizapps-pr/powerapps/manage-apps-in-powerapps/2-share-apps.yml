@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-manage.2-powerapps-share
+title: <span data-ttu-id="91ea9-101">Sdílení aplikací v PowerApps</span><span class="sxs-lookup"><span data-stu-id="91ea9-101">Share apps in PowerApps</span></span>
+metadata:
+  title: <span data-ttu-id="91ea9-102">Sdílení aplikací v PowerApps</span><span class="sxs-lookup"><span data-stu-id="91ea9-102">Share apps in PowerApps</span></span>
+  description: <span data-ttu-id="91ea9-103">Zjistěte, jak můžete sdílet aplikace vytvořené v PowerApps s jinými uživateli ve vaší organizaci.</span><span class="sxs-lookup"><span data-stu-id="91ea9-103">Learn how to share apps hat you built in PowerApps with others in your organization.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 2cc7bc70368172823028162402486961f1798770
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695385"
+durationInMinutes: 10
+content: '[!include[](includes/2-powerapps-share.md)]'

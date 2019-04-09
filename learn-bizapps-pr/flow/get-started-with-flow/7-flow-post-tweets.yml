@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.7-flow-post-tweets
+title: <span data-ttu-id="1bbe6-101">Publikování tweetů pomocí Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="1bbe6-101">Post tweets with Microsoft Flow</span></span>
+metadata:
+  title: <span data-ttu-id="1bbe6-102">Publikování tweetů pomocí Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="1bbe6-102">Post tweets with Microsoft Flow</span></span>
+  description: <span data-ttu-id="1bbe6-103">Zjistěte, jak publikovat tweety pomocí SharePointu s Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="1bbe6-103">Learn how to post tweets by using SharePoint with Microsoft Flow.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 0789e3ce9a8fdeb2671c090c298299de4e5586ae
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 5
+content: '[!include[](includes/7-flow-post-tweets.md)]'

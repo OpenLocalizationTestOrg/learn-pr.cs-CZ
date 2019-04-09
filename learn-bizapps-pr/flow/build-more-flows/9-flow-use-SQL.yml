@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-build-more.9-flow-use-SQL
+title: <span data-ttu-id="4c74a-101">Vytvoření toku, který používá SQL</span><span class="sxs-lookup"><span data-stu-id="4c74a-101">Build a flow that uses SQL</span></span>
+metadata:
+  title: <span data-ttu-id="4c74a-102">Vytvoření toku, který používá SQL</span><span class="sxs-lookup"><span data-stu-id="4c74a-102">Build a flow that uses SQL</span></span>
+  description: <span data-ttu-id="4c74a-103">Přečtěte si, jak vytvořit tok, který k aktualizaci informací používá SQL.</span><span class="sxs-lookup"><span data-stu-id="4c74a-103">Learn to build a flow that uses SQL to update information.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: b8262d281b304e6007ec53670713144d6a69d9a8
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698849"
+durationInMinutes: 8
+content: '[!include[](includes/9-flow-use-SQL.md)]'

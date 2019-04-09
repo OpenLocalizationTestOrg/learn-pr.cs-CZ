@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.3-create-a-model-driven-app
+title: <span data-ttu-id="84194-101">Vytvoření modelem řízené aplikace</span><span class="sxs-lookup"><span data-stu-id="84194-101">Create a model-driven app</span></span>
+metadata:
+  title: <span data-ttu-id="84194-102">Vytvoření modelem řízené aplikace</span><span class="sxs-lookup"><span data-stu-id="84194-102">Create a model-driven app</span></span>
+  description: <span data-ttu-id="84194-103">Vytvoření modelem řízené aplikace</span><span class="sxs-lookup"><span data-stu-id="84194-103">Create a model-driven app</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 4b8d3f67d3990aa1ee770bad4375d640f530f8b4
+  ms.sourcegitcommit: ea295d90d665cb91222895600f8945aff5a20f02
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58218046"
+durationInMinutes: 15
+content: '[!include[](includes/3-create-a-model-driven-app.md)]'

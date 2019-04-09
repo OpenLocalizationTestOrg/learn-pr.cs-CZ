@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-manage.3-powerapps-environments
+title: <span data-ttu-id="8b8fe-101">Principy prostředí v PowerApps</span><span class="sxs-lookup"><span data-stu-id="8b8fe-101">Understand environments in PowerApps</span></span>
+metadata:
+  title: <span data-ttu-id="8b8fe-102">Principy prostředí v PowerApps</span><span class="sxs-lookup"><span data-stu-id="8b8fe-102">Understand environments in PowerApps</span></span>
+  description: <span data-ttu-id="8b8fe-103">Naučte se pracovat s prostředími v PowerApps.</span><span class="sxs-lookup"><span data-stu-id="8b8fe-103">Learn how to work with environments in PowerApps.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 045393b4feff3f26d1b0ab5bced46b298e7c035e
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695385"
+durationInMinutes: 12
+content: '[!include[](includes/3-powerapps-environments.md)]'

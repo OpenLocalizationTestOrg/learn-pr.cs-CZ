@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.2-powerapps-building-blocks
+title: <span data-ttu-id="8c30b-101">Stavební bloky PowerApps</span><span class="sxs-lookup"><span data-stu-id="8c30b-101">PowerApps building blocks</span></span>
+metadata:
+  title: <span data-ttu-id="8c30b-102">Stavební bloky PowerApps</span><span class="sxs-lookup"><span data-stu-id="8c30b-102">PowerApps building blocks</span></span>
+  description: <span data-ttu-id="8c30b-103">Zjistěte další informace o hlavních součástech PowerApps.</span><span class="sxs-lookup"><span data-stu-id="8c30b-103">Learn about the main parts of PowerApps.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 13780586807992d4f1e6ce084a3b689d239b8c58
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697962"
+durationInMinutes: 5
+content: '[!include[](includes/2-powerapps-building-blocks.md)]'

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-administration.3-share-flows
+title: <span data-ttu-id="28008-101">Jak distribuovat toky aktivované tlačítkem</span><span class="sxs-lookup"><span data-stu-id="28008-101">Learn how to distribute button flows</span></span>
+metadata:
+  title: <span data-ttu-id="28008-102">Jak distribuovat toky aktivované tlačítkem</span><span class="sxs-lookup"><span data-stu-id="28008-102">Learn how to distribute button flows</span></span>
+  description: <span data-ttu-id="28008-103">Tady najdete informace, jak sdílet toky aktivované tlačítkem s ostatními ve vašem týmu.</span><span class="sxs-lookup"><span data-stu-id="28008-103">Learn how to share button flows with others on your team.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 89f66697ec243cccb90dc4d9d7eaa899e6e30ca3
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57697740"
+durationInMinutes: 12
+content: '[!include[](includes/3-share-flows.md)]'

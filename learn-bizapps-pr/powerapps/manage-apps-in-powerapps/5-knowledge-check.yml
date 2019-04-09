@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-manage.5-quiz-manage-apps
+title: <span data-ttu-id="1271c-101">Zkontrolujte své znalosti</span><span class="sxs-lookup"><span data-stu-id="1271c-101">Check your knowledge</span></span>
+metadata:
+  title: '<span data-ttu-id="1271c-102">Prověrka znalostí: Správa aplikací v PowerApps</span><span class="sxs-lookup"><span data-stu-id="1271c-102">Knowledge check: Manage apps in PowerApps</span></span>'
+  description: <span data-ttu-id="1271c-103">Tato prověrka znalostí prověří vaše znalosti správy aplikací v PowerApps.</span><span class="sxs-lookup"><span data-stu-id="1271c-103">This knowledge check tests your knowledge of how to manage apps in PowerApps.</span></span>
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ms.openlocfilehash: 623d642958a17f4f7def16e8ec34a4f7c2879580
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695385"
+durationInMinutes: 8
+quiz:
+  title: '<span data-ttu-id="1271c-104">Prověrka znalostí: Správa aplikací v PowerApps</span><span class="sxs-lookup"><span data-stu-id="1271c-104">Knowledge check: Manage apps in PowerApps</span></span>'
+  questions:
+  - content: <span data-ttu-id="1271c-105">Co se stane, když obnovíte předchozí verzi aplikace?</span><span class="sxs-lookup"><span data-stu-id="1271c-105">What happens when you restore a previous version of an app?</span></span>
+    choices:
+    - content: <span data-ttu-id="1271c-106">Nová verze přepíše původní verzi aplikace.</span><span class="sxs-lookup"><span data-stu-id="1271c-106">The original app version is overwritten by a new one.</span></span>
+      explanation: <span data-ttu-id="1271c-107">Původní verze se nepřepíše.</span><span class="sxs-lookup"><span data-stu-id="1271c-107">The original version isn't overwritten.</span></span> <span data-ttu-id="1271c-108">Vytvoří se další verze.</span><span class="sxs-lookup"><span data-stu-id="1271c-108">Another version is created.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1271c-109">Nová verze bude automaticky dostupná pro všechny uživatele, se kterými se aplikace sdílí.</span><span class="sxs-lookup"><span data-stu-id="1271c-109">The new version is automatically available to everyone with whom the app is shared.</span></span>
+      explanation: <span data-ttu-id="1271c-110">Nová verze se přidá do seznamu verzí.</span><span class="sxs-lookup"><span data-stu-id="1271c-110">The new version is added to your list of versions.</span></span> <span data-ttu-id="1271c-111">Nebude automaticky připravená k používání pro členy týmu, dokud ji nebudete explicitně publikovat.</span><span class="sxs-lookup"><span data-stu-id="1271c-111">It isn't automatically ready for team members to use until you explicitly publish it.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1271c-112">Nová verze se přidá do seznamu verzí.</span><span class="sxs-lookup"><span data-stu-id="1271c-112">The new version is added to the list of versions.</span></span>
+      explanation: <span data-ttu-id="1271c-113">Po obnovení aplikace se stará verze nikdy neodebere ani nepřepíše.</span><span class="sxs-lookup"><span data-stu-id="1271c-113">When an app is restored, the old version is never removed or overwritten.</span></span> <span data-ttu-id="1271c-114">Nová verze jenom dostane vyšší číslo verze a přidá se na začátek seznamu.</span><span class="sxs-lookup"><span data-stu-id="1271c-114">The new version just gets an incremented version number and is added to the top of the list.</span></span>
+      isCorrect: true
+  - content: <span data-ttu-id="1271c-115">Co se stane, když nasdílíte novou verzi aplikace?</span><span class="sxs-lookup"><span data-stu-id="1271c-115">What happens when you share a new version of an app?</span></span>
+    choices:
+    - content: <span data-ttu-id="1271c-116">Aby uživatelé, se kterými se aplikace sdílí, měli přístup k nové verzi, musí si aplikaci přeinstalovat.</span><span class="sxs-lookup"><span data-stu-id="1271c-116">To see the new version, everyone with whom the app was shared must reinstall it.</span></span>
+      explanation: <span data-ttu-id="1271c-117">Nová verze se automaticky zobrazí všem uživatelům, kterým jste aplikaci nasdíleli.</span><span class="sxs-lookup"><span data-stu-id="1271c-117">Everyone with whom you shared the app sees the new version automatically.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1271c-118">Všem uživatelům, kterým jste aplikaci nasdíleli, se automaticky zobrazí nová verze.</span><span class="sxs-lookup"><span data-stu-id="1271c-118">Everyone with whom you shared the app will automatically see the new version.</span></span>
+      explanation: <span data-ttu-id="1271c-119">Všem uživatelům, kterým jste aplikaci nasdíleli, se automaticky zobrazí nová verze.</span><span class="sxs-lookup"><span data-stu-id="1271c-119">Everyone with whom you shared the app will automatically see the new version.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="1271c-120">Všechny předchozí verze se odstraní.</span><span class="sxs-lookup"><span data-stu-id="1271c-120">All previous versions are deleted.</span></span>
+      explanation: <span data-ttu-id="1271c-121">Předchozí verze se uchovávají, dokud aplikaci neodstraníte.</span><span class="sxs-lookup"><span data-stu-id="1271c-121">Previous versions are retained unless you delete the app.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="1271c-122">Které dvě skupiny musí něco vědět o prostředích?</span><span class="sxs-lookup"><span data-stu-id="1271c-122">Which two groups need to know about environments?</span></span>
+    choices:
+    - content: <span data-ttu-id="1271c-123">Správci a uživatelé aplikací.</span><span class="sxs-lookup"><span data-stu-id="1271c-123">Administrators and App users.</span></span>
+      explanation: <span data-ttu-id="1271c-124">Uživatelé aplikací můžou sdílené aplikace otevírat bez ohledu na prostředí, ve kterém byly vytvořeny.</span><span class="sxs-lookup"><span data-stu-id="1271c-124">App users can open shared apps, no matter which environment they are created in.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1271c-125">Uživatelé aplikací a návrháři aplikací.</span><span class="sxs-lookup"><span data-stu-id="1271c-125">App users and App designers.</span></span>
+      explanation: <span data-ttu-id="1271c-126">Uživatelé aplikací můžou otevírat sdílené aplikace bez ohledu na prostředí, ve kterém byly vytvořeny.</span><span class="sxs-lookup"><span data-stu-id="1271c-126">App users can open shared apps regardless of the environment in which the apps were created.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="1271c-127">Návrháři aplikací a správci.</span><span class="sxs-lookup"><span data-stu-id="1271c-127">App designers and Administrators.</span></span>
+      explanation: <span data-ttu-id="1271c-128">Návrháři aplikací si musí vybrat správné prostředí pro své aplikace a správci můžou vytvářet prostředí.</span><span class="sxs-lookup"><span data-stu-id="1271c-128">App designers need to select the correct environment for their apps, and Administrators can create environments.</span></span>
+      isCorrect: true

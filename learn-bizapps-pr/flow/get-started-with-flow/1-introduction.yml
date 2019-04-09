@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.flow-get-started.1-flow-introduction
+title: <span data-ttu-id="e0def-101">Úvod do Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="e0def-101">Introducing Microsoft Flow</span></span>
+metadata:
+  title: <span data-ttu-id="e0def-102">Úvod do Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="e0def-102">Introducing Microsoft Flow</span></span>
+  description: <span data-ttu-id="e0def-103">Naučte se základy Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="e0def-103">Learn the basics of Microsoft Flow.</span></span>
+  ms.date: 02/03/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-flow
+  ms.openlocfilehash: 0f275d94b30faafc65dc06bffef2693566c0475b
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57698342"
+durationInMinutes: 5
+content: '[!include[](includes/1-flow-introduction.md)]'

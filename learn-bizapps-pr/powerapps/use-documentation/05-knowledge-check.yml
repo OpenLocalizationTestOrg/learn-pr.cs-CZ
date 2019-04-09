@@ -1,0 +1,78 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-documentation.05-knowledge-check
+metadata:
+  title: <span data-ttu-id="a1bde-101">Dokumentace a testování aplikace PowerApps – Kontrola znalostí</span><span class="sxs-lookup"><span data-stu-id="a1bde-101">Document and test your PowerApps application check your knowledge</span></span>
+  description: <span data-ttu-id="a1bde-102">Tento kvíz ověří vaše znalosti v oblasti dokumentace a testování.</span><span class="sxs-lookup"><span data-stu-id="a1bde-102">This quiz tests your knowledge of documentation and testing.</span></span>
+  ms.date: 02/14/2019
+  author: kevsch
+  ms.author: kevsch
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 6aef9892d080d8733c6a382b54016a7cc4a50780
+  ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/09/2019
+  ms.locfileid: "57695661"
+title: <span data-ttu-id="a1bde-103">Zkontrolujte své znalosti</span><span class="sxs-lookup"><span data-stu-id="a1bde-103">Check your knowledge</span></span>
+durationInMinutes: 6
+quiz:
+  title: <span data-ttu-id="a1bde-104">Dokumentace a testování aplikace PowerApps – Kontrola znalostí</span><span class="sxs-lookup"><span data-stu-id="a1bde-104">Document and test your PowerApps application check your knowledge</span></span>
+  questions:
+  - content: <span data-ttu-id="a1bde-105">Co je nejmenší komponenta testování?</span><span class="sxs-lookup"><span data-stu-id="a1bde-105">What is the smallest component of testing?</span></span>
+    choices:
+    - content: <span data-ttu-id="a1bde-106">Jednotka</span><span class="sxs-lookup"><span data-stu-id="a1bde-106">Unit</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="a1bde-107">Jednotka je nejmenší komponenta testování, jedna měrná jednotka.</span><span class="sxs-lookup"><span data-stu-id="a1bde-107">A unit is the smallest component of testing, a single unit of measure.</span></span>
+    - content: <span data-ttu-id="a1bde-108">Přijetí uživateli</span><span class="sxs-lookup"><span data-stu-id="a1bde-108">User acceptance</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-109">Toto je příležitost mít přímou zpětnou vazbu od skutečných uživatelů systému.</span><span class="sxs-lookup"><span data-stu-id="a1bde-109">This is an opportunity to have direct feedback from the actual users of the system.</span></span>
+    - content: <span data-ttu-id="a1bde-110">Integrace</span><span class="sxs-lookup"><span data-stu-id="a1bde-110">Integration</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-111">Odkazuje na systémy, s kterými se aplikace integruje.</span><span class="sxs-lookup"><span data-stu-id="a1bde-111">Refers to systems an app integrates with.</span></span>
+    - content: <span data-ttu-id="a1bde-112">Výkon</span><span class="sxs-lookup"><span data-stu-id="a1bde-112">Performance</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-113">Výkon souvisí s tím, jak efektivní je aplikace.</span><span class="sxs-lookup"><span data-stu-id="a1bde-113">Performance relates to how efficient an app is.</span></span>
+  - content: <span data-ttu-id="a1bde-114">Microsoft poskytuje zákazníkům Dynamics 365 možnost usnadnit si automatizované testování uživatelského rozhraní pro projekty.</span><span class="sxs-lookup"><span data-stu-id="a1bde-114">Microsoft provides Dynamics 365 customers the ability to facilitate automated UI testing for projects.</span></span> <span data-ttu-id="a1bde-115">Jaký se jmenuje nástroj, který Microsoft poskytuje?</span><span class="sxs-lookup"><span data-stu-id="a1bde-115">What is the name of the tool that Microsoft provides?</span></span>
+    choices:
+    - content: <span data-ttu-id="a1bde-116">Microsoft Blend for Visual Studio</span><span class="sxs-lookup"><span data-stu-id="a1bde-116">Microsoft Blend for Visual Studio</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-117">EasyRepro je nástroj, který poskytuje Microsoft.</span><span class="sxs-lookup"><span data-stu-id="a1bde-117">EasyRepro is the tool Microsoft provides.</span></span>
+    - content: <span data-ttu-id="a1bde-118">Test studio</span><span class="sxs-lookup"><span data-stu-id="a1bde-118">Test studio</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-119">EasyRepro je nástroj, který poskytuje Microsoft.</span><span class="sxs-lookup"><span data-stu-id="a1bde-119">EasyRepro is the tool Microsoft provides.</span></span>
+    - content: <span data-ttu-id="a1bde-120">DirectX End-User Runtimes</span><span class="sxs-lookup"><span data-stu-id="a1bde-120">DirectX End-User Runtimes</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-121">EasyRepro je nástroj, který poskytuje Microsoft.</span><span class="sxs-lookup"><span data-stu-id="a1bde-121">EasyRepro is the tool Microsoft provides.</span></span>
+    - content: <span data-ttu-id="a1bde-122">EasyRepro</span><span class="sxs-lookup"><span data-stu-id="a1bde-122">EasyRepro</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="a1bde-123">EasyRepro je nástroj, který poskytuje Microsoft.</span><span class="sxs-lookup"><span data-stu-id="a1bde-123">EasyRepro is the tool Microsoft provides.</span></span>
+  - content: <span data-ttu-id="a1bde-124">Když někdo nezávisle testuje úlohu kontrolou očekávání proti provedené práci, jak se tento test označuje?</span><span class="sxs-lookup"><span data-stu-id="a1bde-124">When someone independently tests a task by reviewing the expectation against the work performed, what is this referred to as?</span></span>
+    choices:
+    - content: <span data-ttu-id="a1bde-125">Přijetí uživateli</span><span class="sxs-lookup"><span data-stu-id="a1bde-125">User acceptance</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-126">Říká se mu kontrola kvality.</span><span class="sxs-lookup"><span data-stu-id="a1bde-126">This is referred to as quality assurance.</span></span>
+    - content: <span data-ttu-id="a1bde-127">Kontrola kvality</span><span class="sxs-lookup"><span data-stu-id="a1bde-127">Quality assurance</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="a1bde-128">Říká se mu kontrola kvality.</span><span class="sxs-lookup"><span data-stu-id="a1bde-128">This is referred to as quality assurance.</span></span>
+    - content: <span data-ttu-id="a1bde-129">Výkon</span><span class="sxs-lookup"><span data-stu-id="a1bde-129">Performance</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-130">Říká se mu kontrola kvality.</span><span class="sxs-lookup"><span data-stu-id="a1bde-130">This is referred to as quality assurance.</span></span>
+    - content: <span data-ttu-id="a1bde-131">Integrace</span><span class="sxs-lookup"><span data-stu-id="a1bde-131">Integration</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-132">Říká se mu kontrola kvality.</span><span class="sxs-lookup"><span data-stu-id="a1bde-132">This is referred to as quality assurance.</span></span>
+  - content: <span data-ttu-id="a1bde-133">Je potřeba optimalizovat zobrazení rychlého vyhledávání.</span><span class="sxs-lookup"><span data-stu-id="a1bde-133">You need to optimize the quick search view.</span></span> <span data-ttu-id="a1bde-134">Co byste měli dělat?</span><span class="sxs-lookup"><span data-stu-id="a1bde-134">What should you do?</span></span>
+    choices:
+    - content: <span data-ttu-id="a1bde-135">Vyloučit pole testu</span><span class="sxs-lookup"><span data-stu-id="a1bde-135">Exclude test fields</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-136">Měli byste zahrnout jenom sloupce, které potřebujete prohledat.</span><span class="sxs-lookup"><span data-stu-id="a1bde-136">You should only include columns that need to be searched.</span></span>
+    - content: <span data-ttu-id="a1bde-137">Zahrnout všechny sloupce, které jsou k dispozici</span><span class="sxs-lookup"><span data-stu-id="a1bde-137">Include all columns available</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-138">Měli byste zahrnout jenom sloupce, které potřebujete prohledat.</span><span class="sxs-lookup"><span data-stu-id="a1bde-138">You should only include columns that need to be searched.</span></span>
+    - content: <span data-ttu-id="a1bde-139">Vyloučit data z jiných prostředí</span><span class="sxs-lookup"><span data-stu-id="a1bde-139">Exclude data from other environments</span></span>
+      isCorrect: false
+      explanation: <span data-ttu-id="a1bde-140">Měli byste zahrnout jenom sloupce, které potřebujete prohledat.</span><span class="sxs-lookup"><span data-stu-id="a1bde-140">You should only include columns that need to be searched.</span></span>
+    - content: <span data-ttu-id="a1bde-141">Zahrnout jenom sloupce, které je třeba prohledat</span><span class="sxs-lookup"><span data-stu-id="a1bde-141">Only include columns that need to be searched</span></span>
+      isCorrect: true
+      explanation: <span data-ttu-id="a1bde-142">Měli byste zahrnout jenom sloupce, které potřebujete prohledat.</span><span class="sxs-lookup"><span data-stu-id="a1bde-142">You should only include columns that need to be searched.</span></span>

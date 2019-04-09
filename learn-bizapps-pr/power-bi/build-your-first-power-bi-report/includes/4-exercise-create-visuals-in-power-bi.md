@@ -1,0 +1,103 @@
+---
+ms.openlocfilehash: d9835897adb4ec5cf1590a81c0811d69c8aa7551
+ms.sourcegitcommit: cc419b18821783e2dffd74123baf355c1ef97243
+ms.translationtype: HT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "57806213"
+---
+<span data-ttu-id="67885-101">V předchozí lekci jsme propojili dva samostatné zdroje dat a pak jsme je libovolně upravili a zkombinovali.</span><span class="sxs-lookup"><span data-stu-id="67885-101">In the previous unit, we connected two separate data sources, and then shaped and combined those data sources as we wanted.</span></span> <span data-ttu-id="67885-102">To znamená, že teď máme **datový model**, který můžeme použít jako základ pro vytváření sestav.</span><span class="sxs-lookup"><span data-stu-id="67885-102">As a result, we now have a **data model** that we can use as a basis for creating reports.</span></span> 
+
+<span data-ttu-id="67885-103">Neznamená to ale, že bychom u tohoto datového modelu museli zůstat napořád.</span><span class="sxs-lookup"><span data-stu-id="67885-103">That doesn't mean we're stuck with that data model forever.</span></span> <span data-ttu-id="67885-104">Další změny se dají v editoru Power Query udělat po načtení modelu, který můžete znovu načíst, aby se uplatnily provedené změny.</span><span class="sxs-lookup"><span data-stu-id="67885-104">Additional changes can be made in Power Query Editor after the model is loaded, and you can reload a model to apply any changes you make.</span></span> <span data-ttu-id="67885-105">Ale prozatím nám tento model bude stačit.</span><span class="sxs-lookup"><span data-stu-id="67885-105">But for now, this model will do just fine.</span></span> 
+
+<span data-ttu-id="67885-106">S vytvářením sestav na základě tohoto datového modelu, který jsme si vytvořili, začneme tak, že v Microsoft Power BI Desktopu přejdeme do zobrazení **Sestava**.</span><span class="sxs-lookup"><span data-stu-id="67885-106">To get started creating a report with the data model we created, open the **Report** view in Microsoft Power BI Desktop.</span></span>
+
+<span data-ttu-id="67885-107">Zobrazení **Sestava** má pět hlavních oblastí:</span><span class="sxs-lookup"><span data-stu-id="67885-107">The **Report** view has five main areas:</span></span>
+
+1. <span data-ttu-id="67885-108">Pás karet, kde se zobrazují běžné úlohy spojené se sestavami a vizualizacemi</span><span class="sxs-lookup"><span data-stu-id="67885-108">The ribbon, which shows common tasks associated with reports and visualizations</span></span>
+2. <span data-ttu-id="67885-109">Zobrazení **Sestava** nebo plátno, kde se vytvářejí a uspořádávají vizualizace</span><span class="sxs-lookup"><span data-stu-id="67885-109">The **Report** view, or canvas, where visualizations are created and arranged</span></span>
+3. <span data-ttu-id="67885-110">Oblast karty **Stránky** v dolní části, kde se dá vybrat nebo přidat stránka sestavy</span><span class="sxs-lookup"><span data-stu-id="67885-110">The **Pages** tab area along the bottom, which lets you select or add report pages</span></span>
+4. <span data-ttu-id="67885-111">Podokno **Vizualizace**, ve kterém můžete měnit vizualizace, přizpůsobovat barvy nebo osy, používat filtry, přetahovat pole atd.</span><span class="sxs-lookup"><span data-stu-id="67885-111">The **Visualizations** pane, where you can change visualizations, customize colors or axes, apply filters, drag fields, and more</span></span>
+5. <span data-ttu-id="67885-112">Podokno **Pole**, ve kterém se filtry nebo elementy dotazu dají přetáhnout do zobrazení **Sestava** nebo do oblasti **Filtry** v podokně **Vizualizace**</span><span class="sxs-lookup"><span data-stu-id="67885-112">The **Fields** pane, from which query elements and filters can be dragged either onto the **Report** view or into the **Filters** area of the **Visualizations** pane</span></span>
+
+![Oblasti zobrazení sestavy](../media/pbid-visuals_01.png)
+
+<span data-ttu-id="67885-114">Podokna **Vizualizace** a **Pole** se dají pomocí malé šipky na okraji sbalit tak, aby pro zobrazení **Sestava** zůstalo víc místa pro sestavení působivých vizualizací.</span><span class="sxs-lookup"><span data-stu-id="67885-114">The **Visualizations** and **Fields** pane can be collapsed by selecting the small arrow along the edge, providing more space in the **Report** view to build cool visualizations.</span></span>
+
+![Sbalení podoken](../media/pbid-visuals_02.png)
+
+## <a name="create-visuals"></a><span data-ttu-id="67885-116">Vytváření vizuálů</span><span class="sxs-lookup"><span data-stu-id="67885-116">Create visuals</span></span>
+<span data-ttu-id="67885-117">Pokud chcete vytvořit vizualizaci, stačí přetáhnout pole ze seznamu **Pole** do zobrazení **Sestava**.</span><span class="sxs-lookup"><span data-stu-id="67885-117">To create a visualization, just drag a field from the **Fields** list onto the **Report** view.</span></span> <span data-ttu-id="67885-118">V tomto případě přetáhneme pole **State** (Stát) z **RetirementStats** a uvidíme, co se stane.</span><span class="sxs-lookup"><span data-stu-id="67885-118">In this case, let's drag the **State** field from **RetirementStats** and see what happens.</span></span>
+
+![Přetažení pole na plátno](../media/pbid-visuals_03a.png)
+
+<span data-ttu-id="67885-120">Podívejme: Power BI Desktop automaticky vytvořil vizualizaci mapy, protože rozpoznal, že pole **State** (Stát) obsahuje data o geografické poloze.</span><span class="sxs-lookup"><span data-stu-id="67885-120">Look at that: Power BI Desktop automatically created a map-based visualization, because it recognized that the **State** field has geolocation data.</span></span>
+
+![Vizuál mapy](../media/pbid-visuals_03.png)
+
+<span data-ttu-id="67885-122">Všimněte si, že v podokně **Vizualizace** můžete vybrat různé typy vizualizací.</span><span class="sxs-lookup"><span data-stu-id="67885-122">Notice that you can select different types of visualizations in the **Visualizations** pane.</span></span> <span data-ttu-id="67885-123">Potom můžete v oblasti pod těmito ikonami přetáhnout pole do různých oblastí a použít tak legendu nebo měnit vizualizace jinými způsoby.</span><span class="sxs-lookup"><span data-stu-id="67885-123">Then, in the area below those icons, you can drag fields to different areas to apply a legend or change the visualization in other ways.</span></span> 
+
+![První vizuál](../media/pbid-visuals_04.png)
+
+<span data-ttu-id="67885-125">Teď na této první stránce sestavy vytvoříme pár vizuálů a uvidíme, co se stane.</span><span class="sxs-lookup"><span data-stu-id="67885-125">Let's create a few visuals on this first report page and see what happens.</span></span>
+
+<span data-ttu-id="67885-126">Typ libovolného vizuálu se dá změnit jednoduše tak, že se vybere na plátně a v podokně **Vizualizace** se klikne na jinou dlaždici.</span><span class="sxs-lookup"><span data-stu-id="67885-126">You can change the type of any visual by selecting it on the canvas and then selecting a different tile in the **Visualizations** pane.</span></span> <span data-ttu-id="67885-127">Pojďme to tedy udělat.</span><span class="sxs-lookup"><span data-stu-id="67885-127">Let's do that.</span></span> <span data-ttu-id="67885-128">Místo dlaždice **Mapa** (dlaždice s ikonou glóbusu) vybereme **Kartogram** (další dlaždice, která vypadá jako různobarevná mapa).</span><span class="sxs-lookup"><span data-stu-id="67885-128">Instead of **Map** (the tile with a globe icon), select **Filled Map** (the next tile, which looks like states in different colors).</span></span>
+
+<span data-ttu-id="67885-129">**První vizuál**</span><span class="sxs-lookup"><span data-stu-id="67885-129">**First visual**</span></span>
+
+<span data-ttu-id="67885-130">V podokně **Vizualizace** vyberte kartu **Formát** (vypadá jako malířský váleček), rozbalte **Barva dat** a vyberte možnost **Pokročilé ovládací prvky**.</span><span class="sxs-lookup"><span data-stu-id="67885-130">In the **Visualizations** pane, select the **Format** tab (looks like a paint roller), and then expand **Data color**, and select the **Advanced controls** option.</span></span>
+
+![Úprava prvního vizuálu](../media/pbid-visuals_04b.png)
+
+<span data-ttu-id="67885-132">V části **Na základě pole** rozbalte tabulku *RetirementStates* a vyberte **Overall rank** (Celkové pořadí).</span><span class="sxs-lookup"><span data-stu-id="67885-132">In the **Based on field** section, expand the *RetirementStates table* and select **Overall rank**.</span></span> <span data-ttu-id="67885-133">Uložte změny kliknutím na **OK**.</span><span class="sxs-lookup"><span data-stu-id="67885-133">Save changes by clicking **OK**.</span></span>
+
+![Změna barev dat](../media/pbid-visuals_04c.png)
+
+<span data-ttu-id="67885-135">Pokud chcete upravit barvy použité v mapě, vyberte požadovanou barvu v polích **Minimum** a **Maximum**.</span><span class="sxs-lookup"><span data-stu-id="67885-135">To adjust the colors used in the map, select the desired color in the **Minimum** and **Maximum** fields.</span></span> 
+
+<span data-ttu-id="67885-136">Velikost vizuálu můžete změnit tak, že přetáhnete jeho rohy nebo strany.</span><span class="sxs-lookup"><span data-stu-id="67885-136">You can adjust the size of a visual by dragging its corners or sides.</span></span> <span data-ttu-id="67885-137">Pojďme tento vizuál před vytvořením dalšího vizuálu přesunout.</span><span class="sxs-lookup"><span data-stu-id="67885-137">Let's move this visual to the upper left before creating the next visual.</span></span>
+
+<span data-ttu-id="67885-138">Vyberte libovolné prázdné místo na plátně, aby nebyl vybrán žádný vizuál.</span><span class="sxs-lookup"><span data-stu-id="67885-138">Select any blank area of the canvas, so that no visual is selected.</span></span> <span data-ttu-id="67885-139">Teď můžete začít přetahovat pole a vytvořit další vizuál.</span><span class="sxs-lookup"><span data-stu-id="67885-139">You're now ready to drag fields and create the next visual.</span></span>
+
+<span data-ttu-id="67885-140">**Druhý vizuál**</span><span class="sxs-lookup"><span data-stu-id="67885-140">**Second visual**</span></span>
+
+<span data-ttu-id="67885-141">Přetáhněte pole **State** (Stát) z **RetirementStats** do prázdné oblasti plátna.</span><span class="sxs-lookup"><span data-stu-id="67885-141">Drag **State** from **RetirementStats** onto a blank area of the canvas.</span></span> <span data-ttu-id="67885-142">Potom na stejný vizuál přetáhněte pole **Overall rank** (Celkové pořadí), **Health care quality** (Kvalita zdravotnické péče) a **Well-being** (Blahobyt).</span><span class="sxs-lookup"><span data-stu-id="67885-142">Then drag the **Overall rank** field, then the **Health care quality** field, and then the **Well-being** field onto that visual.</span></span> <span data-ttu-id="67885-143">Teď vybráním příslušné dlaždice v podokně **Vizualizace** změníme tento vizuál na **spojnicový a skupinový sloupcový graf**.</span><span class="sxs-lookup"><span data-stu-id="67885-143">Now let's change the visual to a **Line and clustered column chart** visual by selecting the appropriate tile in the **Visualizations** pane.</span></span>
+
+<span data-ttu-id="67885-144">Už jste téměř hotovi.</span><span class="sxs-lookup"><span data-stu-id="67885-144">We're almost done.</span></span> <span data-ttu-id="67885-145">Na kartě **Pole** přetáhněte pole **Well-being** (Blahobyt) na kontejner **Hodnoty řádků**.</span><span class="sxs-lookup"><span data-stu-id="67885-145">On the **Fields** tab, move the **Well-being** field to the **Line values** well.</span></span> <span data-ttu-id="67885-146">Následující obrázek ukazuje, jak by teď měl vizuál vypadat.</span><span class="sxs-lookup"><span data-stu-id="67885-146">The following image shows what your visual should now look like.</span></span> <span data-ttu-id="67885-147">Všimněte si, že se pořadí polí v jednotlivých kbelících změní způsob zobrazení vizuálu.</span><span class="sxs-lookup"><span data-stu-id="67885-147">Note that the order of the fields in each bucket will change how a visual appears.</span></span> <span data-ttu-id="67885-148">Jak je například znázorněno na následujícím obrázku, **Health care quality** (Kvalita zdravotnické péče) je nad položkou **Overall rank** (Celkové pořadí) v kbelíku **Hodnoty sloupců**.</span><span class="sxs-lookup"><span data-stu-id="67885-148">For example, **Health care quality** is above **Overall rank** in the **Column values** bucket, shown in the following image.</span></span> 
+
+![Dokončený vizuál](../media/pbid-visuals_04d.png)
+
+<span data-ttu-id="67885-150">Můžete s těmito vizuály experimentovat, jak se vám zachce – měnit typ vizuálu, přidávat pole, měnit barvy a měnit uspořádání vizuálu na plátně.</span><span class="sxs-lookup"><span data-stu-id="67885-150">You can experiment with these visuals as much as you want: change the visual type, add fields, change the colors, or arrange the visual on the canvas.</span></span> <span data-ttu-id="67885-151">Provádění těchto změn je zábavné, snadno se vrátí zpět a rychle se projeví.</span><span class="sxs-lookup"><span data-stu-id="67885-151">All these changes are fun to do, easy to undo, and quick to take effect.</span></span>
+
+<span data-ttu-id="67885-152">Teď se posuneme o něco dopředu a podíváme se, jak zobrazení **Sestava** vypadá po přidání několika dalších vizualizací a nových stránek sestavy.</span><span class="sxs-lookup"><span data-stu-id="67885-152">Let's fast-forward a bit and see what the **Report** view looks like after a handful of visualizations and a few report pages have been added.</span></span> <span data-ttu-id="67885-153">Nedělejte si starosti, můžete si tuto sestavu prohlédnout jako první.</span><span class="sxs-lookup"><span data-stu-id="67885-153">Don't worry: you can see this report first-hand.</span></span> <span data-ttu-id="67885-154">Souhrnná jednotka pro tento modul obsahuje odkaz ke stažení finálního souboru .pbix.</span><span class="sxs-lookup"><span data-stu-id="67885-154">The summary unit for this module includes a link to download the final .pbix file.</span></span> <span data-ttu-id="67885-155">Můžete načíst sestavu do vaší místní verze Power BI Desktopu a zjistit, jak se to povedlo.</span><span class="sxs-lookup"><span data-stu-id="67885-155">You can then load the report into your local version of Power BI Desktop and see exactly how things came together.</span></span> 
+
+<span data-ttu-id="67885-156">První stránka sestavy poskytuje náhled na data na základě *celkového pořadí*.</span><span class="sxs-lookup"><span data-stu-id="67885-156">The first report page provides a perspective of the data that's based on *overall rank*.</span></span> <span data-ttu-id="67885-157">Když vyberete jednu z vizualizací, ukazuje podokno **Pole a filtry**, která pole jsou vybraná, a také strukturu příslušné vizualizace (která pole se použijí pro nastavení **Sdílená osa**, **Hodnoty sloupců** a **Hodnoty řádků**).</span><span class="sxs-lookup"><span data-stu-id="67885-157">When you select one of the visualizations, the **Fields and Filters** pane shows which fields are selected and the structure of the visualization (that is, which fields are applied to **Shared Axis**, **Column Values**, and **Line Values**).</span></span>
+
+![Připravená stránka sestavy](../media/pbid-visuals_05.png)
+
+<span data-ttu-id="67885-159">Tato sestava obsahuje šest **stránek**, z nichž každá vizualizuje konkrétní elementy vašich dat:</span><span class="sxs-lookup"><span data-stu-id="67885-159">There are six **pages** in this report, each visualizing specific elements of our data:</span></span>
+
+1. <span data-ttu-id="67885-160">První stránka, kterou vidíte na předchozím obrázku, zobrazuje všechny státy na základě *celkového pořadí*.</span><span class="sxs-lookup"><span data-stu-id="67885-160">The first page, shown in the preceding image, shows all states, based on *overall rank*.</span></span>
+2. <span data-ttu-id="67885-161">Druhá stránka se soustředí na prvních deset států na základě *celkového pořadí*.</span><span class="sxs-lookup"><span data-stu-id="67885-161">The second page shows on the top 10 states, based on *overall rank*.</span></span>
+3. <span data-ttu-id="67885-162">Třetí stránka zobrazuje 10 nejlepších států z hlediska životních nákladů (a přidružených dat).</span><span class="sxs-lookup"><span data-stu-id="67885-162">The third page shows the top 10 states for cost of living (and associated data).</span></span>
+4. <span data-ttu-id="67885-163">Čtvrtá stránka se zaměřuje na počasí a je na ní vyfiltrováno 15 nejslunnějších států.</span><span class="sxs-lookup"><span data-stu-id="67885-163">The fourth page focuses on weather and is filtered to show the 15 sunniest states.</span></span>
+5. <span data-ttu-id="67885-164">Na páté stránce se zobrazí nejlepších 15 států z hlediska blahobytu občanů.</span><span class="sxs-lookup"><span data-stu-id="67885-164">The fifth page shows the top 15 states for community well-being.</span></span>
+6. <span data-ttu-id="67885-165">Šestá stránka se zaměřuje na statistiku kriminality – zobrazuje 10 nejlepších a 10 nejhorších států.</span><span class="sxs-lookup"><span data-stu-id="67885-165">The sixth page focuses on crime statistics, showing the 10 best and 10 worst states.</span></span>
+
+<span data-ttu-id="67885-166">Takhle vypadá stránka, která se zaměřuje na životní náklady.</span><span class="sxs-lookup"><span data-stu-id="67885-166">Here's what the page that focuses on cost of living looks like.</span></span>
+
+![Dokončená sestava](../media/pbid-visuals_06.png)
+
+<span data-ttu-id="67885-168">Vytvořit můžete celou řadu zajímavých sestav a vizualizací.</span><span class="sxs-lookup"><span data-stu-id="67885-168">There are all sorts of interesting reports and visualizations you can create.</span></span> <span data-ttu-id="67885-169">Ale nejlepší na vytváření sestav je možnost sdílet je s ostatními.</span><span class="sxs-lookup"><span data-stu-id="67885-169">But what's best about creating reports is sharing them with others.</span></span> <span data-ttu-id="67885-170">V další jednotce uvidíte, jak snadné je sdílet sestavy Power BI.</span><span class="sxs-lookup"><span data-stu-id="67885-170">In the next unit, we'll see just how easy it is to share Power BI reports.</span></span>
+
+## <a name="adding-report-pages"></a><span data-ttu-id="67885-171">Přidání stránek sestavy</span><span class="sxs-lookup"><span data-stu-id="67885-171">Adding report pages</span></span>
+
+<span data-ttu-id="67885-172">Všechny sestavy mají pro začátek nejméně jednu prázdnou stránku.</span><span class="sxs-lookup"><span data-stu-id="67885-172">All reports have at least one blank page to begin with.</span></span> <span data-ttu-id="67885-173">Stránky se v podokně navigace zobrazují nalevo od plátna.</span><span class="sxs-lookup"><span data-stu-id="67885-173">Pages appear in the navigation pane just to the left of the canvas.</span></span> 
+
+<span data-ttu-id="67885-174">Na stránky se dají přidat nejrůznější vizualizace, ale důležité je to nepřehnat.</span><span class="sxs-lookup"><span data-stu-id="67885-174">You can add all sorts of visualizations to a page, but it's important not to overdo it.</span></span> <span data-ttu-id="67885-175">Příliš mnoho vizualizací na stránce může vypadat nepřehledně a může potom být těžké najít požadované informace.</span><span class="sxs-lookup"><span data-stu-id="67885-175">Too many visualizations on a page will make it look busy and will also make the correct information difficult to find.</span></span>
+
+<span data-ttu-id="67885-176">Pokud si chcete do sestavy přidat stránku, stačí vybrat kartu **Nová stránka** na pásu karet nebo vybrat tlačítko plus (**+**) vedle poslední stránky sestavy.</span><span class="sxs-lookup"><span data-stu-id="67885-176">To add a page to your report, just select **New Page** on the ribbon, or select the plus sign (**+**) next to the last report page.</span></span>
+
+![Přidání stránky sestavy](../media/pbid-visuals_09.png)
+
+<span data-ttu-id="67885-178">Tak a máte sestavu, i když obsahuje jenom pár vizuálů.</span><span class="sxs-lookup"><span data-stu-id="67885-178">Okay, even with just a couple of visuals, you have a report.</span></span> <span data-ttu-id="67885-179">Přejdeme k další lekci a ukážeme si, jak tyto přehledné sestavy můžeme sdílet s ostatními.</span><span class="sxs-lookup"><span data-stu-id="67885-179">Let's move on to the next unit and learn how we can share these insight-filled reports with others.</span></span>

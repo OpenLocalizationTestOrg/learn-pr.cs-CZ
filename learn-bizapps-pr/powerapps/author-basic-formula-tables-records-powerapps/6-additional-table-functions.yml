@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.tables-and-records.6-additional-table-functions
+title: <span data-ttu-id="247d1-101">Další tabulkové funkce</span><span class="sxs-lookup"><span data-stu-id="247d1-101">Additional table functions</span></span>
+metadata:
+  title: <span data-ttu-id="247d1-102">Další tabulkové funkce</span><span class="sxs-lookup"><span data-stu-id="247d1-102">Additional table functions</span></span>
+  description: <span data-ttu-id="247d1-103">Další zajímavé tabulkové funkce</span><span class="sxs-lookup"><span data-stu-id="247d1-103">Additional table functions of interest</span></span>
+  ms.date: 03/19/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 7523a92d2fba64697330c05dff506e5139461620
+  ms.sourcegitcommit: e17cc64775307fcf15cef8e0181fdb046ccd227f
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/20/2019
+  ms.locfileid: "58265888"
+durationInMinutes: 7
+content: '[!include[](includes/6-additional-table-functions.md)]'

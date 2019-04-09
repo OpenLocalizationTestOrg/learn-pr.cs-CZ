@@ -1,0 +1,46 @@
+---
+ms.openlocfilehash: 380b96cc79d983b1d3afc3a790f398a7df028719
+ms.sourcegitcommit: 41394f9bd523e4d8fe7d7441b1a277791806d041
+ms.translationtype: HT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "57697225"
+---
+<span data-ttu-id="a0dbd-101">Pojďme si rychle zopakovat, co jste se v tomto modulu dozvěděli.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-101">Let's do a quick review of what we covered in this module.</span></span>
+
+<span data-ttu-id="a0dbd-102">**Microsoft Power BI** je kolekce softwarových služeb, aplikací a konektorů, které spolupracují, aby přeměnily vaše data na interaktivní přehledy.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-102">**Microsoft Power BI** is a collection of software services, apps, and connectors that work together to turn your data into interactive insights.</span></span> <span data-ttu-id="a0dbd-103">Můžete použít data z jednotlivých základních zdrojů, jako je například sešit Microsoft Excelu, nebo načítat data z několika databází a cloudových zdrojů, abyste vytvořili komplexní datové sady a sestavy.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-103">You can use data from single basic sources, like a Microsoft Excel workbook, or pull in data from multiple databases and cloud sources to create complex datasets and reports.</span></span> <span data-ttu-id="a0dbd-104">Řešení Power BI může být tak jednoduché, jak chcete, nebo tak připravené pro velké organizace, jak to složité globální podnikání vyžaduje.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-104">Power BI can be as straightforward as you want or as enterprise-ready as your complex global business requires.</span></span>
+
+<span data-ttu-id="a0dbd-105">Power BI tvoří tři hlavní prvky – **Power BI Desktop**, **služba Power BI** a **Power BI Mobile**, které spolupracují, abyste mohli vytvářet, zpracovávat, sdílet a využívat data, jak potřebujete.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-105">Power BI consists of three main elements—**Power BI Desktop**, the **Power BI service**, and **Power BI Mobile**—which work together to let you create, interact with, share, and consume your data the way you want.</span></span>
+
+![Cyklus použití Power BI](../media/pbi-intro_02.png)
+
+<span data-ttu-id="a0dbd-107">Také jsme probírali základní stavební bloky v Power BI:</span><span class="sxs-lookup"><span data-stu-id="a0dbd-107">We also discussed the basic building blocks in Power BI:</span></span>
+
+* <span data-ttu-id="a0dbd-108">**Vizualizace** – vizuální znázornění dat, kterým se také říká vizuály</span><span class="sxs-lookup"><span data-stu-id="a0dbd-108">**Visualizations** – A visual representation of data, sometimes just called visuals</span></span>
+* <span data-ttu-id="a0dbd-109">**Datové sady** – kolekce dat, které Power BI používá k vytváření vizualizací</span><span class="sxs-lookup"><span data-stu-id="a0dbd-109">**Datasets** – A collection of data that Power BI uses to create visualizations</span></span>
+* <span data-ttu-id="a0dbd-110">**Sestavy** – kolekce vizuálů z datové sady, které pokrývají jednu nebo více stránek</span><span class="sxs-lookup"><span data-stu-id="a0dbd-110">**Reports** – A collection of visuals from a dataset, spanning one or more pages</span></span>
+* <span data-ttu-id="a0dbd-111">**Řídicí panely** – jednostránková kolekce vizuálů, která je vytvořená ze sestavy</span><span class="sxs-lookup"><span data-stu-id="a0dbd-111">**Dashboards** – A single-page collection of visuals built from a report</span></span>
+* <span data-ttu-id="a0dbd-112">**Dlaždice** – jedna vizualizace nacházející se v sestavě nebo řídicím panelu</span><span class="sxs-lookup"><span data-stu-id="a0dbd-112">**Tiles** – A single visualization on a report or dashboard</span></span>
+
+<span data-ttu-id="a0dbd-113">Ve **službě Power BI** jsme nainstalovali **aplikaci** jen několika málo kliknutími.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-113">In the **Power BI service**, we installed an **app** in just a few clicks.</span></span> <span data-ttu-id="a0dbd-114">Tato **aplikace** – předem připravená kolekce vizuálů a sestav – umožňuje snadno se připojit k **softwarové službě**, aby se aplikace naplnila a data oživila.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-114">That **app**, a ready-made collection of visuals and reports, let us easily connect to a **software service** to populate the app and bring that data to life.</span></span>
+
+<span data-ttu-id="a0dbd-115">Nakonec jsme sestavili **plán aktualizace** pro naše data, abychom měli jistotu, že když se ke službě Power BI vrátíme, budou data aktuální.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-115">Finally, we set up a **refresh schedule** for our data, so that we know the data will be fresh when we go back to the Power BI service.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="a0dbd-116">Další kroky</span><span class="sxs-lookup"><span data-stu-id="a0dbd-116">Next steps</span></span>
+<span data-ttu-id="a0dbd-117">**Blahopřejeme!**</span><span class="sxs-lookup"><span data-stu-id="a0dbd-117">**Congratulations!**</span></span> <span data-ttu-id="a0dbd-118">Dokončili jste první modul **studijního programu** pro Power BI.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-118">You've finished the first module of the **learning path** for Power BI.</span></span> <span data-ttu-id="a0dbd-119">Teď máte pevné základy znalostí a můžete přejít k dalšímu modulu, který vás provede kroky k vytvoření první sestavy.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-119">You now have a firm foundation of knowledge for when you move on to the next module, which walks through the steps to create your first report.</span></span> 
+
+<span data-ttu-id="a0dbd-120">Už jsme to zmínili, ale je to lepší zopakovat: V tomto studijním programu se utvářejí vaše znalosti sledováním obecného postupu práce v Power BI:</span><span class="sxs-lookup"><span data-stu-id="a0dbd-120">We mentioned this before, but it's worth restating: this learning path builds your knowledge by following the common flow of work in Power BI:</span></span>
+
+* <span data-ttu-id="a0dbd-121">Přenesení dat do **Power BI Desktopu** a vytvoření sestavy</span><span class="sxs-lookup"><span data-stu-id="a0dbd-121">Bring data into **Power BI Desktop**, and create a report.</span></span>
+* <span data-ttu-id="a0dbd-122">**Publikování** do služby Power BI, kde se vytvářejí nové vizualizace nebo sestavují řídicí panely</span><span class="sxs-lookup"><span data-stu-id="a0dbd-122">**Publish** to the Power BI service, where you create new visualizations or build dashboards.</span></span>
+* <span data-ttu-id="a0dbd-123">**Sdílení** řídicích panelů s ostatními uživateli, zejména s těmi, kteří jsou na cestách</span><span class="sxs-lookup"><span data-stu-id="a0dbd-123">**Share** your dashboards with others, especially people who are on the go.</span></span>
+* <span data-ttu-id="a0dbd-124">Zobrazení a interakce se sdílenými řídicími panely a sestavami v aplikacích **Power BI Mobile**</span><span class="sxs-lookup"><span data-stu-id="a0dbd-124">View and interact with shared dashboards and reports in **Power BI Mobile** apps.</span></span>
+
+![Cyklus použití Power BI](../media/pbi-using_01.png)
+
+<span data-ttu-id="a0dbd-126">Nemusíte dělat všechno sami – někteří uživatelé budou pouze prohlížet řídicí panely, které vytvořil někdo jiný, a budou pouze využívat službu.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-126">You might not do all that work yourself—some people will only view dashboards that were created by someone else, and they'll just use the service.</span></span> <span data-ttu-id="a0dbd-127">To je v pořádku a brzy budeme mít speciální modul, ve kterém si ukážeme, jak lze snadno procházet **službu Power BI** a používat ji k zobrazování sestav a aplikací a také k práci s nimi.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-127">That's fine, and we'll soon have a module dedicated to showing how you can easily navigate and use the **Power BI service** to view and interact with reports and apps.</span></span>
+
+<span data-ttu-id="a0dbd-128">Následující modul je ale věnovaný postupu práce v Power BI a ukážeme si v něm, jak vytvořit sestavu a tuto sestavu publikovat ve službě Power BI.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-128">But the next module follows the flow of work in Power BI, showing you how to create a report and publish it to the Power BI service.</span></span> <span data-ttu-id="a0dbd-129">Dozvíte se, jak se tyto sestavy a řídicí panely vytvářejí a jak se propojují s daty.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-129">You'll learn how those reports and dashboards are created and how they connected to the data.</span></span> <span data-ttu-id="a0dbd-130">Můžete si dokonce vytvořit vlastní sestavu nebo řídicí panel.</span><span class="sxs-lookup"><span data-stu-id="a0dbd-130">You might even decide to create a report or dashboard of your own.</span></span>
+
+<span data-ttu-id="a0dbd-131">Na shledanou v dalším modulu!</span><span class="sxs-lookup"><span data-stu-id="a0dbd-131">See you in the next module!</span></span>
+
